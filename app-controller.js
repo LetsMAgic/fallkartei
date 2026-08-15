@@ -1988,35 +1988,43 @@ function bindStaticEvents() {
   $('confirmCancel').addEventListener('click',()=>{closeDialog('confirmDialog');confirmResolver?.(false);confirmResolver=null;}); $('confirmAccept').addEventListener('click',()=>{closeDialog('confirmDialog');confirmResolver?.(true);confirmResolver=null;}); $('confirmDialog').addEventListener('cancel',(event)=>{event.preventDefault();closeDialog('confirmDialog');confirmResolver?.(false);confirmResolver=null;}); $('applyUpdate').addEventListener('click',applyPendingUpdate);
 }
 function syncAppViewportHeight() {
-  const standalone=
-    window.matchMedia?.('(display-mode: standalone)')?.matches
-    || window.navigator.standalone===true;
+  const ua = navigator.userAgent || '';
+  const isIOS = /iPad|iPhone|iPod/.test(ua) ||
+    (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  const isIOSStandalone =
+    window.navigator.standalone === true ||
+    (isIOS && Boolean(window.matchMedia?.('(display-mode: standalone)')?.matches));
 
   // In iOS-Standalone kann 100dvh kleiner als die tatsächlich gerenderte
-  // Screenshot-/Screen-Fläche sein. screen.height liefert dort die volle
+  // Edge-to-Edge-Fläche sein. screen.height liefert dort die volle
   // CSS-Bildschirmhöhe inklusive der Edge-to-Edge-Fläche.
-  const screenHeight=Number(window.screen?.height)||0;
-  const innerHeight=Number(window.innerHeight)||0;
-  const height=standalone&&screenHeight>innerHeight
-    ?screenHeight
-    :innerHeight||screenHeight;
+  // Auf Android und im regulären Browser ist window.innerHeight maßgeblich,
+  // da screen.height dort die Android-Systemleisten (Status- und Gestenleiste)
+  // mitzählt und die App-Shell sonst über den sichtbaren Viewport hinaus nach unten
+  // verschoben wird (wodurch die Bottom-Navigation abgeschnitten/unsichtbar wird).
+  const screenHeight = Number(window.screen?.height) || 0;
+  const innerHeight = Number(window.innerHeight) || 0;
+  const height = isIOSStandalone && screenHeight > innerHeight
+    ? screenHeight
+    : (innerHeight || screenHeight);
 
-  if(height>0){
-    document.documentElement.style.setProperty('--fallkartei-app-height',`${Math.round(height)}px`);
+  if (height > 0) {
+    document.documentElement.style.setProperty('--fallkartei-app-height', `${Math.round(height)}px`);
   }
 }
 function setupAppViewportHeight() {
   syncAppViewportHeight();
-  let timer=null;
-  const schedule=()=>{
+  let timer = null;
+  const schedule = () => {
     clearTimeout(timer);
-    timer=setTimeout(syncAppViewportHeight,80);
+    timer = setTimeout(syncAppViewportHeight, 80);
   };
-  window.addEventListener('resize',schedule,{passive:true});
-  window.addEventListener('orientationchange',schedule,{passive:true});
-  document.addEventListener('visibilitychange',()=>{
-    if(document.visibilityState==='visible') schedule();
+  window.addEventListener('resize', schedule, { passive: true });
+  window.addEventListener('orientationchange', schedule, { passive: true });
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') schedule();
   });
+  window.matchMedia?.('(display-mode: standalone)')?.addEventListener?.('change', schedule);
 }
 const UPDATE_RELOAD_GUARD_KEY='fallkartei_update_reload_guard_v1';
 const UPDATE_CHECK_KEY='fallkartei_update_check_v1';

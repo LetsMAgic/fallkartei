@@ -1,4 +1,4 @@
-const CACHE_NAME = 'fallkartei-1.5.11';
+const CACHE_NAME = 'fallkartei-1.5.11-pwa1';
 const CACHE_PREFIXES = ['fallkartei-','spurzeichen-','ddf-tracker-'];
 const APP_SHELL = ['./','./index.html','./style.css','./install-guide.css','./install-guide.js','./app.js','./manifest.json','./episodes-seed.js','./episodes.json','./rocky-rankings.json','./core.js','./catalog.js','./recommendations.js','./playlists.js','./backup.js','./app-controller.js','./favicon-32.png','./icon-192.png','./icon-512.png','./icon-maskable-192.png','./icon-maskable-512.png','./apple-touch-icon.png'];
 self.addEventListener('install',(event)=>{event.waitUntil((async()=>{const cache=await caches.open(CACHE_NAME);await Promise.allSettled(APP_SHELL.map((url)=>cache.add(url)));})());});

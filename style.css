@@ -1855,11 +1855,17 @@ body:has(dialog[open]) .page.active{
 }
 
 
-/* v1.4.7 – iOS Standalone: volle physische CSS-Bildschirmhöhe
-   Die Variable wird in Standalone aus screen.height gesetzt. Im Browser
-   bleibt window.innerHeight maßgeblich. */
+/* v1.4.7 / v1.5.11 – Dynamische CSS-App-Höhe
+   Wird per JavaScript mit der exakten Viewport-Höhe synchronisiert.
+   In iOS-Standalone wird screen.height für Edge-to-Edge genutzt,
+   auf Android und im Browser window.innerHeight. */
 :root{
-  --fallkartei-app-height:100vh;
+  --fallkartei-app-height:100dvh;
+}
+@supports not (height:100dvh){
+  :root{
+    --fallkartei-app-height:100vh;
+  }
 }
 
 /* Falls iOS außerhalb seines dynamischen Web-Viewports noch Systemfläche
