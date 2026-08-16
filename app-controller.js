@@ -227,6 +227,28 @@ function setupSheetInteractions() {
     if (!handle) return;
 
     let dragType=null,dragId=null,startY=0,lastY=0,startTime=0;
+    let touchTrackId=null,touchStartX=0,touchStartY=0,touchStartAtTop=false,touchLocked='none',touchTarget=null;
+
+    const isInteractive=(target)=>Boolean(target?.closest?.('button, a, input, select, textarea, [role="button"], [contenteditable="true"]'));
+    const isDialogScrolledToTop=(target)=>{
+      let element=target instanceof Element?target:null;
+      while(element&&element!==dialog&&element!==document.body){
+        if(element.scrollTop>1) return false;
+        element=element.parentElement;
+      }
+      for(const scrollable of dialog.querySelectorAll('.dialog-body')){
+        if(scrollable.scrollTop>1) return false;
+      }
+      return true;
+    };
+    const resetTouchTracking=()=>{
+      touchTrackId=null;
+      touchStartX=0;
+      touchStartY=0;
+      touchStartAtTop=false;
+      touchLocked='none';
+      touchTarget=null;
+    };
 
     const beginDrag=(type,id,clientY)=>{
       if (!dialog.open||dragType!==null||!Number.isFinite(clientY)) return false;
@@ -270,7 +292,7 @@ function setupSheetInteractions() {
       window.setTimeout(()=>resetSheetPosition(dialog),190);
     };
 
-    /* Maus und Stift: Pointer Events */
+    /* Maus und Stift bleiben bewusst am Griff: auf Desktop kein Drag aus Inhalten. */
     handle.addEventListener('pointerdown',(event)=>{
       if (event.pointerType==='touch'||(event.pointerType==='mouse'&&event.button!==0)) return;
       if (!beginDrag('pointer',event.pointerId,event.clientY)) return;
@@ -292,34 +314,91 @@ function setupSheetInteractions() {
       if (dragType==='pointer'&&dragId===event.pointerId) finishDrag(lastY,true);
     });
 
-    /* iPhone, iPad und Android: explizite Touch Events */
-    handle.addEventListener('touchstart',(event)=>{
-      if (event.touches.length!==1) return;
+    /* Mobile: am Griff sofort ziehen; im restlichen Sheet erst nach erkannter
+       Abwärtsgeste und nur, wenn der Inhalt wirklich ganz oben steht. */
+    dialog.addEventListener('touchstart',(event)=>{
+      if(event.touches.length!==1){
+        resetTouchTracking();
+        return;
+      }
       const touch=event.touches[0];
-      if (!beginDrag('touch',touch.identifier,touch.clientY)) return;
-      event.preventDefault();
+      const target=event.target;
+
+      if(target===dialog&&isOutsideSheet(touch.clientX,touch.clientY)){
+        resetTouchTracking();
+        return;
+      }
+
+      touchTrackId=touch.identifier;
+      touchStartX=touch.clientX;
+      touchStartY=touch.clientY;
+      touchTarget=target;
+      touchLocked='none';
+      touchStartAtTop=isDialogScrolledToTop(target);
+
+      if(target?.closest?.('.dialog-handle')){
+        if(beginDrag('touch',touch.identifier,touch.clientY)&&event.cancelable) event.preventDefault();
+        return;
+      }
+
+      /* Formulare, Links und Buttons dürfen ihre native Touch-Bedienung behalten. */
+      if(isInteractive(target)) touchLocked='scroll';
     },{passive:false});
 
-    handle.addEventListener('touchmove',(event)=>{
-      if (dragType!=='touch') return;
-      const touch=Array.from(event.touches).find((item)=>item.identifier===dragId);
-      if (!touch) return;
-      moveDrag(touch.clientY);
-      event.preventDefault();
+    dialog.addEventListener('touchmove',(event)=>{
+      if(dragType==='touch'){
+        const touch=Array.from(event.touches).find((item)=>item.identifier===dragId);
+        if(!touch) return;
+        moveDrag(touch.clientY);
+        if(event.cancelable) event.preventDefault();
+        return;
+      }
+
+      if(touchTrackId===null||touchLocked==='scroll') return;
+      const touch=Array.from(event.touches).find((item)=>item.identifier===touchTrackId);
+      if(!touch) return;
+
+      const deltaX=touch.clientX-touchStartX;
+      const deltaY=touch.clientY-touchStartY;
+      const absX=Math.abs(deltaX);
+      const absY=Math.abs(deltaY);
+
+      /* Erst nach einigen Pixeln entscheiden, damit Taps unverändert bleiben. */
+      if(absX<7&&absY<7) return;
+      if(absX>absY||deltaY<=0){
+        touchLocked='scroll';
+        return;
+      }
+
+      const canDrag=touchStartAtTop&&!isInteractive(touchTarget)&&isDialogScrolledToTop(touchTarget);
+      if(!canDrag){
+        touchLocked='scroll';
+        return;
+      }
+
+      touchLocked='drag';
+      if(beginDrag('touch',touch.identifier,touchStartY)){
+        moveDrag(touch.clientY);
+        if(event.cancelable) event.preventDefault();
+      }
     },{passive:false});
 
-    handle.addEventListener('touchend',(event)=>{
-      if (dragType!=='touch') return;
-      const touch=Array.from(event.changedTouches).find((item)=>item.identifier===dragId);
-      finishDrag(touch?.clientY??lastY);
-      event.preventDefault();
+    dialog.addEventListener('touchend',(event)=>{
+      if(dragType==='touch'){
+        const touch=Array.from(event.changedTouches).find((item)=>item.identifier===dragId);
+        finishDrag(touch?.clientY??lastY);
+        if(event.cancelable) event.preventDefault();
+      }
+      resetTouchTracking();
     },{passive:false});
 
-    handle.addEventListener('touchcancel',(event)=>{
-      if (dragType!=='touch') return;
-      const touch=Array.from(event.changedTouches).find((item)=>item.identifier===dragId);
-      finishDrag(touch?.clientY??lastY,true);
-    },{passive:false});
+    dialog.addEventListener('touchcancel',(event)=>{
+      if(dragType==='touch'){
+        const touch=Array.from(event.changedTouches).find((item)=>item.identifier===dragId);
+        finishDrag(touch?.clientY??lastY,true);
+      }
+      resetTouchTracking();
+    },{passive:true});
   });
 }
 function confirmAction({title,text,accept='Bestätigen',danger=true,eyebrow='Bestätigen'}) {
@@ -1994,7 +2073,6 @@ function syncAppViewportHeight() {
   const isIOSStandalone =
     window.navigator.standalone === true ||
     (isIOS && Boolean(window.matchMedia?.('(display-mode: standalone)')?.matches));
-
   // In iOS-Standalone kann 100dvh kleiner als die tatsächlich gerenderte
   // Edge-to-Edge-Fläche sein. screen.height liefert dort die volle
   // CSS-Bildschirmhöhe inklusive der Edge-to-Edge-Fläche.
@@ -2007,24 +2085,22 @@ function syncAppViewportHeight() {
   const height = isIOSStandalone && screenHeight > innerHeight
     ? screenHeight
     : (innerHeight || screenHeight);
-
   if (height > 0) {
     document.documentElement.style.setProperty('--fallkartei-app-height', `${Math.round(height)}px`);
   }
 }
 function setupAppViewportHeight() {
   syncAppViewportHeight();
-  let timer = null;
-  const schedule = () => {
+  let timer=null;
+  const schedule=()=>{
     clearTimeout(timer);
-    timer = setTimeout(syncAppViewportHeight, 80);
+    timer=setTimeout(syncAppViewportHeight,80);
   };
-  window.addEventListener('resize', schedule, { passive: true });
-  window.addEventListener('orientationchange', schedule, { passive: true });
-  document.addEventListener('visibilitychange', () => {
-    if (document.visibilityState === 'visible') schedule();
+  window.addEventListener('resize',schedule,{passive:true});
+  window.addEventListener('orientationchange',schedule,{passive:true});
+  document.addEventListener('visibilitychange',()=>{
+    if(document.visibilityState==='visible') schedule();
   });
-  window.matchMedia?.('(display-mode: standalone)')?.addEventListener?.('change', schedule);
 }
 const UPDATE_RELOAD_GUARD_KEY='fallkartei_update_reload_guard_v1';
 const UPDATE_CHECK_KEY='fallkartei_update_check_v1';
