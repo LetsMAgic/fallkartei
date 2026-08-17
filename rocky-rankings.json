@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-08-15T17:47:45.462Z",
+  "updatedAt": "2026-08-17T04:57:30.563Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -175,7 +175,7 @@
     "29": {
       "title": "Die Originalmusik",
       "rating": 3.3539,
-      "rank": 221,
+      "rank": 222,
       "votes": 924
     },
     "30": {
@@ -745,7 +745,7 @@
     "124": {
       "title": "Geister-Canyon",
       "rating": 2.5983,
-      "rank": 112,
+      "rank": 111,
       "votes": 605
     },
     "125": {
@@ -865,7 +865,7 @@
     "144": {
       "title": "Zwillinge der Finsternis",
       "rating": 3.3522,
-      "rank": 220,
+      "rank": 221,
       "votes": 372
     },
     "145": {
@@ -967,7 +967,7 @@
     "161": {
       "title": "Die blutenden Bilder",
       "rating": 2.598,
-      "rank": 111,
+      "rank": 110,
       "votes": 301
     },
     "162": {
@@ -1086,9 +1086,9 @@
     },
     "181": {
       "title": "Das Kabinett des Zauberers",
-      "rating": 2.7287,
+      "rating": 2.7297,
       "rank": 134,
-      "votes": 258
+      "votes": 259
     },
     "182": {
       "title": "Im Haus des Henkers",
@@ -1098,9 +1098,9 @@
     },
     "183": {
       "title": "Der letzte Song",
-      "rating": 3.166,
+      "rating": 3.1654,
       "rank": 198,
-      "votes": 253
+      "votes": 254
     },
     "184": {
       "title": "Der Hexengarten",
@@ -1212,9 +1212,9 @@
     },
     "202": {
       "title": "Das weiße Grab",
-      "rating": 2.2394,
+      "rating": 2.243,
       "rank": 58,
-      "votes": 213
+      "votes": 214
     },
     "203": {
       "title": "Tauchgang ins Ungewisse",
@@ -1434,9 +1434,9 @@
     },
     "239": {
       "title": "Das Geheimnis der sieben Palmen",
-      "rating": 3.3542,
-      "rank": 222,
-      "votes": 48
+      "rating": 3.3469,
+      "rank": 220,
+      "votes": 49
     }
   }
 }
