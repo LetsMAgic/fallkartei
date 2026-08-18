@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-08-17T04:57:30.563Z",
+  "updatedAt": "2026-08-18T04:51:00.309Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
-      "rating": 1.629,
+      "rating": 1.6313,
       "rank": 7,
-      "votes": 1477
+      "votes": 1478
     },
     "2": {
       "title": "Der Phantomsee",
@@ -18,45 +18,45 @@
     },
     "3": {
       "title": "Der Karpatenhund",
-      "rating": 1.5559,
+      "rating": 1.559,
       "rank": 3,
-      "votes": 1432
+      "votes": 1433
     },
     "4": {
       "title": "Die schwarze Katze",
-      "rating": 2.5739,
+      "rating": 2.575,
       "rank": 106,
-      "votes": 1279
+      "votes": 1280
     },
     "5": {
       "title": "Der Fluch des Rubins",
-      "rating": 1.8433,
+      "rating": 1.8465,
       "rank": 19,
-      "votes": 1276
+      "votes": 1277
     },
     "6": {
       "title": "Der sprechende Totenkopf",
-      "rating": 1.8221,
+      "rating": 1.8246,
       "rank": 18,
-      "votes": 1293
+      "votes": 1294
     },
     "7": {
       "title": "Der unheimliche Drache",
-      "rating": 2.3632,
+      "rating": 2.3662,
       "rank": 77,
-      "votes": 1217
+      "votes": 1218
     },
     "8": {
       "title": "Der grüne Geist",
-      "rating": 1.8608,
+      "rating": 1.8632,
       "rank": 20,
-      "votes": 1264
+      "votes": 1265
     },
     "9": {
       "title": "Die rätselhaften Bilder",
-      "rating": 2.0794,
+      "rating": 2.0818,
       "rank": 35,
-      "votes": 1197
+      "votes": 1198
     },
     "10": {
       "title": "Die flüsternde Mumie",
@@ -66,9 +66,9 @@
     },
     "11": {
       "title": "Das Gespensterschloß",
-      "rating": 1.5176,
+      "rating": 1.5209,
       "rank": 2,
-      "votes": 1360
+      "votes": 1361
     },
     "12": {
       "title": "Der seltsame Wecker",
@@ -108,9 +108,9 @@
     },
     "18": {
       "title": "Die Geisterinsel",
-      "rating": 1.9774,
+      "rating": 1.9809,
       "rank": 29,
-      "votes": 1149
+      "votes": 1150
     },
     "19": {
       "title": "Der Teufelsberg",
@@ -144,9 +144,9 @@
     },
     "24": {
       "title": "Die silberne Spinne",
-      "rating": 2.199,
-      "rank": 49,
-      "votes": 1186
+      "rating": 2.2013,
+      "rank": 50,
+      "votes": 1187
     },
     "25": {
       "title": "Die singende Schlange",
@@ -180,9 +180,9 @@
     },
     "30": {
       "title": "Das Riff der Haie",
-      "rating": 2.1873,
-      "rank": 47,
-      "votes": 1100
+      "rating": 2.1898,
+      "rank": 48,
+      "votes": 1101
     },
     "31": {
       "title": "Das Narbengesicht",
@@ -216,9 +216,9 @@
     },
     "36": {
       "title": "Der Super-Wal",
-      "rating": 3.0264,
+      "rating": 3.0254,
       "rank": 179,
-      "votes": 985
+      "votes": 986
     },
     "37": {
       "title": "Der heimliche Hehler",
@@ -373,13 +373,13 @@
     "62": {
       "title": "Spuk im Hotel",
       "rating": 2.1996,
-      "rank": 50,
+      "rank": 49,
       "votes": 952
     },
     "63": {
       "title": "Fußball-Gangster",
-      "rating": 4.0238,
-      "rank": 249,
+      "rating": 4.0226,
+      "rank": 250,
       "votes": 842
     },
     "64": {
@@ -438,9 +438,9 @@
     },
     "73": {
       "title": "Poltergeist",
-      "rating": 1.8862,
+      "rating": 1.8853,
       "rank": 21,
-      "votes": 984
+      "votes": 985
     },
     "74": {
       "title": "Das brennende Schwert",
@@ -523,7 +523,7 @@
     "87": {
       "title": "Wolfsgesicht",
       "rating": 2.188,
-      "rank": 48,
+      "rank": 47,
       "votes": 915
     },
     "88": {
@@ -553,7 +553,7 @@
     "92": {
       "title": "Todesflug",
       "rating": 4.0859,
-      "rank": 250,
+      "rank": 251,
       "votes": 1024
     },
     "93": {
@@ -1153,7 +1153,7 @@
     "192": {
       "title": "Im Bann des Drachen",
       "rating": 4.2731,
-      "rank": 253,
+      "rank": 254,
       "votes": 216
     },
     "193": {
@@ -1189,7 +1189,7 @@
     "198": {
       "title": "Die Legende der Gaukler",
       "rating": 4.1495,
-      "rank": 251,
+      "rank": 252,
       "votes": 194
     },
     "199": {
@@ -1255,7 +1255,7 @@
     "209": {
       "title": "Kreaturen der Nacht",
       "rating": 4.1872,
-      "rank": 252,
+      "rank": 253,
       "votes": 187
     },
     "210": {
@@ -1437,6 +1437,12 @@
       "rating": 3.3469,
       "rank": 220,
       "votes": 49
+    },
+    "240": {
+      "title": "Die schwarze Rose",
+      "rating": 4,
+      "rank": 249,
+      "votes": 1
     }
   }
 }
