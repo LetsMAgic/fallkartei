@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-08-19T04:51:00.865Z",
+  "updatedAt": "2026-08-20T04:52:21.018Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -504,9 +504,9 @@
     },
     "84": {
       "title": "Die Musik des Teufels",
-      "rating": 2.1081,
+      "rating": 2.108,
       "rank": 37,
-      "votes": 990
+      "votes": 991
     },
     "85": {
       "title": "Feuerturm",
@@ -522,15 +522,15 @@
     },
     "87": {
       "title": "Wolfsgesicht",
-      "rating": 2.188,
+      "rating": 2.1867,
       "rank": 47,
-      "votes": 915
+      "votes": 916
     },
     "88": {
       "title": "Vampir im Internet",
-      "rating": 3.4411,
+      "rating": 3.4427,
       "rank": 234,
-      "votes": 950
+      "votes": 951
     },
     "89": {
       "title": "Tödliche Spur",
