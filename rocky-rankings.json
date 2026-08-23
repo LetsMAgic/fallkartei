@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-08-22T04:48:06.035Z",
+  "updatedAt": "2026-08-23T04:51:46.130Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -301,7 +301,7 @@
     "50": {
       "title": "Der verschwundene Filmstar",
       "rating": 3.1097,
-      "rank": 185,
+      "rank": 186,
       "votes": 884
     },
     "51": {
@@ -462,9 +462,9 @@
     },
     "77": {
       "title": "Pistenteufel",
-      "rating": 2.9543,
+      "rating": 2.9566,
       "rank": 164,
-      "votes": 897
+      "votes": 898
     },
     "78": {
       "title": "Das leere Grab",
@@ -625,7 +625,7 @@
     "104": {
       "title": "Gift per E-Mail",
       "rating": 3.1197,
-      "rank": 187,
+      "rank": 188,
       "votes": 919
     },
     "105": {
@@ -919,7 +919,7 @@
     "153": {
       "title": "Das Fußballphantom",
       "rating": 3.1107,
-      "rank": 186,
+      "rank": 187,
       "votes": 307
     },
     "154": {
@@ -1009,7 +1009,7 @@
     "168": {
       "title": "GPS-Gangster",
       "rating": 3.1237,
-      "rank": 188,
+      "rank": 189,
       "votes": 291
     },
     "169": {
@@ -1387,7 +1387,7 @@
     "231": {
       "title": "Der Dreiäugige Schakal",
       "rating": 3.3462,
-      "rank": 218,
+      "rank": 219,
       "votes": 130
     },
     "232": {
@@ -1434,15 +1434,15 @@
     },
     "239": {
       "title": "Das Geheimnis der sieben Palmen",
-      "rating": 3.3469,
-      "rank": 219,
-      "votes": 49
+      "rating": 3.34,
+      "rank": 218,
+      "votes": 50
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.125,
-      "rank": 189,
-      "votes": 8
+      "rating": 3.1,
+      "rank": 185,
+      "votes": 10
     }
   }
 }
