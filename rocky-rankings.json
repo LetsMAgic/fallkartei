@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-08-23T04:51:46.130Z",
+  "updatedAt": "2026-08-24T05:00:33.735Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -301,7 +301,7 @@
     "50": {
       "title": "Der verschwundene Filmstar",
       "rating": 3.1097,
-      "rank": 186,
+      "rank": 185,
       "votes": 884
     },
     "51": {
@@ -361,7 +361,7 @@
     "60": {
       "title": "Dopingmixer",
       "rating": 3.7527,
-      "rank": 243,
+      "rank": 244,
       "votes": 849
     },
     "61": {
@@ -403,7 +403,7 @@
     "67": {
       "title": "Geheimnis der Särge",
       "rating": 3.1583,
-      "rank": 195,
+      "rank": 194,
       "votes": 878
     },
     "68": {
@@ -433,7 +433,7 @@
     "72": {
       "title": "Dreckiger Deal",
       "rating": 3.1365,
-      "rank": 192,
+      "rank": 191,
       "votes": 828
     },
     "73": {
@@ -468,9 +468,9 @@
     },
     "78": {
       "title": "Das leere Grab",
-      "rating": 2.3042,
+      "rating": 2.3029,
       "rank": 68,
-      "votes": 1019
+      "votes": 1020
     },
     "79": {
       "title": "Im Bann des Voodoo",
@@ -564,9 +564,9 @@
     },
     "94": {
       "title": "Das schwarze Monster",
-      "rating": 3.3635,
+      "rating": 3.362,
       "rank": 224,
-      "votes": 872
+      "votes": 873
     },
     "95": {
       "title": "Botschaft von Geisterhand",
@@ -625,7 +625,7 @@
     "104": {
       "title": "Gift per E-Mail",
       "rating": 3.1197,
-      "rank": 188,
+      "rank": 187,
       "votes": 919
     },
     "105": {
@@ -726,9 +726,9 @@
     },
     "121": {
       "title": "Spur ins Nichts",
-      "rating": 2.5508,
+      "rating": 2.5515,
       "rank": 102,
-      "votes": 679
+      "votes": 680
     },
     "122": {
       "title": "Der Geisterzug",
@@ -913,13 +913,13 @@
     "152": {
       "title": "Skateboardfieber",
       "rating": 3.1534,
-      "rank": 194,
+      "rank": 193,
       "votes": 365
     },
     "153": {
       "title": "Das Fußballphantom",
       "rating": 3.1107,
-      "rank": 187,
+      "rank": 186,
       "votes": 307
     },
     "154": {
@@ -949,7 +949,7 @@
     "158": {
       "title": "Der Feuergeist",
       "rating": 3.7483,
-      "rank": 242,
+      "rank": 243,
       "votes": 294
     },
     "159": {
@@ -1009,7 +1009,7 @@
     "168": {
       "title": "GPS-Gangster",
       "rating": 3.1237,
-      "rank": 189,
+      "rank": 188,
       "votes": 291
     },
     "169": {
@@ -1099,7 +1099,7 @@
     "183": {
       "title": "Der letzte Song",
       "rating": 3.1608,
-      "rank": 196,
+      "rank": 195,
       "votes": 255
     },
     "184": {
@@ -1123,7 +1123,7 @@
     "187": {
       "title": "Das silberne Amulett",
       "rating": 3.1349,
-      "rank": 191,
+      "rank": 190,
       "votes": 215
     },
     "188": {
@@ -1261,7 +1261,7 @@
     "210": {
       "title": "Die schweigende Grotte",
       "rating": 3.1392,
-      "rank": 193,
+      "rank": 192,
       "votes": 158
     },
     "211": {
@@ -1362,15 +1362,15 @@
     },
     "227": {
       "title": "Melodie der Rache",
-      "rating": 3.7606,
-      "rank": 244,
-      "votes": 142
+      "rating": 3.7413,
+      "rank": 242,
+      "votes": 143
     },
     "228": {
       "title": "Der Ruf der Krähen",
-      "rating": 3.8112,
+      "rating": 3.8264,
       "rank": 245,
-      "votes": 143
+      "votes": 144
     },
     "229": {
       "title": "Drehbuch der Täuschung",
@@ -1393,7 +1393,7 @@
     "232": {
       "title": "Die Stadt aus Gold",
       "rating": 3.1622,
-      "rank": 197,
+      "rank": 196,
       "votes": 111
     },
     "233": {
@@ -1411,7 +1411,7 @@
     "235": {
       "title": "Das Fantasmofon",
       "rating": 3.1304,
-      "rank": 190,
+      "rank": 189,
       "votes": 92
     },
     "236": {
@@ -1434,15 +1434,15 @@
     },
     "239": {
       "title": "Das Geheimnis der sieben Palmen",
-      "rating": 3.34,
+      "rating": 3.3333,
       "rank": 218,
-      "votes": 50
+      "votes": 51
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.1,
-      "rank": 185,
-      "votes": 10
+      "rating": 3.1667,
+      "rank": 197,
+      "votes": 12
     }
   }
 }
