@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-08-25T04:52:59.223Z",
+  "updatedAt": "2026-08-26T04:54:58.291Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -301,7 +301,7 @@
     "50": {
       "title": "Der verschwundene Filmstar",
       "rating": 3.1085,
-      "rank": 186,
+      "rank": 187,
       "votes": 885
     },
     "51": {
@@ -403,7 +403,7 @@
     "67": {
       "title": "Geheimnis der Särge",
       "rating": 3.1583,
-      "rank": 195,
+      "rank": 196,
       "votes": 878
     },
     "68": {
@@ -433,7 +433,7 @@
     "72": {
       "title": "Dreckiger Deal",
       "rating": 3.1365,
-      "rank": 192,
+      "rank": 193,
       "votes": 828
     },
     "73": {
@@ -464,7 +464,7 @@
       "title": "Pistenteufel",
       "rating": 2.9566,
       "rank": 165,
-      "votes": 898
+      "votes": 899
     },
     "78": {
       "title": "Das leere Grab",
@@ -480,7 +480,7 @@
     },
     "80": {
       "title": "Geheimakte UFO",
-      "rating": 2.9579,
+      "rating": 2.9568,
       "rank": 166,
       "votes": 926
     },
@@ -625,7 +625,7 @@
     "104": {
       "title": "Gift per E-Mail",
       "rating": 3.1197,
-      "rank": 188,
+      "rank": 189,
       "votes": 919
     },
     "105": {
@@ -697,7 +697,7 @@
     "116": {
       "title": "Codename: Cobra",
       "rating": 3.0827,
-      "rank": 184,
+      "rank": 185,
       "votes": 883
     },
     "117": {
@@ -720,9 +720,9 @@
     },
     "120": {
       "title": "Der schwarze Skorpion",
-      "rating": 3.0092,
+      "rating": 3.008,
       "rank": 174,
-      "votes": 873
+      "votes": 874
     },
     "121": {
       "title": "Spur ins Nichts",
@@ -913,13 +913,13 @@
     "152": {
       "title": "Skateboardfieber",
       "rating": 3.1534,
-      "rank": 194,
+      "rank": 195,
       "votes": 365
     },
     "153": {
       "title": "Das Fußballphantom",
       "rating": 3.1107,
-      "rank": 187,
+      "rank": 188,
       "votes": 307
     },
     "154": {
@@ -1009,7 +1009,7 @@
     "168": {
       "title": "GPS-Gangster",
       "rating": 3.1237,
-      "rank": 189,
+      "rank": 190,
       "votes": 291
     },
     "169": {
@@ -1099,7 +1099,7 @@
     "183": {
       "title": "Der letzte Song",
       "rating": 3.1608,
-      "rank": 196,
+      "rank": 197,
       "votes": 255
     },
     "184": {
@@ -1123,7 +1123,7 @@
     "187": {
       "title": "Das silberne Amulett",
       "rating": 3.1349,
-      "rank": 191,
+      "rank": 192,
       "votes": 215
     },
     "188": {
@@ -1164,9 +1164,9 @@
     },
     "194": {
       "title": "Die Zeitreisende",
-      "rating": 3.4167,
+      "rating": 3.4279,
       "rank": 231,
-      "votes": 228
+      "votes": 229
     },
     "195": {
       "title": "Im Reich der Ungeheuer",
@@ -1177,7 +1177,7 @@
     "196": {
       "title": "Geheimnis des Bauchredners",
       "rating": 2.162,
-      "rank": 43,
+      "rank": 42,
       "votes": 216
     },
     "197": {
@@ -1206,9 +1206,9 @@
     },
     "201": {
       "title": "Höhenangst",
-      "rating": 2.1617,
-      "rank": 42,
-      "votes": 235
+      "rating": 2.1653,
+      "rank": 43,
+      "votes": 236
     },
     "202": {
       "title": "Das weiße Grab",
@@ -1231,7 +1231,7 @@
     "205": {
       "title": "Das rätselhafte Erbe",
       "rating": 3.0843,
-      "rank": 185,
+      "rank": 186,
       "votes": 166
     },
     "206": {
@@ -1261,7 +1261,7 @@
     "210": {
       "title": "Die schweigende Grotte",
       "rating": 3.1392,
-      "rank": 193,
+      "rank": 194,
       "votes": 158
     },
     "211": {
@@ -1393,7 +1393,7 @@
     "232": {
       "title": "Die Stadt aus Gold",
       "rating": 3.1622,
-      "rank": 197,
+      "rank": 198,
       "votes": 111
     },
     "233": {
@@ -1411,7 +1411,7 @@
     "235": {
       "title": "Das Fantasmofon",
       "rating": 3.1304,
-      "rank": 190,
+      "rank": 191,
       "votes": 92
     },
     "236": {
@@ -1440,9 +1440,9 @@
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.1667,
-      "rank": 198,
-      "votes": 12
+      "rating": 3.0769,
+      "rank": 184,
+      "votes": 13
     }
   }
 }
