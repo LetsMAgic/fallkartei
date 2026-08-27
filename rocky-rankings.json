@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-08-26T04:54:58.291Z",
+  "updatedAt": "2026-08-27T15:14:13.798Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -175,7 +175,7 @@
     "29": {
       "title": "Die Originalmusik",
       "rating": 3.3571,
-      "rank": 223,
+      "rank": 222,
       "votes": 924
     },
     "30": {
@@ -301,7 +301,7 @@
     "50": {
       "title": "Der verschwundene Filmstar",
       "rating": 3.1085,
-      "rank": 187,
+      "rank": 186,
       "votes": 885
     },
     "51": {
@@ -391,7 +391,7 @@
     "65": {
       "title": "Diamantenschmuggel",
       "rating": 2.9341,
-      "rank": 162,
+      "rank": 161,
       "votes": 850
     },
     "66": {
@@ -504,9 +504,9 @@
     },
     "84": {
       "title": "Die Musik des Teufels",
-      "rating": 2.108,
+      "rating": 2.1081,
       "rank": 37,
-      "votes": 991
+      "votes": 990
     },
     "85": {
       "title": "Feuerturm",
@@ -522,15 +522,15 @@
     },
     "87": {
       "title": "Wolfsgesicht",
-      "rating": 2.1867,
+      "rating": 2.188,
       "rank": 47,
-      "votes": 916
+      "votes": 915
     },
     "88": {
       "title": "Vampir im Internet",
-      "rating": 3.4427,
+      "rating": 3.4411,
       "rank": 233,
-      "votes": 951
+      "votes": 950
     },
     "89": {
       "title": "Tödliche Spur",
@@ -564,9 +564,9 @@
     },
     "94": {
       "title": "Das schwarze Monster",
-      "rating": 3.362,
+      "rating": 3.3635,
       "rank": 225,
-      "votes": 873
+      "votes": 872
     },
     "95": {
       "title": "Botschaft von Geisterhand",
@@ -625,7 +625,7 @@
     "104": {
       "title": "Gift per E-Mail",
       "rating": 3.1197,
-      "rank": 189,
+      "rank": 188,
       "votes": 919
     },
     "105": {
@@ -672,9 +672,9 @@
     },
     "112": {
       "title": "Schlucht der Dämonen",
-      "rating": 3.4007,
+      "rating": 3.4024,
       "rank": 228,
-      "votes": 836
+      "votes": 835
     },
     "113": {
       "title": "Das Auge des Drachen",
@@ -697,7 +697,7 @@
     "116": {
       "title": "Codename: Cobra",
       "rating": 3.0827,
-      "rank": 185,
+      "rank": 184,
       "votes": 883
     },
     "117": {
@@ -871,7 +871,7 @@
     "145": {
       "title": "Die Rache der Samurai",
       "rating": 3.3273,
-      "rank": 218,
+      "rank": 219,
       "votes": 388
     },
     "146": {
@@ -919,7 +919,7 @@
     "153": {
       "title": "Das Fußballphantom",
       "rating": 3.1107,
-      "rank": 188,
+      "rank": 187,
       "votes": 307
     },
     "154": {
@@ -984,8 +984,8 @@
     },
     "164": {
       "title": "Fußball-Teufel",
-      "rating": 3.3556,
-      "rank": 222,
+      "rating": 3.3593,
+      "rank": 223,
       "votes": 270
     },
     "165": {
@@ -1003,13 +1003,13 @@
     "167": {
       "title": "Das blaue Biest",
       "rating": 2.9365,
-      "rank": 163,
+      "rank": 162,
       "votes": 299
     },
     "168": {
       "title": "GPS-Gangster",
       "rating": 3.1237,
-      "rank": 190,
+      "rank": 189,
       "votes": 291
     },
     "169": {
@@ -1170,9 +1170,9 @@
     },
     "195": {
       "title": "Im Reich der Ungeheuer",
-      "rating": 3.0106,
+      "rating": 3.0159,
       "rank": 176,
-      "votes": 188
+      "votes": 189
     },
     "196": {
       "title": "Geheimnis des Bauchredners",
@@ -1231,7 +1231,7 @@
     "205": {
       "title": "Das rätselhafte Erbe",
       "rating": 3.0843,
-      "rank": 186,
+      "rank": 185,
       "votes": 166
     },
     "206": {
@@ -1411,7 +1411,7 @@
     "235": {
       "title": "Das Fantasmofon",
       "rating": 3.1304,
-      "rank": 191,
+      "rank": 190,
       "votes": 92
     },
     "236": {
@@ -1428,21 +1428,21 @@
     },
     "238": {
       "title": "Falsche Schuld",
-      "rating": 2.9333,
-      "rank": 161,
+      "rating": 2.95,
+      "rank": 164,
       "votes": 60
     },
     "239": {
       "title": "Das Geheimnis der sieben Palmen",
-      "rating": 3.3333,
-      "rank": 219,
-      "votes": 51
+      "rating": 3.3269,
+      "rank": 218,
+      "votes": 52
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.0769,
-      "rank": 184,
-      "votes": 13
+      "rating": 3.1333,
+      "rank": 191,
+      "votes": 15
     }
   }
 }
