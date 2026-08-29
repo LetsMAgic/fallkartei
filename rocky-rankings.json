@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-08-28T16:37:24.304Z",
+  "updatedAt": "2026-08-29T11:04:40.518Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -582,9 +582,9 @@
     },
     "97": {
       "title": "Insektenstachel",
-      "rating": 2.6471,
+      "rating": 2.6464,
       "rank": 120,
-      "votes": 969
+      "votes": 970
     },
     "98": {
       "title": "Tal des Schreckens",
@@ -1212,9 +1212,9 @@
     },
     "202": {
       "title": "Das weiße Grab",
-      "rating": 2.243,
+      "rating": 2.2419,
       "rank": 58,
-      "votes": 214
+      "votes": 215
     },
     "203": {
       "title": "Tauchgang ins Ungewisse",
