@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-08-29T11:04:40.518Z",
+  "updatedAt": "2026-08-30T09:55:56.038Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -403,7 +403,7 @@
     "67": {
       "title": "Geheimnis der Särge",
       "rating": 3.1583,
-      "rank": 199,
+      "rank": 198,
       "votes": 878
     },
     "68": {
@@ -433,7 +433,7 @@
     "72": {
       "title": "Dreckiger Deal",
       "rating": 3.1363,
-      "rank": 195,
+      "rank": 194,
       "votes": 829
     },
     "73": {
@@ -631,7 +631,7 @@
     "105": {
       "title": "Der Nebelberg",
       "rating": 1.7228,
-      "rank": 9,
+      "rank": 10,
       "votes": 1104
     },
     "106": {
@@ -715,7 +715,7 @@
     "119": {
       "title": "Der geheime Schlüssel",
       "rating": 2.3758,
-      "rank": 79,
+      "rank": 80,
       "votes": 958
     },
     "120": {
@@ -775,7 +775,7 @@
     "129": {
       "title": "SMS aus dem Grab",
       "rating": 3.1751,
-      "rank": 202,
+      "rank": 201,
       "votes": 514
     },
     "130": {
@@ -906,14 +906,14 @@
     },
     "151": {
       "title": "Schwarze Sonne",
-      "rating": 2.7431,
+      "rating": 2.7376,
       "rank": 135,
       "votes": 362
     },
     "152": {
       "title": "Skateboardfieber",
       "rating": 3.153,
-      "rank": 197,
+      "rank": 196,
       "votes": 366
     },
     "153": {
@@ -943,7 +943,7 @@
     "157": {
       "title": "Im Zeichen der Schlangen",
       "rating": 2.3754,
-      "rank": 78,
+      "rank": 79,
       "votes": 309
     },
     "158": {
@@ -984,7 +984,7 @@
     },
     "164": {
       "title": "Fußball-Teufel",
-      "rating": 3.3542,
+      "rating": 3.3506,
       "rank": 223,
       "votes": 271
     },
@@ -996,8 +996,8 @@
     },
     "166": {
       "title": "Die brennende Stadt",
-      "rating": 2.3762,
-      "rank": 80,
+      "rating": 2.3698,
+      "rank": 78,
       "votes": 311
     },
     "167": {
@@ -1020,8 +1020,8 @@
     },
     "170": {
       "title": "Straße des Grauens",
-      "rating": 2.1656,
-      "rank": 44,
+      "rating": 2.1688,
+      "rank": 45,
       "votes": 320
     },
     "171": {
@@ -1099,7 +1099,7 @@
     "183": {
       "title": "Der letzte Song",
       "rating": 3.1647,
-      "rank": 200,
+      "rank": 199,
       "votes": 255
     },
     "184": {
@@ -1123,7 +1123,7 @@
     "187": {
       "title": "Das silberne Amulett",
       "rating": 3.1442,
-      "rank": 196,
+      "rank": 195,
       "votes": 215
     },
     "188": {
@@ -1177,7 +1177,7 @@
     "196": {
       "title": "Geheimnis des Bauchredners",
       "rating": 2.1659,
-      "rank": 45,
+      "rank": 44,
       "votes": 217
     },
     "197": {
@@ -1200,9 +1200,9 @@
     },
     "200": {
       "title": "Feuriges Auge",
-      "rating": 1.7245,
-      "rank": 10,
-      "votes": 265
+      "rating": 1.7218,
+      "rank": 9,
+      "votes": 266
     },
     "201": {
       "title": "Höhenangst",
@@ -1279,7 +1279,7 @@
     "213": {
       "title": "Der Fluch der Medusa",
       "rating": 3.1678,
-      "rank": 201,
+      "rank": 200,
       "votes": 149
     },
     "214": {
@@ -1345,7 +1345,7 @@
     "224": {
       "title": "Die Yacht des Verrats",
       "rating": 3.1842,
-      "rank": 203,
+      "rank": 202,
       "votes": 152
     },
     "225": {
@@ -1393,7 +1393,7 @@
     "232": {
       "title": "Die Stadt aus Gold",
       "rating": 3.1545,
-      "rank": 198,
+      "rank": 197,
       "votes": 110
     },
     "233": {
@@ -1440,9 +1440,9 @@
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.1333,
-      "rank": 194,
-      "votes": 15
+      "rating": 3.1875,
+      "rank": 203,
+      "votes": 16
     }
   }
 }
