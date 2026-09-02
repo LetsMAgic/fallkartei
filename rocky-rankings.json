@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-01T09:23:44.923Z",
+  "updatedAt": "2026-09-02T08:46:19.705Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -18,15 +18,15 @@
     },
     "3": {
       "title": "Der Karpatenhund",
-      "rating": 1.5583,
+      "rating": 1.5575,
       "rank": 3,
-      "votes": 1433
+      "votes": 1435
     },
     "4": {
       "title": "Die schwarze Katze",
-      "rating": 2.575,
+      "rating": 2.5753,
       "rank": 104,
-      "votes": 1280
+      "votes": 1281
     },
     "5": {
       "title": "Der Fluch des Rubins",
@@ -48,195 +48,195 @@
     },
     "8": {
       "title": "Der grüne Geist",
-      "rating": 1.8617,
+      "rating": 1.8618,
       "rank": 20,
-      "votes": 1265
+      "votes": 1266
     },
     "9": {
       "title": "Die rätselhaften Bilder",
-      "rating": 2.081,
+      "rating": 2.0817,
       "rank": 35,
-      "votes": 1198
+      "votes": 1199
     },
     "10": {
       "title": "Die flüsternde Mumie",
-      "rating": 1.953,
+      "rating": 1.9531,
       "rank": 28,
-      "votes": 1256
+      "votes": 1257
     },
     "11": {
       "title": "Das Gespensterschloß",
-      "rating": 1.5202,
+      "rating": 1.5198,
       "rank": 2,
-      "votes": 1361
+      "votes": 1362
     },
     "12": {
       "title": "Der seltsame Wecker",
-      "rating": 1.9174,
+      "rating": 1.919,
       "rank": 24,
-      "votes": 1295
+      "votes": 1296
     },
     "13": {
       "title": "Der lachende Schatten",
-      "rating": 2.3927,
+      "rating": 2.3933,
       "rank": 82,
-      "votes": 1156
+      "votes": 1157
     },
     "14": {
       "title": "Das Bergmonster",
-      "rating": 2.5112,
+      "rating": 2.5116,
       "rank": 99,
-      "votes": 1164
+      "votes": 1165
     },
     "15": {
       "title": "Der rasende Löwe",
-      "rating": 2.5943,
+      "rating": 2.5938,
       "rank": 107,
-      "votes": 1156
+      "votes": 1157
     },
     "16": {
       "title": "Der Zauberspiegel",
-      "rating": 2.0475,
+      "rating": 2.0483,
       "rank": 34,
-      "votes": 1178
+      "votes": 1179
     },
     "17": {
       "title": "Die gefährliche Erbschaft",
-      "rating": 1.7602,
+      "rating": 1.7606,
       "rank": 14,
-      "votes": 1201
+      "votes": 1203
     },
     "18": {
       "title": "Die Geisterinsel",
       "rating": 1.9809,
       "rank": 29,
-      "votes": 1150
+      "votes": 1151
     },
     "19": {
       "title": "Der Teufelsberg",
-      "rating": 2.0214,
+      "rating": 2.0222,
       "rank": 31,
-      "votes": 1124
+      "votes": 1125
     },
     "20": {
       "title": "Die flammende Spur",
-      "rating": 2.2091,
-      "rank": 51,
-      "votes": 1138
+      "rating": 2.2107,
+      "rank": 52,
+      "votes": 1139
     },
     "21": {
       "title": "Der tanzende Teufel",
-      "rating": 2.2883,
+      "rating": 2.2889,
       "rank": 66,
-      "votes": 1124
+      "votes": 1125
     },
     "22": {
       "title": "Der verschwundene Schatz",
-      "rating": 2.3899,
+      "rating": 2.3905,
       "rank": 81,
-      "votes": 1072
+      "votes": 1073
     },
     "23": {
       "title": "Das Aztekenschwert",
-      "rating": 2.0918,
+      "rating": 2.0926,
       "rank": 36,
-      "votes": 1122
+      "votes": 1123
     },
     "24": {
       "title": "Die silberne Spinne",
-      "rating": 2.2013,
+      "rating": 2.2012,
       "rank": 49,
-      "votes": 1187
+      "votes": 1188
     },
     "25": {
       "title": "Die singende Schlange",
-      "rating": 2.1197,
+      "rating": 2.1196,
       "rank": 39,
-      "votes": 1128
+      "votes": 1129
     },
     "26": {
       "title": "Die Silbermine",
-      "rating": 2.1121,
+      "rating": 2.112,
       "rank": 38,
-      "votes": 1124
+      "votes": 1125
     },
     "27": {
       "title": "Der magische Kreis",
-      "rating": 2.1759,
+      "rating": 2.1756,
       "rank": 45,
-      "votes": 1137
+      "votes": 1139
     },
     "28": {
       "title": "Der Doppelgänger",
-      "rating": 2.3307,
+      "rating": 2.3304,
       "rank": 73,
-      "votes": 1152
+      "votes": 1153
     },
     "29": {
       "title": "Die Originalmusik",
-      "rating": 3.3571,
+      "rating": 3.3568,
       "rank": 224,
-      "votes": 924
+      "votes": 925
     },
     "30": {
       "title": "Das Riff der Haie",
-      "rating": 2.1898,
+      "rating": 2.1897,
       "rank": 47,
-      "votes": 1101
+      "votes": 1102
     },
     "31": {
       "title": "Das Narbengesicht",
-      "rating": 2.2286,
+      "rating": 2.2294,
       "rank": 53,
-      "votes": 993
+      "votes": 994
     },
     "32": {
       "title": "Der Ameisenmensch",
-      "rating": 1.9261,
+      "rating": 1.928,
       "rank": 26,
-      "votes": 1069
+      "votes": 1070
     },
     "33": {
       "title": "Die bedrohte Ranch",
-      "rating": 2.1582,
+      "rating": 2.1581,
       "rank": 41,
-      "votes": 1068
+      "votes": 1069
     },
     "34": {
       "title": "Der rote Pirat",
-      "rating": 2.5915,
+      "rating": 2.5919,
       "rank": 105,
-      "votes": 984
+      "votes": 985
     },
     "35": {
       "title": "Der Höhlenmensch",
-      "rating": 2.3286,
+      "rating": 2.3293,
       "rank": 72,
-      "votes": 980
+      "votes": 981
     },
     "36": {
       "title": "Der Super-Wal",
-      "rating": 3.0243,
+      "rating": 3.0233,
       "rank": 179,
-      "votes": 987
+      "votes": 988
     },
     "37": {
       "title": "Der heimliche Hehler",
-      "rating": 2.4217,
+      "rating": 2.4213,
       "rank": 90,
-      "votes": 958
+      "votes": 959
     },
     "38": {
       "title": "Der unsichtbare Gegner",
-      "rating": 2.2703,
+      "rating": 2.269,
       "rank": 59,
-      "votes": 973
+      "votes": 974
     },
     "39": {
       "title": "Die Perlenvögel",
-      "rating": 2.3984,
+      "rating": 2.398,
       "rank": 85,
-      "votes": 999
+      "votes": 1000
     },
     "40": {
       "title": "Der Automarder",
@@ -319,7 +319,7 @@
     "53": {
       "title": "Die Automafia",
       "rating": 3.0078,
-      "rank": 174,
+      "rank": 175,
       "votes": 893
     },
     "54": {
@@ -420,9 +420,9 @@
     },
     "70": {
       "title": "Schüsse aus dem Dunkel",
-      "rating": 3.2272,
+      "rating": 3.2257,
       "rank": 208,
-      "votes": 832
+      "votes": 833
     },
     "71": {
       "title": "Die verschwundene Seglerin",
@@ -445,7 +445,7 @@
     "74": {
       "title": "Das brennende Schwert",
       "rating": 2.287,
-      "rank": 65,
+      "rank": 64,
       "votes": 913
     },
     "75": {
@@ -516,9 +516,9 @@
     },
     "86": {
       "title": "Nacht in Angst",
-      "rating": 1.5821,
+      "rating": 1.5816,
       "rank": 5,
-      "votes": 1127
+      "votes": 1128
     },
     "87": {
       "title": "Wolfsgesicht",
@@ -720,9 +720,9 @@
     },
     "120": {
       "title": "Der schwarze Skorpion",
-      "rating": 3.008,
-      "rank": 175,
-      "votes": 875
+      "rating": 3.0068,
+      "rank": 174,
+      "votes": 876
     },
     "121": {
       "title": "Spur ins Nichts",
@@ -1050,8 +1050,8 @@
     },
     "175": {
       "title": "Schattenwelt",
-      "rating": 2.2848,
-      "rank": 64,
+      "rating": 2.288,
+      "rank": 65,
       "votes": 316
     },
     "176": {
@@ -1224,15 +1224,15 @@
     },
     "204": {
       "title": "Der dunkle Wächter",
-      "rating": 2.8444,
+      "rating": 2.8453,
       "rank": 150,
-      "votes": 180
+      "votes": 181
     },
     "205": {
       "title": "Das rätselhafte Erbe",
-      "rating": 3.0723,
-      "rank": 184,
-      "votes": 166
+      "rating": 3.0659,
+      "rank": 183,
+      "votes": 167
     },
     "206": {
       "title": "Der Mottenmann",
@@ -1321,13 +1321,13 @@
     "220": {
       "title": "Im Wald der Gefahren",
       "rating": 2.2105,
-      "rank": 52,
+      "rank": 51,
       "votes": 171
     },
     "221": {
       "title": "Manuskript des Satans",
       "rating": 3.0685,
-      "rank": 183,
+      "rank": 184,
       "votes": 146
     },
     "222": {
@@ -1350,9 +1350,9 @@
     },
     "225": {
       "title": "Der Puppenmacher",
-      "rating": 1.9312,
+      "rating": 1.9316,
       "rank": 27,
-      "votes": 189
+      "votes": 190
     },
     "226": {
       "title": "Spur der Toten",
