@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-02T08:46:19.705Z",
+  "updatedAt": "2026-09-03T08:55:36.615Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -30,15 +30,15 @@
     },
     "5": {
       "title": "Der Fluch des Rubins",
-      "rating": 1.8443,
+      "rating": 1.8436,
       "rank": 19,
-      "votes": 1278
+      "votes": 1279
     },
     "6": {
       "title": "Der sprechende Totenkopf",
-      "rating": 1.8246,
+      "rating": 1.8239,
       "rank": 18,
-      "votes": 1294
+      "votes": 1295
     },
     "7": {
       "title": "Der unheimliche Drache",
@@ -384,9 +384,9 @@
     },
     "64": {
       "title": "Geisterstadt",
-      "rating": 2.7181,
+      "rating": 2.7184,
       "rank": 130,
-      "votes": 869
+      "votes": 870
     },
     "65": {
       "title": "Diamantenschmuggel",
@@ -403,14 +403,14 @@
     "67": {
       "title": "Geheimnis der Särge",
       "rating": 3.1583,
-      "rank": 197,
+      "rank": 198,
       "votes": 878
     },
     "68": {
       "title": "Schatz im Bergsee",
-      "rating": 3.2052,
+      "rating": 3.205,
       "rank": 205,
-      "votes": 887
+      "votes": 888
     },
     "69": {
       "title": "Späte Rache",
@@ -433,7 +433,7 @@
     "72": {
       "title": "Dreckiger Deal",
       "rating": 3.1363,
-      "rank": 192,
+      "rank": 193,
       "votes": 829
     },
     "73": {
@@ -463,7 +463,7 @@
     "77": {
       "title": "Pistenteufel",
       "rating": 2.9566,
-      "rank": 165,
+      "rank": 164,
       "votes": 899
     },
     "78": {
@@ -480,9 +480,9 @@
     },
     "80": {
       "title": "Geheimakte UFO",
-      "rating": 2.959,
-      "rank": 166,
-      "votes": 927
+      "rating": 2.9601,
+      "rank": 167,
+      "votes": 928
     },
     "81": {
       "title": "Verdeckte Fouls",
@@ -492,27 +492,27 @@
     },
     "82": {
       "title": "Die Karten des Bösen",
-      "rating": 2.8676,
+      "rating": 2.8677,
       "rank": 155,
-      "votes": 891
+      "votes": 892
     },
     "83": {
       "title": "Meuterei auf hoher See",
-      "rating": 2.4653,
+      "rating": 2.4648,
       "rank": 94,
-      "votes": 894
+      "votes": 895
     },
     "84": {
       "title": "Die Musik des Teufels",
-      "rating": 2.1081,
+      "rating": 2.1079,
       "rank": 37,
-      "votes": 990
+      "votes": 992
     },
     "85": {
       "title": "Feuerturm",
-      "rating": 2.4035,
+      "rating": 2.4041,
       "rank": 86,
-      "votes": 922
+      "votes": 923
     },
     "86": {
       "title": "Nacht in Angst",
@@ -576,9 +576,9 @@
     },
     "96": {
       "title": "Der rote Rächer",
-      "rating": 2.4087,
+      "rating": 2.4083,
       "rank": 87,
-      "votes": 915
+      "votes": 916
     },
     "97": {
       "title": "Insektenstachel",
@@ -600,9 +600,9 @@
     },
     "100": {
       "title": "Toteninsel",
-      "rating": 1.6077,
+      "rating": 1.6072,
       "rank": 6,
-      "votes": 1188
+      "votes": 1189
     },
     "101": {
       "title": "Das Hexenhandy",
@@ -618,14 +618,14 @@
     },
     "103": {
       "title": "Das Erbe des Meisterdiebs",
-      "rating": 1.7153,
+      "rating": 1.7147,
       "rank": 8,
-      "votes": 1117
+      "votes": 1118
     },
     "104": {
       "title": "Gift per E-Mail",
       "rating": 3.1196,
-      "rank": 189,
+      "rank": 190,
       "votes": 920
     },
     "105": {
@@ -637,7 +637,7 @@
     "106": {
       "title": "Der Mann ohne Kopf",
       "rating": 3.4866,
-      "rank": 238,
+      "rank": 239,
       "votes": 1007
     },
     "107": {
@@ -775,7 +775,7 @@
     "129": {
       "title": "SMS aus dem Grab",
       "rating": 3.1751,
-      "rank": 200,
+      "rank": 201,
       "votes": 514
     },
     "130": {
@@ -889,7 +889,7 @@
     "148": {
       "title": "Die feurige Flut",
       "rating": 2.9593,
-      "rank": 167,
+      "rank": 166,
       "votes": 369
     },
     "149": {
@@ -913,7 +913,7 @@
     "152": {
       "title": "Skateboardfieber",
       "rating": 3.153,
-      "rank": 195,
+      "rank": 196,
       "votes": 366
     },
     "153": {
@@ -1009,7 +1009,7 @@
     "168": {
       "title": "GPS-Gangster",
       "rating": 3.1199,
-      "rank": 190,
+      "rank": 191,
       "votes": 292
     },
     "169": {
@@ -1099,7 +1099,7 @@
     "183": {
       "title": "Der letzte Song",
       "rating": 3.1647,
-      "rank": 198,
+      "rank": 199,
       "votes": 255
     },
     "184": {
@@ -1123,7 +1123,7 @@
     "187": {
       "title": "Das silberne Amulett",
       "rating": 3.1442,
-      "rank": 194,
+      "rank": 195,
       "votes": 215
     },
     "188": {
@@ -1230,15 +1230,15 @@
     },
     "205": {
       "title": "Das rätselhafte Erbe",
-      "rating": 3.0659,
-      "rank": 183,
-      "votes": 167
+      "rating": 3.0714,
+      "rank": 184,
+      "votes": 168
     },
     "206": {
       "title": "Der Mottenmann",
-      "rating": 2.9529,
-      "rank": 164,
-      "votes": 191
+      "rating": 2.9583,
+      "rank": 165,
+      "votes": 192
     },
     "207": {
       "title": "Die falschen Detektive",
@@ -1261,7 +1261,7 @@
     "210": {
       "title": "Die schweigende Grotte",
       "rating": 3.1266,
-      "rank": 191,
+      "rank": 192,
       "votes": 158
     },
     "211": {
@@ -1279,7 +1279,7 @@
     "213": {
       "title": "Der Fluch der Medusa",
       "rating": 3.1678,
-      "rank": 199,
+      "rank": 200,
       "votes": 149
     },
     "214": {
@@ -1296,9 +1296,9 @@
     },
     "216": {
       "title": "Die Schwingen des Unheils",
-      "rating": 3.4966,
-      "rank": 239,
-      "votes": 147
+      "rating": 3.4865,
+      "rank": 238,
+      "votes": 148
     },
     "217": {
       "title": "Der Kristallschädel",
@@ -1327,7 +1327,7 @@
     "221": {
       "title": "Manuskript des Satans",
       "rating": 3.0685,
-      "rank": 184,
+      "rank": 183,
       "votes": 146
     },
     "222": {
@@ -1393,7 +1393,7 @@
     "232": {
       "title": "Die Stadt aus Gold",
       "rating": 3.1545,
-      "rank": 196,
+      "rank": 197,
       "votes": 110
     },
     "233": {
@@ -1411,7 +1411,7 @@
     "235": {
       "title": "Das Fantasmofon",
       "rating": 3.1413,
-      "rank": 193,
+      "rank": 194,
       "votes": 92
     },
     "236": {
@@ -1440,9 +1440,9 @@
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.1765,
-      "rank": 201,
-      "votes": 17
+      "rating": 3.1111,
+      "rank": 189,
+      "votes": 18
     }
   }
 }
