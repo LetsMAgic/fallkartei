@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-04T08:50:27.249Z",
+  "updatedAt": "2026-09-05T08:20:45.162Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
-      "rating": 1.6315,
+      "rating": 1.6311,
       "rank": 7,
-      "votes": 1479
+      "votes": 1480
     },
     "2": {
       "title": "Der Phantomsee",
-      "rating": 1.8215,
+      "rating": 1.8208,
       "rank": 17,
-      "votes": 1333
+      "votes": 1334
     },
     "3": {
       "title": "Der Karpatenhund",
@@ -349,7 +349,7 @@
     "58": {
       "title": "Der verrückte Maler",
       "rating": 3.0529,
-      "rank": 182,
+      "rank": 183,
       "votes": 850
     },
     "59": {
@@ -582,9 +582,9 @@
     },
     "97": {
       "title": "Insektenstachel",
-      "rating": 2.6464,
+      "rating": 2.6447,
       "rank": 119,
-      "votes": 970
+      "votes": 971
     },
     "98": {
       "title": "Tal des Schreckens",
@@ -697,7 +697,7 @@
     "116": {
       "title": "Codename: Cobra",
       "rating": 3.0837,
-      "rank": 186,
+      "rank": 187,
       "votes": 884
     },
     "117": {
@@ -1231,7 +1231,7 @@
     "205": {
       "title": "Das rätselhafte Erbe",
       "rating": 3.0714,
-      "rank": 184,
+      "rank": 185,
       "votes": 168
     },
     "206": {
@@ -1285,7 +1285,7 @@
     "214": {
       "title": "Der Geisterbunker",
       "rating": 3.0807,
-      "rank": 185,
+      "rank": 186,
       "votes": 161
     },
     "215": {
@@ -1327,7 +1327,7 @@
     "221": {
       "title": "Manuskript des Satans",
       "rating": 3.0685,
-      "rank": 183,
+      "rank": 184,
       "votes": 146
     },
     "222": {
@@ -1440,9 +1440,9 @@
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.1053,
-      "rank": 187,
-      "votes": 19
+      "rating": 3.05,
+      "rank": 182,
+      "votes": 20
     }
   }
 }
