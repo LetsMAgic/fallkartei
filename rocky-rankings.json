@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-05T08:20:45.162Z",
+  "updatedAt": "2026-09-06T08:39:19.991Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -240,9 +240,9 @@
     },
     "40": {
       "title": "Der Automarder",
-      "rating": 2.8816,
+      "rating": 2.8817,
       "rank": 156,
-      "votes": 954
+      "votes": 955
     },
     "41": {
       "title": "Das Volk der Winde",
@@ -1044,9 +1044,9 @@
     },
     "174": {
       "title": "Das Tuch der Toten",
-      "rating": 3.5494,
+      "rating": 3.5591,
       "rank": 241,
-      "votes": 253
+      "votes": 254
     },
     "175": {
       "title": "Schattenwelt",
@@ -1116,7 +1116,7 @@
     },
     "186": {
       "title": "Insel des Vergessens",
-      "rating": 2.0372,
+      "rating": 2.0335,
       "rank": 33,
       "votes": 269
     },
