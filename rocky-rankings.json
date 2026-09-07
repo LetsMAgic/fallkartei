@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-06T08:39:19.991Z",
+  "updatedAt": "2026-09-07T09:19:24.108Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -433,7 +433,7 @@
     "72": {
       "title": "Dreckiger Deal",
       "rating": 3.1363,
-      "rank": 193,
+      "rank": 192,
       "votes": 829
     },
     "73": {
@@ -1260,9 +1260,9 @@
     },
     "210": {
       "title": "Die schweigende Grotte",
-      "rating": 3.1266,
-      "rank": 192,
-      "votes": 158
+      "rating": 3.1384,
+      "rank": 193,
+      "votes": 159
     },
     "211": {
       "title": "Der Jadekönig",
@@ -1302,7 +1302,7 @@
     },
     "217": {
       "title": "Der Kristallschädel",
-      "rating": 2.5064,
+      "rating": 2.4936,
       "rank": 97,
       "votes": 156
     },
@@ -1398,9 +1398,9 @@
     },
     "233": {
       "title": "Die Nacht der Gewitter",
-      "rating": 3.028,
+      "rating": 3.037,
       "rank": 180,
-      "votes": 107
+      "votes": 108
     },
     "234": {
       "title": "Der lebende Tresor",
