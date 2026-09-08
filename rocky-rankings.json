@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-07T09:19:24.108Z",
+  "updatedAt": "2026-09-08T08:51:26.745Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -175,7 +175,7 @@
     "29": {
       "title": "Die Originalmusik",
       "rating": 3.3568,
-      "rank": 224,
+      "rank": 223,
       "votes": 925
     },
     "30": {
@@ -474,9 +474,9 @@
     },
     "79": {
       "title": "Im Bann des Voodoo",
-      "rating": 2.6273,
+      "rating": 2.6287,
       "rank": 115,
-      "votes": 939
+      "votes": 940
     },
     "80": {
       "title": "Geheimakte UFO",
@@ -865,7 +865,7 @@
     "144": {
       "title": "Zwillinge der Finsternis",
       "rating": 3.3485,
-      "rank": 221,
+      "rank": 220,
       "votes": 373
     },
     "145": {
@@ -985,7 +985,7 @@
     "164": {
       "title": "Fußball-Teufel",
       "rating": 3.3506,
-      "rank": 222,
+      "rank": 221,
       "votes": 271
     },
     "165": {
@@ -1122,9 +1122,9 @@
     },
     "187": {
       "title": "Das silberne Amulett",
-      "rating": 3.1442,
-      "rank": 195,
-      "votes": 215
+      "rating": 3.1389,
+      "rank": 194,
+      "votes": 216
     },
     "188": {
       "title": "Signale aus dem Jenseits",
@@ -1249,7 +1249,7 @@
     "208": {
       "title": "Kelch des Schicksals",
       "rating": 3.3576,
-      "rank": 225,
+      "rank": 224,
       "votes": 165
     },
     "209": {
@@ -1387,7 +1387,7 @@
     "231": {
       "title": "Der Dreiäugige Schakal",
       "rating": 3.3566,
-      "rank": 223,
+      "rank": 222,
       "votes": 129
     },
     "232": {
@@ -1411,7 +1411,7 @@
     "235": {
       "title": "Das Fantasmofon",
       "rating": 3.1413,
-      "rank": 194,
+      "rank": 195,
       "votes": 92
     },
     "236": {
@@ -1434,8 +1434,8 @@
     },
     "239": {
       "title": "Das Geheimnis der sieben Palmen",
-      "rating": 3.3396,
-      "rank": 220,
+      "rating": 3.3585,
+      "rank": 225,
       "votes": 53
     },
     "240": {
