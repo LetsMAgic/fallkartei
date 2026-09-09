@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-08T08:51:26.745Z",
+  "updatedAt": "2026-09-09T08:57:39.386Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -480,9 +480,9 @@
     },
     "80": {
       "title": "Geheimakte UFO",
-      "rating": 2.9601,
-      "rank": 168,
-      "votes": 928
+      "rating": 2.9591,
+      "rank": 167,
+      "votes": 929
     },
     "81": {
       "title": "Verdeckte Fouls",
@@ -660,9 +660,9 @@
     },
     "110": {
       "title": "Panik im Park",
-      "rating": 3.4035,
+      "rating": 3.4031,
       "rank": 231,
-      "votes": 959
+      "votes": 960
     },
     "111": {
       "title": "Die Höhle des Grauens",
@@ -889,7 +889,7 @@
     "148": {
       "title": "Die feurige Flut",
       "rating": 2.9593,
-      "rank": 167,
+      "rank": 168,
       "votes": 369
     },
     "149": {
@@ -918,9 +918,9 @@
     },
     "153": {
       "title": "Das Fußballphantom",
-      "rating": 3.1071,
+      "rating": 3.1036,
       "rank": 188,
-      "votes": 308
+      "votes": 309
     },
     "154": {
       "title": "Botschaft aus der Unterwelt",
