@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-09T08:57:39.386Z",
+  "updatedAt": "2026-09-10T08:56:32.995Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -42,9 +42,9 @@
     },
     "7": {
       "title": "Der unheimliche Drache",
-      "rating": 2.3662,
+      "rating": 2.3675,
       "rank": 76,
-      "votes": 1218
+      "votes": 1219
     },
     "8": {
       "title": "Der grüne Geist",
@@ -56,49 +56,49 @@
       "title": "Die rätselhaften Bilder",
       "rating": 2.0817,
       "rank": 35,
-      "votes": 1199
+      "votes": 1200
     },
     "10": {
       "title": "Die flüsternde Mumie",
       "rating": 1.9531,
       "rank": 28,
-      "votes": 1257
+      "votes": 1258
     },
     "11": {
       "title": "Das Gespensterschloß",
-      "rating": 1.5198,
+      "rating": 1.5194,
       "rank": 2,
-      "votes": 1362
+      "votes": 1363
     },
     "12": {
       "title": "Der seltsame Wecker",
-      "rating": 1.919,
+      "rating": 1.9198,
       "rank": 24,
-      "votes": 1296
+      "votes": 1297
     },
     "13": {
       "title": "Der lachende Schatten",
-      "rating": 2.3933,
+      "rating": 2.3938,
       "rank": 82,
-      "votes": 1157
+      "votes": 1158
     },
     "14": {
       "title": "Das Bergmonster",
-      "rating": 2.5116,
+      "rating": 2.5111,
       "rank": 99,
-      "votes": 1165
+      "votes": 1166
     },
     "15": {
       "title": "Der rasende Löwe",
-      "rating": 2.5938,
+      "rating": 2.5941,
       "rank": 107,
-      "votes": 1157
+      "votes": 1158
     },
     "16": {
       "title": "Der Zauberspiegel",
       "rating": 2.0483,
       "rank": 34,
-      "votes": 1179
+      "votes": 1180
     },
     "17": {
       "title": "Die gefährliche Erbschaft",
@@ -582,9 +582,9 @@
     },
     "97": {
       "title": "Insektenstachel",
-      "rating": 2.6447,
+      "rating": 2.6451,
       "rank": 119,
-      "votes": 971
+      "votes": 972
     },
     "98": {
       "title": "Tal des Schreckens",
@@ -1274,13 +1274,13 @@
       "title": "Der weiße Leopard",
       "rating": 3,
       "rank": 172,
-      "votes": 166
+      "votes": 167
     },
     "213": {
       "title": "Der Fluch der Medusa",
-      "rating": 3.1678,
+      "rating": 3.1733,
       "rank": 200,
-      "votes": 149
+      "votes": 150
     },
     "214": {
       "title": "Der Geisterbunker",
