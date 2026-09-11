@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-10T08:56:32.995Z",
+  "updatedAt": "2026-09-11T08:54:42.995Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -102,9 +102,9 @@
     },
     "17": {
       "title": "Die gefährliche Erbschaft",
-      "rating": 1.7606,
+      "rating": 1.76,
       "rank": 14,
-      "votes": 1203
+      "votes": 1204
     },
     "18": {
       "title": "Die Geisterinsel",
@@ -486,9 +486,9 @@
     },
     "81": {
       "title": "Verdeckte Fouls",
-      "rating": 3.8585,
+      "rating": 3.86,
       "rank": 250,
-      "votes": 813
+      "votes": 814
     },
     "82": {
       "title": "Die Karten des Bösen",
@@ -637,7 +637,7 @@
     "106": {
       "title": "Der Mann ohne Kopf",
       "rating": 3.4866,
-      "rank": 240,
+      "rank": 239,
       "votes": 1007
     },
     "107": {
@@ -1284,21 +1284,21 @@
     },
     "214": {
       "title": "Der Geisterbunker",
-      "rating": 3.0807,
+      "rating": 3.0741,
       "rank": 186,
-      "votes": 161
+      "votes": 162
     },
     "215": {
       "title": "Die verlorene Zeit",
-      "rating": 3.2766,
+      "rating": 3.2746,
       "rank": 214,
-      "votes": 141
+      "votes": 142
     },
     "216": {
       "title": "Die Schwingen des Unheils",
-      "rating": 3.4865,
-      "rank": 239,
-      "votes": 148
+      "rating": 3.4966,
+      "rank": 240,
+      "votes": 149
     },
     "217": {
       "title": "Der Kristallschädel",
