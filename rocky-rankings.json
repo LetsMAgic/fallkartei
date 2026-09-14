@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-13T09:32:37.434Z",
+  "updatedAt": "2026-09-14T09:50:44.842Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -482,7 +482,7 @@
       "title": "Geheimakte UFO",
       "rating": 2.9591,
       "rank": 167,
-      "votes": 929
+      "votes": 930
     },
     "81": {
       "title": "Verdeckte Fouls",
@@ -864,9 +864,9 @@
     },
     "144": {
       "title": "Zwillinge der Finsternis",
-      "rating": 3.3485,
+      "rating": 3.3449,
       "rank": 219,
-      "votes": 373
+      "votes": 374
     },
     "145": {
       "title": "Die Rache der Samurai",
@@ -1140,7 +1140,7 @@
     },
     "190": {
       "title": "Die Kammer der Rätsel",
-      "rating": 3.3057,
+      "rating": 3.3144,
       "rank": 216,
       "votes": 229
     },
@@ -1302,21 +1302,21 @@
     },
     "217": {
       "title": "Der Kristallschädel",
-      "rating": 2.4936,
+      "rating": 2.4968,
       "rank": 96,
-      "votes": 156
+      "votes": 157
     },
     "218": {
       "title": "Im Netz der Lügen",
-      "rating": 2.5274,
+      "rating": 2.5238,
       "rank": 99,
-      "votes": 146
+      "votes": 147
     },
     "219": {
       "title": "Die Teufelsklippe",
-      "rating": 2.3054,
+      "rating": 2.3095,
       "rank": 69,
-      "votes": 167
+      "votes": 168
     },
     "220": {
       "title": "Im Wald der Gefahren",
