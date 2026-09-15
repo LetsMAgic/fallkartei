@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-14T09:50:44.842Z",
+  "updatedAt": "2026-09-15T09:24:21.615Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -420,15 +420,15 @@
     },
     "70": {
       "title": "Schüsse aus dem Dunkel",
-      "rating": 3.2257,
+      "rating": 3.2278,
       "rank": 207,
-      "votes": 833
+      "votes": 834
     },
     "71": {
       "title": "Die verschwundene Seglerin",
-      "rating": 2.83,
+      "rating": 2.829,
       "rank": 147,
-      "votes": 853
+      "votes": 854
     },
     "72": {
       "title": "Dreckiger Deal",
@@ -498,15 +498,15 @@
     },
     "83": {
       "title": "Meuterei auf hoher See",
-      "rating": 2.4648,
+      "rating": 2.4632,
       "rank": 93,
-      "votes": 895
+      "votes": 896
     },
     "84": {
       "title": "Die Musik des Teufels",
-      "rating": 2.1079,
+      "rating": 2.1067,
       "rank": 37,
-      "votes": 992
+      "votes": 993
     },
     "85": {
       "title": "Feuerturm",
@@ -798,9 +798,9 @@
     },
     "133": {
       "title": "Fels der Dämonen",
-      "rating": 3.3198,
+      "rating": 3.3213,
       "rank": 217,
-      "votes": 444
+      "votes": 445
     },
     "134": {
       "title": "Der tote Mönch",
@@ -1320,9 +1320,9 @@
     },
     "220": {
       "title": "Im Wald der Gefahren",
-      "rating": 2.2105,
-      "rank": 51,
-      "votes": 171
+      "rating": 2.2035,
+      "rank": 50,
+      "votes": 172
     },
     "221": {
       "title": "Manuskript des Satans",
