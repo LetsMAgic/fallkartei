@@ -1,4 +1,4 @@
-export const APP_VERSION = '1.5.11';
+export const APP_VERSION = '1.5.12';
 // Der bisherige Datenbankname bleibt absichtlich erhalten, damit vorhandene lokale Daten übernommen werden.
 export const DB_NAME = 'ddf-tracker';
 export const DB_VERSION = 1;

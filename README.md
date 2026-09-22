@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version 1.5.11" src="https://img.shields.io/badge/Version-1.5.11-f2f3f5?style=flat-square&labelColor=11141a&color=f2f3f5">
+  <img alt="Version 1.5.12" src="https://img.shields.io/badge/Version-1.5.12-f2f3f5?style=flat-square&labelColor=11141a&color=f2f3f5">
   <img alt="Progressive Web App" src="https://img.shields.io/badge/PWA-installierbar-2980ff?style=flat-square&labelColor=11141a">
   <img alt="Offline-first" src="https://img.shields.io/badge/Offline-first-38a169?style=flat-square&labelColor=11141a">
   <img alt="Kein Backend" src="https://img.shields.io/badge/Backend-keins-e53935?style=flat-square&labelColor=11141a">
@@ -163,7 +163,7 @@ update-rocky-rankings.mjs geprüfter Rocky-Beach-Abgleich
 
 ## Projektstatus
 
-**Version 1.5.11** ist der aktuelle stabile Release. **Version 1.0.0** war der erste konsolidierte Release unter dem Namen **Die Fallkartei**. Der Quellcode ist im Repository einsehbar; die App wird über GitHub Pages bereitgestellt.
+**Version 1.5.12** ist der aktuelle stabile Release. **Version 1.0.0** war der erste konsolidierte Release unter dem Namen **Die Fallkartei**. Der Quellcode ist im Repository einsehbar; die App wird über GitHub Pages bereitgestellt.
 
 Metadaten können unvollständig, veraltet oder fehlerhaft sein. Hinweise können über GitHub Issues gemeldet werden, sofern sie für das Repository aktiviert sind.
 

@@ -23,6 +23,15 @@ let achievementChecksEnabled=false,archiveCheckQueued=false,archiveBadgeTapCount
 const dialogStack=[];
 const ARCHIVE_DEBUG_PASSWORD='AKTE100';
 const RELEASE_NOTES={
+  '1.5.12':{
+    title:'Neu in Version 1.5.12',
+    intro:'Folge 241 „Meister des Lichts“ ist jetzt vollständig in der Fallkartei verfügbar.',
+    items:[
+      ['Folge 241 vollständig','Finale Folgenbeschreibung, Autor, Laufzeit, Kapitel und Sprecherrollen sind hinterlegt.'],
+      ['Streaming komplett','Spotify, Apple Music, BookBeat, Amazon Music, YouTube Music, Deezer und Amazon sind direkt verknüpft.'],
+      ['Cover & Katalog','Das finale Cover ist hinterlegt; Folge 241 zählt regulär zum 100-%-Fortschritt.'],
+    ],
+  },
   '1.5.7':{
     title:'Neu in Version 1.5.7',
     intro:'Version 1.5.7 bündelt wichtige Informationen und Hilfebereiche direkt in der App.',

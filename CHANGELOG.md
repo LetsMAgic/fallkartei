@@ -2,6 +2,17 @@
 
 Alle wesentlichen Änderungen an Die Fallkartei werden in dieser Datei dokumentiert.
 
+## 1.5.12 – 2026-09-23
+
+### Folge 241 – Meister des Lichts
+
+- Folge 241 mit finalen Metadaten veröffentlicht
+- Autor Christoph Dittert, Hörspielskript André Minninger, Veröffentlichungsdatum 18.09.2026 und Laufzeit 79 Minuten hinterlegt
+- offizielle Beschreibung, sieben Kapitel und Sprecherrollen ergänzt
+- finales Cover der offiziellen Die-drei-???-Seite hinterlegt
+- direkte Links zu Spotify, Apple Music, BookBeat, Amazon Music, YouTube Music, Deezer und Amazon ergänzt
+- Folge 241 zählt nach ihrem Release regulär zum 100-%-Fortschritt; Folge 242 bleibt bis zu ihrem Veröffentlichungstermin ausgeschlossen
+
 ## 1.5.11 – 2026-08-15
 
 ### Community-Ranking
