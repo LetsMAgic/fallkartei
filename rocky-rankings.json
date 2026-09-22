@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-22T09:17:32.957Z",
+  "updatedAt": "2026-09-22T23:46:24.781Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -138,9 +138,9 @@
     },
     "23": {
       "title": "Das Aztekenschwert",
-      "rating": 2.0951,
+      "rating": 2.095,
       "rank": 36,
-      "votes": 1125
+      "votes": 1126
     },
     "24": {
       "title": "Die silberne Spinne",
@@ -546,9 +546,9 @@
     },
     "91": {
       "title": "Labyrinth der Götter",
-      "rating": 1.9059,
+      "rating": 1.9051,
       "rank": 22,
-      "votes": 1084
+      "votes": 1085
     },
     "92": {
       "title": "Todesflug",
@@ -1062,9 +1062,9 @@
     },
     "177": {
       "title": "Der Geist des Goldgräbers",
-      "rating": 2.4377,
+      "rating": 2.4326,
       "rank": 92,
-      "votes": 281
+      "votes": 282
     },
     "178": {
       "title": "Der gefiederte Schrecken",
@@ -1086,9 +1086,9 @@
     },
     "181": {
       "title": "Das Kabinett des Zauberers",
-      "rating": 2.7259,
+      "rating": 2.7192,
       "rank": 132,
-      "votes": 259
+      "votes": 260
     },
     "182": {
       "title": "Im Haus des Henkers",
