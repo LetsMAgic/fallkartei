@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-23T09:17:58.131Z",
+  "updatedAt": "2026-09-24T09:17:28.935Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -361,7 +361,7 @@
     "60": {
       "title": "Dopingmixer",
       "rating": 3.7541,
-      "rank": 247,
+      "rank": 248,
       "votes": 850
     },
     "61": {
@@ -379,14 +379,14 @@
     "63": {
       "title": "Fußball-Gangster",
       "rating": 4.0225,
-      "rank": 251,
+      "rank": 252,
       "votes": 843
     },
     "64": {
       "title": "Geisterstadt",
-      "rating": 2.7167,
+      "rating": 2.7159,
       "rank": 130,
-      "votes": 872
+      "votes": 873
     },
     "65": {
       "title": "Diamantenschmuggel",
@@ -487,7 +487,7 @@
     "81": {
       "title": "Verdeckte Fouls",
       "rating": 3.8615,
-      "rank": 250,
+      "rank": 251,
       "votes": 816
     },
     "82": {
@@ -553,7 +553,7 @@
     "92": {
       "title": "Todesflug",
       "rating": 4.0816,
-      "rank": 252,
+      "rank": 253,
       "votes": 1029
     },
     "93": {
@@ -847,7 +847,7 @@
     "141": {
       "title": "Die Fußball-Falle",
       "rating": 3.8263,
-      "rank": 248,
+      "rank": 249,
       "votes": 357
     },
     "142": {
@@ -1068,9 +1068,9 @@
     },
     "178": {
       "title": "Der gefiederte Schrecken",
-      "rating": 2.7692,
+      "rating": 2.7701,
       "rank": 137,
-      "votes": 273
+      "votes": 274
     },
     "179": {
       "title": "Die Rache des Untoten",
@@ -1153,7 +1153,7 @@
     "192": {
       "title": "Im Bann des Drachen",
       "rating": 4.2615,
-      "rank": 255,
+      "rank": 256,
       "votes": 218
     },
     "193": {
@@ -1189,7 +1189,7 @@
     "198": {
       "title": "Die Legende der Gaukler",
       "rating": 4.1582,
-      "rank": 253,
+      "rank": 254,
       "votes": 196
     },
     "199": {
@@ -1255,7 +1255,7 @@
     "209": {
       "title": "Kreaturen der Nacht",
       "rating": 4.2021,
-      "rank": 254,
+      "rank": 255,
       "votes": 188
     },
     "210": {
@@ -1369,7 +1369,7 @@
     "228": {
       "title": "Der Ruf der Krähen",
       "rating": 3.8403,
-      "rank": 249,
+      "rank": 250,
       "votes": 144
     },
     "229": {
@@ -1446,9 +1446,9 @@
     },
     "241": {
       "title": "Meister des Lichts",
-      "rating": 5,
-      "rank": 257,
-      "votes": 1
+      "rating": 3.75,
+      "rank": 247,
+      "votes": 4
     }
   }
 }
