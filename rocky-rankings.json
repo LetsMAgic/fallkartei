@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-24T09:17:28.935Z",
+  "updatedAt": "2026-09-25T09:35:53.075Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -144,9 +144,9 @@
     },
     "24": {
       "title": "Die silberne Spinne",
-      "rating": 2.2034,
+      "rating": 2.204,
       "rank": 52,
-      "votes": 1190
+      "votes": 1191
     },
     "25": {
       "title": "Die singende Schlange",
@@ -169,7 +169,7 @@
     "28": {
       "title": "Der Doppelgänger",
       "rating": 2.3296,
-      "rank": 72,
+      "rank": 71,
       "votes": 1156
     },
     "29": {
@@ -361,7 +361,7 @@
     "60": {
       "title": "Dopingmixer",
       "rating": 3.7541,
-      "rank": 248,
+      "rank": 247,
       "votes": 850
     },
     "61": {
@@ -379,7 +379,7 @@
     "63": {
       "title": "Fußball-Gangster",
       "rating": 4.0225,
-      "rank": 252,
+      "rank": 251,
       "votes": 843
     },
     "64": {
@@ -487,7 +487,7 @@
     "81": {
       "title": "Verdeckte Fouls",
       "rating": 3.8615,
-      "rank": 251,
+      "rank": 250,
       "votes": 816
     },
     "82": {
@@ -552,15 +552,15 @@
     },
     "92": {
       "title": "Todesflug",
-      "rating": 4.0816,
-      "rank": 253,
-      "votes": 1029
+      "rating": 4.0835,
+      "rank": 252,
+      "votes": 1030
     },
     "93": {
       "title": "Das Geisterschiff",
-      "rating": 2.3293,
-      "rank": 71,
-      "votes": 920
+      "rating": 2.3301,
+      "rank": 72,
+      "votes": 921
     },
     "94": {
       "title": "Das schwarze Monster",
@@ -847,7 +847,7 @@
     "141": {
       "title": "Die Fußball-Falle",
       "rating": 3.8263,
-      "rank": 249,
+      "rank": 248,
       "votes": 357
     },
     "142": {
@@ -1050,9 +1050,9 @@
     },
     "175": {
       "title": "Schattenwelt",
-      "rating": 2.2871,
+      "rating": 2.2862,
       "rank": 65,
-      "votes": 317
+      "votes": 318
     },
     "176": {
       "title": "Der gestohlene Sieg",
@@ -1074,9 +1074,9 @@
     },
     "179": {
       "title": "Die Rache des Untoten",
-      "rating": 2.651,
+      "rating": 2.6484,
       "rank": 121,
-      "votes": 255
+      "votes": 256
     },
     "180": {
       "title": "Die flüsternden Puppen",
@@ -1189,7 +1189,7 @@
     "198": {
       "title": "Die Legende der Gaukler",
       "rating": 4.1582,
-      "rank": 254,
+      "rank": 253,
       "votes": 196
     },
     "199": {
@@ -1350,9 +1350,9 @@
     },
     "225": {
       "title": "Der Puppenmacher",
-      "rating": 1.9323,
+      "rating": 1.9378,
       "rank": 27,
-      "votes": 192
+      "votes": 193
     },
     "226": {
       "title": "Spur der Toten",
@@ -1369,7 +1369,7 @@
     "228": {
       "title": "Der Ruf der Krähen",
       "rating": 3.8403,
-      "rank": 250,
+      "rank": 249,
       "votes": 144
     },
     "229": {
@@ -1446,9 +1446,9 @@
     },
     "241": {
       "title": "Meister des Lichts",
-      "rating": 3.75,
-      "rank": 247,
-      "votes": 4
+      "rating": 4.1667,
+      "rank": 254,
+      "votes": 6
     }
   }
 }
