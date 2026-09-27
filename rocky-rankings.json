@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-26T09:20:29.027Z",
+  "updatedAt": "2026-09-27T09:59:36.422Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -180,15 +180,15 @@
     },
     "30": {
       "title": "Das Riff der Haie",
-      "rating": 2.1913,
+      "rating": 2.192,
       "rank": 48,
-      "votes": 1103
+      "votes": 1104
     },
     "31": {
       "title": "Das Narbengesicht",
-      "rating": 2.2302,
+      "rating": 2.2299,
       "rank": 55,
-      "votes": 995
+      "votes": 996
     },
     "32": {
       "title": "Der Ameisenmensch",
@@ -564,9 +564,9 @@
     },
     "94": {
       "title": "Das schwarze Monster",
-      "rating": 3.368,
+      "rating": 3.3664,
       "rank": 227,
-      "votes": 875
+      "votes": 876
     },
     "95": {
       "title": "Botschaft von Geisterhand",
@@ -1062,9 +1062,9 @@
     },
     "177": {
       "title": "Der Geist des Goldgräbers",
-      "rating": 2.4326,
+      "rating": 2.4346,
       "rank": 91,
-      "votes": 282
+      "votes": 283
     },
     "178": {
       "title": "Der gefiederte Schrecken",
@@ -1134,9 +1134,9 @@
     },
     "189": {
       "title": "Der unsichtbare Passagier",
-      "rating": 2.2714,
+      "rating": 2.2704,
       "rank": 61,
-      "votes": 269
+      "votes": 270
     },
     "190": {
       "title": "Die Kammer der Rätsel",
@@ -1152,7 +1152,7 @@
     },
     "192": {
       "title": "Im Bann des Drachen",
-      "rating": 4.2615,
+      "rating": 4.2661,
       "rank": 254,
       "votes": 218
     },
@@ -1416,9 +1416,9 @@
     },
     "236": {
       "title": "Im Bann des Barrakudas",
-      "rating": 3.236,
+      "rating": 3.2444,
       "rank": 208,
-      "votes": 89
+      "votes": 90
     },
     "237": {
       "title": "Der rote Büffel",
@@ -1446,9 +1446,9 @@
     },
     "241": {
       "title": "Meister des Lichts",
-      "rating": 4.4444,
+      "rating": 4.3636,
       "rank": 255,
-      "votes": 9
+      "votes": 11
     }
   }
 }
