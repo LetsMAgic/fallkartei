@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-09-30T10:28:34.700Z",
+  "updatedAt": "2026-10-01T10:56:21.511Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -36,9 +36,9 @@
     },
     "6": {
       "title": "Der sprechende Totenkopf",
-      "rating": 1.8241,
+      "rating": 1.8234,
       "rank": 18,
-      "votes": 1296
+      "votes": 1297
     },
     "7": {
       "title": "Der unheimliche Drache",
@@ -240,9 +240,9 @@
     },
     "40": {
       "title": "Der Automarder",
-      "rating": 2.8828,
+      "rating": 2.883,
       "rank": 157,
-      "votes": 956
+      "votes": 957
     },
     "41": {
       "title": "Das Volk der Winde",
@@ -301,7 +301,7 @@
     "50": {
       "title": "Der verschwundene Filmstar",
       "rating": 3.1095,
-      "rank": 189,
+      "rank": 188,
       "votes": 886
     },
     "51": {
@@ -325,7 +325,7 @@
     "54": {
       "title": "Gefahr im Verzug",
       "rating": 3.0194,
-      "rank": 179,
+      "rank": 178,
       "votes": 876
     },
     "55": {
@@ -492,21 +492,21 @@
     },
     "82": {
       "title": "Die Karten des Bösen",
-      "rating": 2.8704,
+      "rating": 2.8717,
       "rank": 156,
-      "votes": 895
+      "votes": 896
     },
     "83": {
       "title": "Meuterei auf hoher See",
-      "rating": 2.4633,
+      "rating": 2.4616,
       "rank": 95,
-      "votes": 898
+      "votes": 899
     },
     "84": {
       "title": "Die Musik des Teufels",
-      "rating": 2.1056,
+      "rating": 2.1065,
       "rank": 37,
-      "votes": 994
+      "votes": 995
     },
     "85": {
       "title": "Feuerturm",
@@ -528,9 +528,9 @@
     },
     "88": {
       "title": "Vampir im Internet",
-      "rating": 3.435,
+      "rating": 3.4346,
       "rank": 235,
-      "votes": 954
+      "votes": 955
     },
     "89": {
       "title": "Tödliche Spur",
@@ -570,9 +570,9 @@
     },
     "95": {
       "title": "Botschaft von Geisterhand",
-      "rating": 2.6935,
+      "rating": 2.6927,
       "rank": 126,
-      "votes": 894
+      "votes": 895
     },
     "96": {
       "title": "Der rote Rächer",
@@ -582,9 +582,9 @@
     },
     "97": {
       "title": "Insektenstachel",
-      "rating": 2.6454,
-      "rank": 120,
-      "votes": 973
+      "rating": 2.6458,
+      "rank": 121,
+      "votes": 974
     },
     "98": {
       "title": "Tal des Schreckens",
@@ -714,9 +714,9 @@
     },
     "119": {
       "title": "Der geheime Schlüssel",
-      "rating": 2.3775,
+      "rating": 2.3771,
       "rank": 80,
-      "votes": 959
+      "votes": 960
     },
     "120": {
       "title": "Der schwarze Skorpion",
@@ -816,9 +816,9 @@
     },
     "136": {
       "title": "Das versunkene Dorf",
-      "rating": 1.9772,
+      "rating": 1.9773,
       "rank": 29,
-      "votes": 527
+      "votes": 528
     },
     "137": {
       "title": "Pfad der Angst",
@@ -835,7 +835,7 @@
     "139": {
       "title": "Das Geheimnis der Diva",
       "rating": 3.2685,
-      "rank": 214,
+      "rank": 213,
       "votes": 391
     },
     "140": {
@@ -853,7 +853,7 @@
     "142": {
       "title": "Tödliches Eis",
       "rating": 2.6456,
-      "rank": 121,
+      "rank": 120,
       "votes": 412
     },
     "143": {
@@ -919,7 +919,7 @@
     "153": {
       "title": "Das Fußballphantom",
       "rating": 3.1129,
-      "rank": 190,
+      "rank": 189,
       "votes": 310
     },
     "154": {
@@ -1170,8 +1170,8 @@
     },
     "195": {
       "title": "Im Reich der Ungeheuer",
-      "rating": 3.0158,
-      "rank": 178,
+      "rating": 3.0211,
+      "rank": 179,
       "votes": 190
     },
     "196": {
@@ -1291,7 +1291,7 @@
     "215": {
       "title": "Die verlorene Zeit",
       "rating": 3.2708,
-      "rank": 215,
+      "rank": 214,
       "votes": 144
     },
     "216": {
@@ -1374,9 +1374,9 @@
     },
     "229": {
       "title": "Drehbuch der Täuschung",
-      "rating": 3.2683,
-      "rank": 213,
-      "votes": 123
+      "rating": 3.2742,
+      "rank": 215,
+      "votes": 124
     },
     "230": {
       "title": "Der Tag der Toten",
@@ -1434,21 +1434,21 @@
     },
     "239": {
       "title": "Das Geheimnis der sieben Palmen",
-      "rating": 3.3333,
+      "rating": 3.3279,
       "rank": 221,
-      "votes": 60
+      "votes": 61
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.0882,
-      "rank": 188,
-      "votes": 34
+      "rating": 3.1143,
+      "rank": 190,
+      "votes": 35
     },
     "241": {
       "title": "Meister des Lichts",
-      "rating": 4.1176,
+      "rating": 4.1111,
       "rank": 254,
-      "votes": 17
+      "votes": 18
     }
   }
 }
