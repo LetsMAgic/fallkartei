@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-02T10:29:37.060Z",
+  "updatedAt": "2026-10-03T09:51:24.099Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -252,7 +252,7 @@
     },
     "42": {
       "title": "Der weinende Sarg",
-      "rating": 2.7137,
+      "rating": 2.7147,
       "rank": 129,
       "votes": 936
     },
@@ -301,7 +301,7 @@
     "50": {
       "title": "Der verschwundene Filmstar",
       "rating": 3.1095,
-      "rank": 187,
+      "rank": 188,
       "votes": 886
     },
     "51": {
@@ -313,7 +313,7 @@
     "52": {
       "title": "Die Musikpiraten",
       "rating": 2.893,
-      "rank": 158,
+      "rank": 157,
       "votes": 925
     },
     "53": {
@@ -373,7 +373,7 @@
     "62": {
       "title": "Spuk im Hotel",
       "rating": 2.2008,
-      "rank": 49,
+      "rank": 50,
       "votes": 956
     },
     "63": {
@@ -546,9 +546,9 @@
     },
     "91": {
       "title": "Labyrinth der Götter",
-      "rating": 1.9051,
+      "rating": 1.9052,
       "rank": 22,
-      "votes": 1085
+      "votes": 1086
     },
     "92": {
       "title": "Todesflug",
@@ -697,7 +697,7 @@
     "116": {
       "title": "Codename: Cobra",
       "rating": 3.0847,
-      "rank": 186,
+      "rank": 187,
       "votes": 885
     },
     "117": {
@@ -1320,9 +1320,9 @@
     },
     "220": {
       "title": "Im Wald der Gefahren",
-      "rating": 2.2023,
-      "rank": 50,
-      "votes": 173
+      "rating": 2.1954,
+      "rank": 49,
+      "votes": 174
     },
     "221": {
       "title": "Manuskript des Satans",
@@ -1380,9 +1380,9 @@
     },
     "230": {
       "title": "Der Tag der Toten",
-      "rating": 2.8906,
-      "rank": 157,
-      "votes": 128
+      "rating": 2.8992,
+      "rank": 158,
+      "votes": 129
     },
     "231": {
       "title": "Der Dreiäugige Schakal",
@@ -1440,15 +1440,15 @@
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.1111,
-      "rank": 188,
-      "votes": 36
+      "rating": 3.0789,
+      "rank": 186,
+      "votes": 38
     },
     "241": {
       "title": "Meister des Lichts",
-      "rating": 4.1111,
+      "rating": 4.1579,
       "rank": 253,
-      "votes": 18
+      "votes": 19
     }
   }
 }
