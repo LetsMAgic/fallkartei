@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-03T09:51:24.099Z",
+  "updatedAt": "2026-10-04T10:33:56.619Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -36,9 +36,9 @@
     },
     "6": {
       "title": "Der sprechende Totenkopf",
-      "rating": 1.8234,
+      "rating": 1.8236,
       "rank": 18,
-      "votes": 1297
+      "votes": 1298
     },
     "7": {
       "title": "Der unheimliche Drache",
@@ -72,9 +72,9 @@
     },
     "12": {
       "title": "Der seltsame Wecker",
-      "rating": 1.9199,
+      "rating": 1.9215,
       "rank": 24,
-      "votes": 1299
+      "votes": 1300
     },
     "13": {
       "title": "Der lachende Schatten",
@@ -780,9 +780,9 @@
     },
     "130": {
       "title": "Der Fluch des Drachen",
-      "rating": 2.2325,
+      "rating": 2.238,
       "rank": 56,
-      "votes": 499
+      "votes": 500
     },
     "131": {
       "title": "Haus des Schreckens",
@@ -954,9 +954,9 @@
     },
     "159": {
       "title": "Nacht der Tiger",
-      "rating": 2.392,
+      "rating": 2.3908,
       "rank": 81,
-      "votes": 324
+      "votes": 325
     },
     "160": {
       "title": "Geheimnisvolle Botschaften",
@@ -990,9 +990,9 @@
     },
     "165": {
       "title": "Im Schatten des Giganten",
-      "rating": 2.5584,
+      "rating": 2.5535,
       "rank": 102,
-      "votes": 317
+      "votes": 318
     },
     "166": {
       "title": "Die brennende Stadt",
@@ -1189,7 +1189,7 @@
     "198": {
       "title": "Die Legende der Gaukler",
       "rating": 4.1582,
-      "rank": 254,
+      "rank": 253,
       "votes": 196
     },
     "199": {
@@ -1242,9 +1242,9 @@
     },
     "207": {
       "title": "Die falschen Detektive",
-      "rating": 2.8418,
+      "rating": 2.8384,
       "rank": 149,
-      "votes": 196
+      "votes": 198
     },
     "208": {
       "title": "Kelch des Schicksals",
@@ -1302,9 +1302,9 @@
     },
     "217": {
       "title": "Der Kristallschädel",
-      "rating": 2.4968,
+      "rating": 2.5,
       "rank": 97,
-      "votes": 157
+      "votes": 158
     },
     "218": {
       "title": "Im Netz der Lügen",
@@ -1314,9 +1314,9 @@
     },
     "219": {
       "title": "Die Teufelsklippe",
-      "rating": 2.3176,
+      "rating": 2.3275,
       "rank": 70,
-      "votes": 170
+      "votes": 171
     },
     "220": {
       "title": "Im Wald der Gefahren",
@@ -1386,9 +1386,9 @@
     },
     "231": {
       "title": "Der Dreiäugige Schakal",
-      "rating": 3.3538,
+      "rating": 3.3511,
       "rank": 221,
-      "votes": 130
+      "votes": 131
     },
     "232": {
       "title": "Die Stadt aus Gold",
@@ -1446,9 +1446,9 @@
     },
     "241": {
       "title": "Meister des Lichts",
-      "rating": 4.1579,
-      "rank": 253,
-      "votes": 19
+      "rating": 4.2,
+      "rank": 254,
+      "votes": 20
     }
   }
 }
