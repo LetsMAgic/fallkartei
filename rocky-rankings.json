@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-05T11:27:03.419Z",
+  "updatedAt": "2026-10-06T11:15:25.364Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -534,15 +534,15 @@
     },
     "89": {
       "title": "Tödliche Spur",
-      "rating": 1.9226,
+      "rating": 1.9237,
       "rank": 25,
-      "votes": 956
+      "votes": 957
     },
     "90": {
       "title": "Der Feuerteufel",
-      "rating": 2.316,
+      "rating": 2.3145,
       "rank": 69,
-      "votes": 921
+      "votes": 922
     },
     "91": {
       "title": "Labyrinth der Götter",
@@ -1086,9 +1086,9 @@
     },
     "181": {
       "title": "Das Kabinett des Zauberers",
-      "rating": 2.7203,
+      "rating": 2.7252,
       "rank": 131,
-      "votes": 261
+      "votes": 262
     },
     "182": {
       "title": "Im Haus des Henkers",
@@ -1116,9 +1116,9 @@
     },
     "186": {
       "title": "Insel des Vergessens",
-      "rating": 2.0296,
+      "rating": 2.0332,
       "rank": 33,
-      "votes": 270
+      "votes": 271
     },
     "187": {
       "title": "Das silberne Amulett",
