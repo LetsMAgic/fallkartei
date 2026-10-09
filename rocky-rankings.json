@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-08T11:21:08.497Z",
+  "updatedAt": "2026-10-09T11:18:42.460Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -24,7 +24,7 @@
     },
     "4": {
       "title": "Die schwarze Katze",
-      "rating": 2.5744,
+      "rating": 2.5752,
       "rank": 103,
       "votes": 1283
     },
@@ -36,7 +36,7 @@
     },
     "6": {
       "title": "Der sprechende Totenkopf",
-      "rating": 1.8236,
+      "rating": 1.8243,
       "rank": 18,
       "votes": 1298
     },
@@ -60,9 +60,9 @@
     },
     "10": {
       "title": "Die flüsternde Mumie",
-      "rating": 1.9532,
+      "rating": 1.954,
       "rank": 28,
-      "votes": 1260
+      "votes": 1261
     },
     "11": {
       "title": "Das Gespensterschloß",
@@ -301,7 +301,7 @@
     "50": {
       "title": "Der verschwundene Filmstar",
       "rating": 3.1095,
-      "rank": 187,
+      "rank": 188,
       "votes": 886
     },
     "51": {
@@ -313,7 +313,7 @@
     "52": {
       "title": "Die Musikpiraten",
       "rating": 2.893,
-      "rank": 156,
+      "rank": 157,
       "votes": 925
     },
     "53": {
@@ -396,9 +396,9 @@
     },
     "66": {
       "title": "Die Schattenmänner",
-      "rating": 3.3608,
+      "rating": 3.3616,
       "rank": 224,
-      "votes": 873
+      "votes": 874
     },
     "67": {
       "title": "Geheimnis der Särge",
@@ -433,7 +433,7 @@
     "72": {
       "title": "Dreckiger Deal",
       "rating": 3.1372,
-      "rank": 192,
+      "rank": 193,
       "votes": 831
     },
     "73": {
@@ -625,7 +625,7 @@
     "104": {
       "title": "Gift per E-Mail",
       "rating": 3.1194,
-      "rank": 189,
+      "rank": 190,
       "votes": 921
     },
     "105": {
@@ -732,9 +732,9 @@
     },
     "122": {
       "title": "Der Geisterzug",
-      "rating": 2.71,
+      "rating": 2.709,
       "rank": 126,
-      "votes": 669
+      "votes": 670
     },
     "123": {
       "title": "Fußballfieber",
@@ -835,7 +835,7 @@
     "139": {
       "title": "Das Geheimnis der Diva",
       "rating": 3.2685,
-      "rank": 211,
+      "rank": 212,
       "votes": 391
     },
     "140": {
@@ -919,7 +919,7 @@
     "153": {
       "title": "Das Fußballphantom",
       "rating": 3.1129,
-      "rank": 188,
+      "rank": 189,
       "votes": 310
     },
     "154": {
@@ -1260,8 +1260,8 @@
     },
     "210": {
       "title": "Die schweigende Grotte",
-      "rating": 3.1384,
-      "rank": 193,
+      "rating": 3.1321,
+      "rank": 192,
       "votes": 159
     },
     "211": {
@@ -1290,15 +1290,15 @@
     },
     "215": {
       "title": "Die verlorene Zeit",
-      "rating": 3.2708,
-      "rank": 212,
-      "votes": 144
+      "rating": 3.2621,
+      "rank": 211,
+      "votes": 145
     },
     "216": {
       "title": "Die Schwingen des Unheils",
-      "rating": 3.5,
+      "rating": 3.4967,
       "rank": 239,
-      "votes": 150
+      "votes": 151
     },
     "217": {
       "title": "Der Kristallschädel",
@@ -1380,9 +1380,9 @@
     },
     "230": {
       "title": "Der Tag der Toten",
-      "rating": 2.8992,
-      "rank": 157,
-      "votes": 129
+      "rating": 2.8923,
+      "rank": 156,
+      "votes": 130
     },
     "231": {
       "title": "Der Dreiäugige Schakal",
@@ -1410,9 +1410,9 @@
     },
     "235": {
       "title": "Das Fantasmofon",
-      "rating": 3.125,
-      "rank": 190,
-      "votes": 96
+      "rating": 3.1031,
+      "rank": 187,
+      "votes": 97
     },
     "236": {
       "title": "Im Bann des Barrakudas",
