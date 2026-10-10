@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-09T11:18:42.460Z",
+  "updatedAt": "2026-10-10T10:35:46.743Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -288,15 +288,15 @@
     },
     "48": {
       "title": "Die gefährlichen Fässer",
-      "rating": 2.8002,
-      "rank": 143,
-      "votes": 926
+      "rating": 2.7994,
+      "rank": 142,
+      "votes": 927
     },
     "49": {
       "title": "Die Comic-Diebe",
-      "rating": 2.4593,
+      "rating": 2.4588,
       "rank": 92,
-      "votes": 958
+      "votes": 959
     },
     "50": {
       "title": "Der verschwundene Filmstar",
@@ -1404,9 +1404,9 @@
     },
     "234": {
       "title": "Der lebende Tresor",
-      "rating": 3.7143,
+      "rating": 3.6991,
       "rank": 243,
-      "votes": 112
+      "votes": 113
     },
     "235": {
       "title": "Das Fantasmofon",
