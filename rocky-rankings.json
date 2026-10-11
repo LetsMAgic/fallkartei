@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-10T10:35:46.743Z",
+  "updatedAt": "2026-10-11T10:48:17.807Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -66,15 +66,15 @@
     },
     "11": {
       "title": "Das Gespensterschloß",
-      "rating": 1.5191,
+      "rating": 1.5201,
       "rank": 2,
-      "votes": 1364
+      "votes": 1365
     },
     "12": {
       "title": "Der seltsame Wecker",
-      "rating": 1.9215,
+      "rating": 1.9208,
       "rank": 24,
-      "votes": 1300
+      "votes": 1301
     },
     "13": {
       "title": "Der lachende Schatten",
@@ -294,21 +294,21 @@
     },
     "49": {
       "title": "Die Comic-Diebe",
-      "rating": 2.4588,
+      "rating": 2.4583,
       "rank": 92,
-      "votes": 959
+      "votes": 960
     },
     "50": {
       "title": "Der verschwundene Filmstar",
-      "rating": 3.1095,
+      "rating": 3.1094,
       "rank": 188,
-      "votes": 886
+      "votes": 887
     },
     "51": {
       "title": "Der riskante Ritt",
-      "rating": 2.7802,
+      "rating": 2.7794,
       "rank": 139,
-      "votes": 910
+      "votes": 911
     },
     "52": {
       "title": "Die Musikpiraten",
@@ -564,9 +564,9 @@
     },
     "94": {
       "title": "Das schwarze Monster",
-      "rating": 3.3664,
+      "rating": 3.3672,
       "rank": 226,
-      "votes": 876
+      "votes": 877
     },
     "95": {
       "title": "Botschaft von Geisterhand",
