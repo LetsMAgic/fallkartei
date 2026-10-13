@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-12T11:56:41.872Z",
+  "updatedAt": "2026-10-13T11:45:43.310Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -78,9 +78,9 @@
     },
     "13": {
       "title": "Der lachende Schatten",
-      "rating": 2.3934,
-      "rank": 81,
-      "votes": 1159
+      "rating": 2.394,
+      "rank": 82,
+      "votes": 1160
     },
     "14": {
       "title": "Das Bergmonster",
@@ -133,7 +133,7 @@
     "22": {
       "title": "Der verschwundene Schatz",
       "rating": 2.3935,
-      "rank": 82,
+      "rank": 81,
       "votes": 1075
     },
     "23": {
@@ -320,31 +320,31 @@
       "title": "Die Automafia",
       "rating": 3.0089,
       "rank": 173,
-      "votes": 895
+      "votes": 896
     },
     "54": {
       "title": "Gefahr im Verzug",
       "rating": 3.0194,
       "rank": 176,
-      "votes": 876
+      "votes": 877
     },
     "55": {
       "title": "Gekaufte Spieler",
-      "rating": 3.3906,
+      "rating": 3.3902,
       "rank": 228,
-      "votes": 855
+      "votes": 856
     },
     "56": {
       "title": "Angriff der Computer-Viren",
-      "rating": 3.1891,
+      "rating": 3.1889,
       "rank": 201,
-      "votes": 899
+      "votes": 900
     },
     "57": {
       "title": "Tatort Zirkus",
-      "rating": 3.4654,
+      "rating": 3.466,
       "rank": 235,
-      "votes": 853
+      "votes": 854
     },
     "58": {
       "title": "Der verrückte Maler",
@@ -553,7 +553,7 @@
     "92": {
       "title": "Todesflug",
       "rating": 4.0835,
-      "rank": 251,
+      "rank": 252,
       "votes": 1030
     },
     "93": {
@@ -642,9 +642,9 @@
     },
     "107": {
       "title": "Der Schatz der Mönche",
-      "rating": 2.7826,
+      "rating": 2.7817,
       "rank": 140,
-      "votes": 929
+      "votes": 930
     },
     "108": {
       "title": "Die sieben Tore",
@@ -1350,9 +1350,9 @@
     },
     "225": {
       "title": "Der Puppenmacher",
-      "rating": 1.9378,
+      "rating": 1.933,
       "rank": 27,
-      "votes": 193
+      "votes": 194
     },
     "226": {
       "title": "Spur der Toten",
@@ -1446,9 +1446,9 @@
     },
     "241": {
       "title": "Meister des Lichts",
-      "rating": 4.125,
-      "rank": 252,
-      "votes": 24
+      "rating": 4.08,
+      "rank": 251,
+      "votes": 25
     }
   }
 }
