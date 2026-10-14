@@ -2,373 +2,373 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-13T11:45:43.310Z",
+  "updatedAt": "2026-10-14T09:29:47.170Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
-      "rating": 1.6312,
+      "rating": 1.6307,
       "rank": 7,
-      "votes": 1483
+      "votes": 1484
     },
     "2": {
       "title": "Der Phantomsee",
-      "rating": 1.8211,
+      "rating": 1.8212,
       "rank": 17,
-      "votes": 1336
+      "votes": 1337
     },
     "3": {
       "title": "Der Karpatenhund",
-      "rating": 1.5569,
+      "rating": 1.5566,
       "rank": 4,
-      "votes": 1440
+      "votes": 1441
     },
     "4": {
       "title": "Die schwarze Katze",
-      "rating": 2.5752,
-      "rank": 103,
-      "votes": 1283
+      "rating": 2.5748,
+      "rank": 104,
+      "votes": 1284
     },
     "5": {
       "title": "Der Fluch des Rubins",
-      "rating": 1.8426,
+      "rating": 1.8427,
       "rank": 19,
-      "votes": 1283
+      "votes": 1284
     },
     "6": {
       "title": "Der sprechende Totenkopf",
-      "rating": 1.8243,
+      "rating": 1.8245,
       "rank": 18,
-      "votes": 1298
+      "votes": 1299
     },
     "7": {
       "title": "Der unheimliche Drache",
-      "rating": 2.3712,
-      "rank": 75,
-      "votes": 1223
+      "rating": 2.3717,
+      "rank": 76,
+      "votes": 1224
     },
     "8": {
       "title": "Der grüne Geist",
-      "rating": 1.8629,
+      "rating": 1.8638,
       "rank": 20,
-      "votes": 1269
+      "votes": 1270
     },
     "9": {
       "title": "Die rätselhaften Bilder",
-      "rating": 2.0806,
+      "rating": 2.0797,
       "rank": 35,
-      "votes": 1203
+      "votes": 1204
     },
     "10": {
       "title": "Die flüsternde Mumie",
       "rating": 1.954,
       "rank": 28,
-      "votes": 1261
+      "votes": 1262
     },
     "11": {
       "title": "Das Gespensterschloß",
-      "rating": 1.5201,
+      "rating": 1.5205,
       "rank": 2,
-      "votes": 1365
+      "votes": 1366
     },
     "12": {
       "title": "Der seltsame Wecker",
-      "rating": 1.9208,
+      "rating": 1.9209,
       "rank": 24,
-      "votes": 1301
+      "votes": 1302
     },
     "13": {
       "title": "Der lachende Schatten",
-      "rating": 2.394,
+      "rating": 2.3945,
       "rank": 82,
-      "votes": 1160
+      "votes": 1161
     },
     "14": {
       "title": "Das Bergmonster",
-      "rating": 2.5133,
-      "rank": 98,
-      "votes": 1167
+      "rating": 2.5163,
+      "rank": 100,
+      "votes": 1168
     },
     "15": {
       "title": "Der rasende Löwe",
-      "rating": 2.5952,
-      "rank": 107,
-      "votes": 1161
+      "rating": 2.5964,
+      "rank": 108,
+      "votes": 1162
     },
     "16": {
       "title": "Der Zauberspiegel",
-      "rating": 2.0474,
+      "rating": 2.0491,
       "rank": 34,
-      "votes": 1181
+      "votes": 1182
     },
     "17": {
       "title": "Die gefährliche Erbschaft",
-      "rating": 1.7604,
+      "rating": 1.7606,
       "rank": 13,
-      "votes": 1206
+      "votes": 1207
     },
     "18": {
       "title": "Die Geisterinsel",
-      "rating": 1.9801,
+      "rating": 1.9792,
       "rank": 30,
-      "votes": 1153
+      "votes": 1154
     },
     "19": {
       "title": "Der Teufelsberg",
-      "rating": 2.024,
+      "rating": 2.0266,
       "rank": 31,
-      "votes": 1127
+      "votes": 1128
     },
     "20": {
       "title": "Die flammende Spur",
-      "rating": 2.2112,
+      "rating": 2.2119,
       "rank": 53,
-      "votes": 1141
+      "votes": 1142
     },
     "21": {
       "title": "Der tanzende Teufel",
-      "rating": 2.2908,
+      "rating": 2.2914,
       "rank": 66,
-      "votes": 1128
+      "votes": 1129
     },
     "22": {
       "title": "Der verschwundene Schatz",
-      "rating": 2.3935,
-      "rank": 81,
-      "votes": 1075
+      "rating": 2.395,
+      "rank": 83,
+      "votes": 1076
     },
     "23": {
       "title": "Das Aztekenschwert",
-      "rating": 2.0959,
+      "rating": 2.0985,
       "rank": 36,
-      "votes": 1126
+      "votes": 1127
     },
     "24": {
       "title": "Die silberne Spinne",
-      "rating": 2.204,
+      "rating": 2.2072,
       "rank": 52,
-      "votes": 1191
+      "votes": 1192
     },
     "25": {
       "title": "Die singende Schlange",
-      "rating": 2.1176,
+      "rating": 2.1193,
       "rank": 39,
-      "votes": 1131
+      "votes": 1132
     },
     "26": {
       "title": "Die Silbermine",
-      "rating": 2.1118,
+      "rating": 2.1117,
       "rank": 38,
-      "votes": 1127
+      "votes": 1128
     },
     "27": {
       "title": "Der magische Kreis",
-      "rating": 2.1753,
+      "rating": 2.176,
       "rank": 46,
-      "votes": 1141
+      "votes": 1142
     },
     "28": {
       "title": "Der Doppelgänger",
-      "rating": 2.3296,
-      "rank": 71,
-      "votes": 1156
+      "rating": 2.331,
+      "rank": 72,
+      "votes": 1157
     },
     "29": {
       "title": "Die Originalmusik",
-      "rating": 3.3567,
-      "rank": 222,
-      "votes": 928
+      "rating": 3.3563,
+      "rank": 223,
+      "votes": 929
     },
     "30": {
       "title": "Das Riff der Haie",
-      "rating": 2.192,
+      "rating": 2.1919,
       "rank": 48,
-      "votes": 1104
+      "votes": 1105
     },
     "31": {
       "title": "Das Narbengesicht",
-      "rating": 2.2299,
+      "rating": 2.2317,
       "rank": 55,
-      "votes": 996
+      "votes": 997
     },
     "32": {
       "title": "Der Ameisenmensch",
-      "rating": 1.9291,
+      "rating": 1.9301,
       "rank": 26,
-      "votes": 1072
+      "votes": 1073
     },
     "33": {
       "title": "Die bedrohte Ranch",
-      "rating": 2.1587,
+      "rating": 2.1623,
       "rank": 41,
-      "votes": 1071
+      "votes": 1072
     },
     "34": {
       "title": "Der rote Pirat",
-      "rating": 2.5951,
-      "rank": 106,
-      "votes": 988
+      "rating": 2.5976,
+      "rank": 109,
+      "votes": 989
     },
     "35": {
       "title": "Der Höhlenmensch",
-      "rating": 2.3333,
-      "rank": 73,
-      "votes": 984
+      "rating": 2.335,
+      "rank": 74,
+      "votes": 985
     },
     "36": {
       "title": "Der Super-Wal",
-      "rating": 3.0232,
-      "rank": 178,
-      "votes": 990
+      "rating": 3.0252,
+      "rank": 179,
+      "votes": 991
     },
     "37": {
       "title": "Der heimliche Hehler",
-      "rating": 2.422,
-      "rank": 89,
-      "votes": 962
+      "rating": 2.4226,
+      "rank": 90,
+      "votes": 963
     },
     "38": {
       "title": "Der unsichtbare Gegner",
-      "rating": 2.2689,
+      "rating": 2.2707,
       "rank": 61,
-      "votes": 978
+      "votes": 979
     },
     "39": {
       "title": "Die Perlenvögel",
-      "rating": 2.3978,
-      "rank": 83,
-      "votes": 1003
+      "rating": 2.3984,
+      "rank": 85,
+      "votes": 1004
     },
     "40": {
       "title": "Der Automarder",
-      "rating": 2.881,
-      "rank": 155,
-      "votes": 958
+      "rating": 2.8822,
+      "rank": 156,
+      "votes": 959
     },
     "41": {
       "title": "Das Volk der Winde",
-      "rating": 2.7712,
-      "rank": 137,
-      "votes": 931
+      "rating": 2.7736,
+      "rank": 138,
+      "votes": 932
     },
     "42": {
       "title": "Der weinende Sarg",
-      "rating": 2.715,
-      "rank": 128,
-      "votes": 937
+      "rating": 2.7154,
+      "rank": 130,
+      "votes": 938
     },
     "43": {
       "title": "Der höllische Werwolf",
-      "rating": 3.2901,
-      "rank": 214,
-      "votes": 910
+      "rating": 3.292,
+      "rank": 215,
+      "votes": 911
     },
     "44": {
       "title": "Der gestohlene Preis",
-      "rating": 3.2037,
-      "rank": 203,
-      "votes": 908
+      "rating": 3.2035,
+      "rank": 204,
+      "votes": 909
     },
     "45": {
       "title": "Das Gold der Wikinger",
-      "rating": 2.6907,
-      "rank": 123,
-      "votes": 915
+      "rating": 2.6921,
+      "rank": 124,
+      "votes": 916
     },
     "46": {
       "title": "Der schrullige Millionär",
-      "rating": 2.8159,
-      "rank": 145,
-      "votes": 967
+      "rating": 2.8171,
+      "rank": 147,
+      "votes": 968
     },
     "47": {
       "title": "Der giftige Gockel",
-      "rating": 2.5723,
-      "rank": 102,
-      "votes": 982
+      "rating": 2.5727,
+      "rank": 103,
+      "votes": 983
     },
     "48": {
       "title": "Die gefährlichen Fässer",
-      "rating": 2.7994,
-      "rank": 142,
-      "votes": 927
+      "rating": 2.8006,
+      "rank": 144,
+      "votes": 928
     },
     "49": {
       "title": "Die Comic-Diebe",
-      "rating": 2.4583,
-      "rank": 92,
-      "votes": 960
+      "rating": 2.4589,
+      "rank": 93,
+      "votes": 961
     },
     "50": {
       "title": "Der verschwundene Filmstar",
-      "rating": 3.1094,
-      "rank": 187,
-      "votes": 887
+      "rating": 3.1104,
+      "rank": 188,
+      "votes": 888
     },
     "51": {
       "title": "Der riskante Ritt",
-      "rating": 2.7805,
-      "rank": 139,
-      "votes": 911
+      "rating": 2.7829,
+      "rank": 141,
+      "votes": 912
     },
     "52": {
       "title": "Die Musikpiraten",
-      "rating": 2.892,
-      "rank": 156,
-      "votes": 926
+      "rating": 2.8921,
+      "rank": 157,
+      "votes": 927
     },
     "53": {
       "title": "Die Automafia",
-      "rating": 3.0089,
-      "rank": 173,
-      "votes": 896
+      "rating": 3.01,
+      "rank": 174,
+      "votes": 897
     },
     "54": {
       "title": "Gefahr im Verzug",
-      "rating": 3.0194,
-      "rank": 176,
-      "votes": 877
+      "rating": 3.0205,
+      "rank": 177,
+      "votes": 878
     },
     "55": {
       "title": "Gekaufte Spieler",
-      "rating": 3.3902,
-      "rank": 228,
-      "votes": 856
+      "rating": 3.3909,
+      "rank": 229,
+      "votes": 857
     },
     "56": {
       "title": "Angriff der Computer-Viren",
-      "rating": 3.1889,
-      "rank": 201,
-      "votes": 900
+      "rating": 3.1876,
+      "rank": 202,
+      "votes": 901
     },
     "57": {
       "title": "Tatort Zirkus",
-      "rating": 3.466,
-      "rank": 235,
-      "votes": 854
+      "rating": 3.4655,
+      "rank": 236,
+      "votes": 855
     },
     "58": {
       "title": "Der verrückte Maler",
-      "rating": 3.0541,
-      "rank": 180,
-      "votes": 851
+      "rating": 3.0539,
+      "rank": 181,
+      "votes": 853
     },
     "59": {
       "title": "Giftiges Wasser",
-      "rating": 3.2454,
-      "rank": 209,
-      "votes": 868
+      "rating": 3.2471,
+      "rank": 210,
+      "votes": 870
     },
     "60": {
       "title": "Dopingmixer",
-      "rating": 3.7529,
-      "rank": 246,
-      "votes": 850
+      "rating": 3.7521,
+      "rank": 247,
+      "votes": 851
     },
     "61": {
       "title": "Die Rache des Tigers",
-      "rating": 2.9916,
-      "rank": 169,
-      "votes": 836
+      "rating": 2.9928,
+      "rank": 170,
+      "votes": 837
     },
     "62": {
       "title": "Spuk im Hotel",
@@ -379,7 +379,7 @@
     "63": {
       "title": "Fußball-Gangster",
       "rating": 4.0225,
-      "rank": 250,
+      "rank": 251,
       "votes": 843
     },
     "64": {
@@ -391,49 +391,49 @@
     "65": {
       "title": "Diamantenschmuggel",
       "rating": 2.9331,
-      "rank": 160,
+      "rank": 161,
       "votes": 852
     },
     "66": {
       "title": "Die Schattenmänner",
       "rating": 3.3616,
-      "rank": 224,
+      "rank": 225,
       "votes": 874
     },
     "67": {
       "title": "Geheimnis der Särge",
       "rating": 3.1581,
-      "rank": 196,
+      "rank": 197,
       "votes": 879
     },
     "68": {
       "title": "Schatz im Bergsee",
       "rating": 3.2079,
-      "rank": 205,
+      "rank": 206,
       "votes": 890
     },
     "69": {
       "title": "Späte Rache",
       "rating": 2.9912,
-      "rank": 168,
+      "rank": 169,
       "votes": 908
     },
     "70": {
       "title": "Schüsse aus dem Dunkel",
       "rating": 3.2294,
-      "rank": 206,
+      "rank": 207,
       "votes": 837
     },
     "71": {
       "title": "Die verschwundene Seglerin",
       "rating": 2.8271,
-      "rank": 147,
+      "rank": 148,
       "votes": 856
     },
     "72": {
       "title": "Dreckiger Deal",
       "rating": 3.1372,
-      "rank": 193,
+      "rank": 194,
       "votes": 831
     },
     "73": {
@@ -463,7 +463,7 @@
     "77": {
       "title": "Pistenteufel",
       "rating": 2.9557,
-      "rank": 163,
+      "rank": 164,
       "votes": 902
     },
     "78": {
@@ -475,31 +475,31 @@
     "79": {
       "title": "Im Bann des Voodoo",
       "rating": 2.6302,
-      "rank": 116,
+      "rank": 117,
       "votes": 941
     },
     "80": {
       "title": "Geheimakte UFO",
       "rating": 2.9613,
-      "rank": 166,
+      "rank": 167,
       "votes": 931
     },
     "81": {
       "title": "Verdeckte Fouls",
       "rating": 3.8603,
-      "rank": 249,
+      "rank": 250,
       "votes": 816
     },
     "82": {
       "title": "Die Karten des Bösen",
       "rating": 2.8717,
-      "rank": 154,
+      "rank": 155,
       "votes": 896
     },
     "83": {
       "title": "Meuterei auf hoher See",
       "rating": 2.4616,
-      "rank": 93,
+      "rank": 94,
       "votes": 899
     },
     "84": {
@@ -510,27 +510,27 @@
     },
     "85": {
       "title": "Feuerturm",
-      "rating": 2.4039,
-      "rank": 85,
-      "votes": 926
+      "rating": 2.4045,
+      "rank": 86,
+      "votes": 927
     },
     "86": {
       "title": "Nacht in Angst",
-      "rating": 1.5808,
+      "rating": 1.5806,
       "rank": 5,
-      "votes": 1133
+      "votes": 1135
     },
     "87": {
       "title": "Wolfsgesicht",
-      "rating": 2.1876,
+      "rating": 2.1874,
       "rank": 47,
-      "votes": 922
+      "votes": 923
     },
     "88": {
       "title": "Vampir im Internet",
-      "rating": 3.4346,
-      "rank": 233,
-      "votes": 955
+      "rating": 3.4331,
+      "rank": 234,
+      "votes": 956
     },
     "89": {
       "title": "Tödliche Spur",
@@ -553,37 +553,37 @@
     "92": {
       "title": "Todesflug",
       "rating": 4.0835,
-      "rank": 252,
+      "rank": 253,
       "votes": 1030
     },
     "93": {
       "title": "Das Geisterschiff",
       "rating": 2.3301,
-      "rank": 72,
+      "rank": 71,
       "votes": 921
     },
     "94": {
       "title": "Das schwarze Monster",
       "rating": 3.3672,
-      "rank": 226,
+      "rank": 227,
       "votes": 877
     },
     "95": {
       "title": "Botschaft von Geisterhand",
       "rating": 2.6942,
-      "rank": 124,
+      "rank": 125,
       "votes": 896
     },
     "96": {
       "title": "Der rote Rächer",
       "rating": 2.4089,
-      "rank": 87,
+      "rank": 88,
       "votes": 917
     },
     "97": {
       "title": "Insektenstachel",
       "rating": 2.6458,
-      "rank": 119,
+      "rank": 120,
       "votes": 974
     },
     "98": {
@@ -607,13 +607,13 @@
     "101": {
       "title": "Das Hexenhandy",
       "rating": 2.7752,
-      "rank": 138,
+      "rank": 139,
       "votes": 1072
     },
     "102": {
       "title": "Doppelte Täuschung",
       "rating": 2.5092,
-      "rank": 97,
+      "rank": 98,
       "votes": 925
     },
     "103": {
@@ -625,7 +625,7 @@
     "104": {
       "title": "Gift per E-Mail",
       "rating": 3.1194,
-      "rank": 189,
+      "rank": 190,
       "votes": 921
     },
     "105": {
@@ -637,7 +637,7 @@
     "106": {
       "title": "Der Mann ohne Kopf",
       "rating": 3.4876,
-      "rank": 238,
+      "rank": 239,
       "votes": 1009
     },
     "107": {
@@ -655,31 +655,31 @@
     "109": {
       "title": "Gefährliches Quiz",
       "rating": 3.2042,
-      "rank": 204,
+      "rank": 205,
       "votes": 950
     },
     "110": {
       "title": "Panik im Park",
       "rating": 3.4091,
-      "rank": 231,
+      "rank": 232,
       "votes": 963
     },
     "111": {
       "title": "Die Höhle des Grauens",
       "rating": 2.6412,
-      "rank": 117,
+      "rank": 118,
       "votes": 917
     },
     "112": {
       "title": "Schlucht der Dämonen",
       "rating": 3.4031,
-      "rank": 229,
+      "rank": 230,
       "votes": 836
     },
     "113": {
       "title": "Das Auge des Drachen",
       "rating": 2.4176,
-      "rank": 88,
+      "rank": 89,
       "votes": 965
     },
     "114": {
@@ -691,61 +691,61 @@
     "115": {
       "title": "Auf tödlichem Kurs",
       "rating": 2.695,
-      "rank": 125,
+      "rank": 126,
       "votes": 872
     },
     "116": {
       "title": "Codename: Cobra",
       "rating": 3.0847,
-      "rank": 185,
+      "rank": 186,
       "votes": 885
     },
     "117": {
       "title": "Der finstere Rivale",
       "rating": 2.4762,
-      "rank": 94,
+      "rank": 95,
       "votes": 926
     },
     "118": {
       "title": "Das düstere Vermächtnis",
       "rating": 2.8542,
-      "rank": 151,
+      "rank": 152,
       "votes": 837
     },
     "119": {
       "title": "Der geheime Schlüssel",
       "rating": 2.3771,
-      "rank": 78,
+      "rank": 79,
       "votes": 960
     },
     "120": {
       "title": "Der schwarze Skorpion",
       "rating": 3.0068,
-      "rank": 172,
+      "rank": 173,
       "votes": 878
     },
     "121": {
       "title": "Spur ins Nichts",
       "rating": 2.5453,
-      "rank": 100,
+      "rank": 101,
       "votes": 684
     },
     "122": {
       "title": "Der Geisterzug",
       "rating": 2.709,
-      "rank": 126,
+      "rank": 127,
       "votes": 670
     },
     "123": {
       "title": "Fußballfieber",
       "rating": 3.6024,
-      "rank": 241,
+      "rank": 242,
       "votes": 576
     },
     "124": {
       "title": "Geister-Canyon",
       "rating": 2.598,
-      "rank": 109,
+      "rank": 110,
       "votes": 607
     },
     "125": {
@@ -763,19 +763,19 @@
     "127": {
       "title": "Schwarze Madonna",
       "rating": 2.6173,
-      "rank": 113,
+      "rank": 114,
       "votes": 567
     },
     "128": {
       "title": "Schatten über Hollywood",
       "rating": 2.7429,
-      "rank": 134,
+      "rank": 135,
       "votes": 560
     },
     "129": {
       "title": "SMS aus dem Grab",
       "rating": 3.1725,
-      "rank": 199,
+      "rank": 200,
       "votes": 516
     },
     "130": {
@@ -793,19 +793,19 @@
     "132": {
       "title": "Spuk im Netz",
       "rating": 3.4063,
-      "rank": 230,
+      "rank": 231,
       "votes": 448
     },
     "133": {
       "title": "Fels der Dämonen",
       "rating": 3.3229,
-      "rank": 218,
+      "rank": 219,
       "votes": 446
     },
     "134": {
       "title": "Der tote Mönch",
       "rating": 2.8655,
-      "rank": 153,
+      "rank": 154,
       "votes": 461
     },
     "135": {
@@ -823,79 +823,79 @@
     "137": {
       "title": "Pfad der Angst",
       "rating": 3.014,
-      "rank": 174,
+      "rank": 175,
       "votes": 430
     },
     "138": {
       "title": "Die geheime Treppe",
       "rating": 2.8642,
-      "rank": 152,
+      "rank": 153,
       "votes": 427
     },
     "139": {
       "title": "Das Geheimnis der Diva",
       "rating": 3.2685,
-      "rank": 212,
+      "rank": 213,
       "votes": 391
     },
     "140": {
       "title": "Stadt der Vampire",
       "rating": 2.4068,
-      "rank": 86,
+      "rank": 87,
       "votes": 440
     },
     "141": {
       "title": "Die Fußball-Falle",
       "rating": 3.8263,
-      "rank": 247,
+      "rank": 248,
       "votes": 357
     },
     "142": {
       "title": "Tödliches Eis",
       "rating": 2.6456,
-      "rank": 118,
+      "rank": 119,
       "votes": 412
     },
     "143": {
       "title": "Die Poker-Hölle",
       "rating": 3.2545,
-      "rank": 210,
+      "rank": 211,
       "votes": 393
     },
     "144": {
       "title": "Zwillinge der Finsternis",
       "rating": 3.3554,
-      "rank": 221,
+      "rank": 222,
       "votes": 377
     },
     "145": {
       "title": "Die Rache der Samurai",
       "rating": 3.3256,
-      "rank": 219,
+      "rank": 220,
       "votes": 390
     },
     "146": {
       "title": "Der Biss der Bestie",
       "rating": 2.7345,
-      "rank": 133,
+      "rank": 134,
       "votes": 388
     },
     "147": {
       "title": "Grusel auf Campbell Castle",
       "rating": 3.362,
-      "rank": 225,
+      "rank": 226,
       "votes": 384
     },
     "148": {
       "title": "Die feurige Flut",
       "rating": 2.9569,
-      "rank": 164,
+      "rank": 165,
       "votes": 371
     },
     "149": {
       "title": "Der namenlose Gegner",
       "rating": 2.4518,
-      "rank": 91,
+      "rank": 92,
       "votes": 394
     },
     "150": {
@@ -907,19 +907,19 @@
     "151": {
       "title": "Schwarze Sonne",
       "rating": 2.7308,
-      "rank": 131,
+      "rank": 132,
       "votes": 364
     },
     "152": {
       "title": "Skateboardfieber",
       "rating": 3.1526,
-      "rank": 195,
+      "rank": 196,
       "votes": 367
     },
     "153": {
       "title": "Das Fußballphantom",
       "rating": 3.1129,
-      "rank": 188,
+      "rank": 189,
       "votes": 310
     },
     "154": {
@@ -931,43 +931,43 @@
     "155": {
       "title": "Der Meister des Todes",
       "rating": 2.3746,
-      "rank": 77,
+      "rank": 78,
       "votes": 355
     },
     "156": {
       "title": "Im Netz des Drachen",
       "rating": 3.2328,
-      "rank": 207,
+      "rank": 208,
       "votes": 305
     },
     "157": {
       "title": "Im Zeichen der Schlangen",
       "rating": 2.3786,
-      "rank": 79,
+      "rank": 80,
       "votes": 309
     },
     "158": {
       "title": "Der Feuergeist",
       "rating": 3.7432,
-      "rank": 244,
+      "rank": 245,
       "votes": 296
     },
     "159": {
       "title": "Nacht der Tiger",
       "rating": 2.3908,
-      "rank": 80,
+      "rank": 81,
       "votes": 325
     },
     "160": {
       "title": "Geheimnisvolle Botschaften",
       "rating": 2.8537,
-      "rank": 150,
+      "rank": 151,
       "votes": 287
     },
     "161": {
       "title": "Die blutenden Bilder",
       "rating": 2.5855,
-      "rank": 104,
+      "rank": 105,
       "votes": 304
     },
     "162": {
@@ -985,31 +985,31 @@
     "164": {
       "title": "Fußball-Teufel",
       "rating": 3.3686,
-      "rank": 227,
+      "rank": 228,
       "votes": 274
     },
     "165": {
       "title": "Im Schatten des Giganten",
       "rating": 2.5535,
-      "rank": 101,
+      "rank": 102,
       "votes": 318
     },
     "166": {
       "title": "Die brennende Stadt",
       "rating": 2.373,
-      "rank": 76,
+      "rank": 77,
       "votes": 311
     },
     "167": {
       "title": "Das blaue Biest",
       "rating": 2.9367,
-      "rank": 161,
+      "rank": 162,
       "votes": 300
     },
     "168": {
       "title": "GPS-Gangster",
       "rating": 3.1263,
-      "rank": 191,
+      "rank": 192,
       "votes": 293
     },
     "169": {
@@ -1027,25 +1027,25 @@
     "171": {
       "title": "Das Phantom aus dem Meer",
       "rating": 3.6381,
-      "rank": 242,
+      "rank": 243,
       "votes": 257
     },
     "172": {
       "title": "Der Eisenmann",
       "rating": 2.6254,
-      "rank": 115,
+      "rank": 116,
       "votes": 307
     },
     "173": {
       "title": "Dämon der Rache",
       "rating": 2.9059,
-      "rank": 158,
+      "rank": 159,
       "votes": 255
     },
     "174": {
       "title": "Das Tuch der Toten",
       "rating": 3.5669,
-      "rank": 240,
+      "rank": 241,
       "votes": 254
     },
     "175": {
@@ -1057,61 +1057,61 @@
     "176": {
       "title": "Der gestohlene Sieg",
       "rating": 3.487,
-      "rank": 237,
+      "rank": 238,
       "votes": 230
     },
     "177": {
       "title": "Der Geist des Goldgräbers",
       "rating": 2.4346,
-      "rank": 90,
+      "rank": 91,
       "votes": 283
     },
     "178": {
       "title": "Der gefiederte Schrecken",
       "rating": 2.7701,
-      "rank": 136,
+      "rank": 137,
       "votes": 274
     },
     "179": {
       "title": "Die Rache des Untoten",
       "rating": 2.6484,
-      "rank": 120,
+      "rank": 121,
       "votes": 256
     },
     "180": {
       "title": "Die flüsternden Puppen",
       "rating": 2.4803,
-      "rank": 95,
+      "rank": 96,
       "votes": 304
     },
     "181": {
       "title": "Das Kabinett des Zauberers",
       "rating": 2.7252,
-      "rank": 130,
+      "rank": 131,
       "votes": 262
     },
     "182": {
       "title": "Im Haus des Henkers",
       "rating": 2.7954,
-      "rank": 141,
+      "rank": 142,
       "votes": 259
     },
     "183": {
       "title": "Der letzte Song",
       "rating": 3.1647,
-      "rank": 198,
+      "rank": 199,
       "votes": 255
     },
     "184": {
       "title": "Der Hexengarten",
       "rating": 2.7558,
-      "rank": 135,
+      "rank": 136,
       "votes": 258
     },
     "185": {
       "title": "Der Mann ohne Augen",
       "rating": 2.9106,
-      "rank": 159,
+      "rank": 160,
       "votes": 235
     },
     "186": {
@@ -1123,13 +1123,13 @@
     "187": {
       "title": "Das silberne Amulett",
       "rating": 3.1389,
-      "rank": 194,
+      "rank": 195,
       "votes": 216
     },
     "188": {
       "title": "Signale aus dem Jenseits",
       "rating": 2.608,
-      "rank": 110,
+      "rank": 111,
       "votes": 250
     },
     "189": {
@@ -1141,37 +1141,37 @@
     "190": {
       "title": "Die Kammer der Rätsel",
       "rating": 3.3188,
-      "rank": 216,
+      "rank": 217,
       "votes": 229
     },
     "191": {
       "title": "Verbrechen im Nichts",
       "rating": 3.2928,
-      "rank": 215,
+      "rank": 216,
       "votes": 222
     },
     "192": {
       "title": "Im Bann des Drachen",
       "rating": 4.2661,
-      "rank": 255,
+      "rank": 256,
       "votes": 218
     },
     "193": {
       "title": "Schrecken aus der Tiefe",
       "rating": 2.8069,
-      "rank": 144,
+      "rank": 145,
       "votes": 202
     },
     "194": {
       "title": "Die Zeitreisende",
       "rating": 3.4478,
-      "rank": 234,
+      "rank": 235,
       "votes": 230
     },
     "195": {
       "title": "Im Reich der Ungeheuer",
       "rating": 3.0211,
-      "rank": 177,
+      "rank": 178,
       "votes": 190
     },
     "196": {
@@ -1183,19 +1183,19 @@
     "197": {
       "title": "Im Auge des Sturms",
       "rating": 2.6881,
-      "rank": 122,
+      "rank": 123,
       "votes": 202
     },
     "198": {
       "title": "Die Legende der Gaukler",
       "rating": 4.1582,
-      "rank": 253,
+      "rank": 254,
       "votes": 196
     },
     "199": {
       "title": "Der grüne Kobold",
       "rating": 3.0437,
-      "rank": 179,
+      "rank": 180,
       "votes": 206
     },
     "200": {
@@ -1219,49 +1219,49 @@
     "203": {
       "title": "Tauchgang ins Ungewisse",
       "rating": 2.7115,
-      "rank": 127,
+      "rank": 128,
       "votes": 208
     },
     "204": {
       "title": "Der dunkle Wächter",
       "rating": 2.8462,
-      "rank": 149,
+      "rank": 150,
       "votes": 182
     },
     "205": {
       "title": "Das rätselhafte Erbe",
       "rating": 3.0651,
-      "rank": 182,
+      "rank": 183,
       "votes": 169
     },
     "206": {
       "title": "Der Mottenmann",
       "rating": 2.9583,
-      "rank": 165,
+      "rank": 166,
       "votes": 192
     },
     "207": {
       "title": "Die falschen Detektive",
       "rating": 2.8384,
-      "rank": 148,
+      "rank": 149,
       "votes": 198
     },
     "208": {
       "title": "Kelch des Schicksals",
       "rating": 3.3576,
-      "rank": 223,
+      "rank": 224,
       "votes": 165
     },
     "209": {
       "title": "Kreaturen der Nacht",
       "rating": 4.2021,
-      "rank": 254,
+      "rank": 255,
       "votes": 188
     },
     "210": {
       "title": "Die schweigende Grotte",
       "rating": 3.1321,
-      "rank": 192,
+      "rank": 193,
       "votes": 159
     },
     "211": {
@@ -1273,37 +1273,37 @@
     "212": {
       "title": "Der weiße Leopard",
       "rating": 3.006,
-      "rank": 171,
+      "rank": 172,
       "votes": 167
     },
     "213": {
       "title": "Der Fluch der Medusa",
       "rating": 3.18,
-      "rank": 200,
+      "rank": 201,
       "votes": 150
     },
     "214": {
       "title": "Der Geisterbunker",
       "rating": 3.0671,
-      "rank": 183,
+      "rank": 184,
       "votes": 164
     },
     "215": {
       "title": "Die verlorene Zeit",
       "rating": 3.2621,
-      "rank": 211,
+      "rank": 212,
       "votes": 145
     },
     "216": {
       "title": "Die Schwingen des Unheils",
       "rating": 3.4967,
-      "rank": 239,
+      "rank": 240,
       "votes": 151
     },
     "217": {
       "title": "Der Kristallschädel",
       "rating": 2.5,
-      "rank": 96,
+      "rank": 97,
       "votes": 158
     },
     "218": {
@@ -1327,25 +1327,25 @@
     "221": {
       "title": "Manuskript des Satans",
       "rating": 3.0733,
-      "rank": 184,
+      "rank": 185,
       "votes": 150
     },
     "222": {
       "title": "Die Gesetzlosen",
       "rating": 2.9664,
-      "rank": 167,
+      "rank": 168,
       "votes": 149
     },
     "223": {
       "title": "Der Knochenmann",
       "rating": 3.4748,
-      "rank": 236,
+      "rank": 237,
       "votes": 139
     },
     "224": {
       "title": "Die Yacht des Verrats",
       "rating": 3.2013,
-      "rank": 202,
+      "rank": 203,
       "votes": 154
     },
     "225": {
@@ -1357,67 +1357,67 @@
     "226": {
       "title": "Spur der Toten",
       "rating": 2.5963,
-      "rank": 108,
+      "rank": 107,
       "votes": 161
     },
     "227": {
       "title": "Melodie der Rache",
       "rating": 3.7483,
-      "rank": 245,
+      "rank": 246,
       "votes": 147
     },
     "228": {
       "title": "Der Ruf der Krähen",
       "rating": 3.8345,
-      "rank": 248,
+      "rank": 249,
       "votes": 145
     },
     "229": {
       "title": "Drehbuch der Täuschung",
       "rating": 3.2742,
-      "rank": 213,
+      "rank": 214,
       "votes": 124
     },
     "230": {
       "title": "Der Tag der Toten",
       "rating": 2.8923,
-      "rank": 157,
+      "rank": 158,
       "votes": 130
     },
     "231": {
       "title": "Der Dreiäugige Schakal",
       "rating": 3.3511,
-      "rank": 220,
+      "rank": 221,
       "votes": 131
     },
     "232": {
       "title": "Die Stadt aus Gold",
       "rating": 3.1593,
-      "rank": 197,
+      "rank": 198,
       "votes": 113
     },
     "233": {
       "title": "Die Nacht der Gewitter",
       "rating": 3.0545,
-      "rank": 181,
+      "rank": 182,
       "votes": 110
     },
     "234": {
       "title": "Der lebende Tresor",
       "rating": 3.6991,
-      "rank": 243,
+      "rank": 244,
       "votes": 113
     },
     "235": {
       "title": "Das Fantasmofon",
-      "rating": 3.1031,
-      "rank": 186,
-      "votes": 97
+      "rating": 3.102,
+      "rank": 187,
+      "votes": 98
     },
     "236": {
       "title": "Im Bann des Barrakudas",
       "rating": 3.2444,
-      "rank": 208,
+      "rank": 209,
       "votes": 90
     },
     "237": {
@@ -1429,25 +1429,25 @@
     "238": {
       "title": "Falsche Schuld",
       "rating": 3.0152,
-      "rank": 175,
+      "rank": 176,
       "votes": 66
     },
     "239": {
       "title": "Das Geheimnis der sieben Palmen",
       "rating": 3.3226,
-      "rank": 217,
+      "rank": 218,
       "votes": 62
     },
     "240": {
       "title": "Die schwarze Rose",
       "rating": 3.125,
-      "rank": 190,
+      "rank": 191,
       "votes": 40
     },
     "241": {
       "title": "Meister des Lichts",
       "rating": 4.08,
-      "rank": 251,
+      "rank": 252,
       "votes": 25
     }
   }
