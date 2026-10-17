@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-16T09:00:28.929Z",
+  "updatedAt": "2026-10-17T08:32:33.908Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -18,15 +18,15 @@
     },
     "3": {
       "title": "Der Karpatenhund",
-      "rating": 1.5566,
+      "rating": 1.5562,
       "rank": 4,
-      "votes": 1441
+      "votes": 1442
     },
     "4": {
       "title": "Die schwarze Katze",
-      "rating": 2.5748,
+      "rating": 2.5743,
       "rank": 104,
-      "votes": 1284
+      "votes": 1285
     },
     "5": {
       "title": "Der Fluch des Rubins",
@@ -372,15 +372,15 @@
     },
     "62": {
       "title": "Spuk im Hotel",
-      "rating": 2.2038,
+      "rating": 2.2035,
       "rank": 51,
-      "votes": 957
+      "votes": 958
     },
     "63": {
       "title": "Fußball-Gangster",
       "rating": 4.0249,
       "rank": 251,
-      "votes": 844
+      "votes": 845
     },
     "64": {
       "title": "Geisterstadt",
@@ -420,15 +420,15 @@
     },
     "70": {
       "title": "Schüsse aus dem Dunkel",
-      "rating": 3.2294,
+      "rating": 3.2303,
       "rank": 207,
-      "votes": 837
+      "votes": 838
     },
     "71": {
       "title": "Die verschwundene Seglerin",
-      "rating": 2.8271,
+      "rating": 2.8273,
       "rank": 148,
-      "votes": 856
+      "votes": 857
     },
     "72": {
       "title": "Dreckiger Deal",
