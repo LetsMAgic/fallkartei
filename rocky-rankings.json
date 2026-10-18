@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-17T08:32:33.908Z",
+  "updatedAt": "2026-10-18T08:50:20.126Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -102,9 +102,9 @@
     },
     "17": {
       "title": "Die gefährliche Erbschaft",
-      "rating": 1.7606,
+      "rating": 1.7608,
       "rank": 13,
-      "votes": 1207
+      "votes": 1208
     },
     "18": {
       "title": "Die Geisterinsel",
@@ -306,9 +306,9 @@
     },
     "51": {
       "title": "Der riskante Ritt",
-      "rating": 2.7829,
+      "rating": 2.7831,
       "rank": 141,
-      "votes": 912
+      "votes": 913
     },
     "52": {
       "title": "Die Musikpiraten",
@@ -384,15 +384,15 @@
     },
     "64": {
       "title": "Geisterstadt",
-      "rating": 2.7166,
+      "rating": 2.7158,
       "rank": 130,
-      "votes": 875
+      "votes": 876
     },
     "65": {
       "title": "Diamantenschmuggel",
-      "rating": 2.9332,
+      "rating": 2.9344,
       "rank": 161,
-      "votes": 853
+      "votes": 854
     },
     "66": {
       "title": "Die Schattenmänner",
@@ -402,9 +402,9 @@
     },
     "67": {
       "title": "Geheimnis der Särge",
-      "rating": 3.1602,
+      "rating": 3.16,
       "rank": 198,
-      "votes": 880
+      "votes": 881
     },
     "68": {
       "title": "Schatz im Bergsee",
@@ -540,15 +540,15 @@
     },
     "90": {
       "title": "Der Feuerteufel",
-      "rating": 2.3145,
+      "rating": 2.3134,
       "rank": 69,
       "votes": 922
     },
     "91": {
       "title": "Labyrinth der Götter",
-      "rating": 1.9042,
+      "rating": 1.9034,
       "rank": 22,
-      "votes": 1086
+      "votes": 1087
     },
     "92": {
       "title": "Todesflug",
@@ -576,9 +576,9 @@
     },
     "96": {
       "title": "Der rote Rächer",
-      "rating": 2.4089,
+      "rating": 2.4074,
       "rank": 88,
-      "votes": 917
+      "votes": 918
     },
     "97": {
       "title": "Insektenstachel",
@@ -612,9 +612,9 @@
     },
     "102": {
       "title": "Doppelte Täuschung",
-      "rating": 2.5092,
+      "rating": 2.5054,
       "rank": 98,
-      "votes": 925
+      "votes": 924
     },
     "103": {
       "title": "Das Erbe des Meisterdiebs",
@@ -630,9 +630,9 @@
     },
     "105": {
       "title": "Der Nebelberg",
-      "rating": 1.7227,
+      "rating": 1.722,
       "rank": 9,
-      "votes": 1107
+      "votes": 1108
     },
     "106": {
       "title": "Der Mann ohne Kopf",
@@ -738,7 +738,7 @@
     },
     "123": {
       "title": "Fußballfieber",
-      "rating": 3.6024,
+      "rating": 3.6042,
       "rank": 242,
       "votes": 576
     },
@@ -913,7 +913,7 @@
     "152": {
       "title": "Skateboardfieber",
       "rating": 3.1526,
-      "rank": 196,
+      "rank": 197,
       "votes": 367
     },
     "153": {
@@ -967,7 +967,7 @@
     "161": {
       "title": "Die blutenden Bilder",
       "rating": 2.5855,
-      "rank": 105,
+      "rank": 106,
       "votes": 304
     },
     "162": {
@@ -1044,7 +1044,7 @@
     },
     "174": {
       "title": "Das Tuch der Toten",
-      "rating": 3.5669,
+      "rating": 3.5709,
       "rank": 241,
       "votes": 254
     },
@@ -1062,7 +1062,7 @@
     },
     "177": {
       "title": "Der Geist des Goldgräbers",
-      "rating": 2.4346,
+      "rating": 2.4311,
       "rank": 91,
       "votes": 283
     },
@@ -1074,7 +1074,7 @@
     },
     "179": {
       "title": "Die Rache des Untoten",
-      "rating": 2.6484,
+      "rating": 2.6563,
       "rank": 121,
       "votes": 256
     },
@@ -1086,14 +1086,14 @@
     },
     "181": {
       "title": "Das Kabinett des Zauberers",
-      "rating": 2.7252,
+      "rating": 2.7214,
       "rank": 131,
       "votes": 262
     },
     "182": {
       "title": "Im Haus des Henkers",
       "rating": 2.7954,
-      "rank": 142,
+      "rank": 143,
       "votes": 259
     },
     "183": {
@@ -1110,7 +1110,7 @@
     },
     "185": {
       "title": "Der Mann ohne Augen",
-      "rating": 2.9106,
+      "rating": 2.9064,
       "rank": 160,
       "votes": 235
     },
@@ -1128,7 +1128,7 @@
     },
     "188": {
       "title": "Signale aus dem Jenseits",
-      "rating": 2.608,
+      "rating": 2.604,
       "rank": 111,
       "votes": 250
     },
@@ -1368,9 +1368,9 @@
     },
     "228": {
       "title": "Der Ruf der Krähen",
-      "rating": 3.8345,
+      "rating": 3.8288,
       "rank": 249,
-      "votes": 145
+      "votes": 146
     },
     "229": {
       "title": "Drehbuch der Täuschung",
@@ -1392,9 +1392,9 @@
     },
     "232": {
       "title": "Die Stadt aus Gold",
-      "rating": 3.1593,
-      "rank": 197,
-      "votes": 113
+      "rating": 3.1491,
+      "rank": 196,
+      "votes": 114
     },
     "233": {
       "title": "Die Nacht der Gewitter",
