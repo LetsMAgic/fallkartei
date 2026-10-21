@@ -2,49 +2,49 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-20T09:24:22.245Z",
+  "updatedAt": "2026-10-21T09:20:54.461Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
-      "rating": 1.6303,
+      "rating": 1.6312,
       "rank": 7,
-      "votes": 1485
+      "votes": 1486
     },
     "2": {
       "title": "Der Phantomsee",
-      "rating": 1.8206,
+      "rating": 1.8208,
       "rank": 17,
-      "votes": 1338
+      "votes": 1339
     },
     "3": {
       "title": "Der Karpatenhund",
-      "rating": 1.5562,
+      "rating": 1.5558,
       "rank": 4,
-      "votes": 1442
+      "votes": 1443
     },
     "4": {
       "title": "Die schwarze Katze",
-      "rating": 2.5747,
+      "rating": 2.575,
       "rank": 105,
-      "votes": 1286
+      "votes": 1287
     },
     "5": {
       "title": "Der Fluch des Rubins",
-      "rating": 1.8427,
+      "rating": 1.8436,
       "rank": 19,
-      "votes": 1284
+      "votes": 1285
     },
     "6": {
       "title": "Der sprechende Totenkopf",
-      "rating": 1.8238,
+      "rating": 1.824,
       "rank": 18,
-      "votes": 1300
+      "votes": 1301
     },
     "7": {
       "title": "Der unheimliche Drache",
-      "rating": 2.3722,
-      "rank": 79,
-      "votes": 1225
+      "rating": 2.3711,
+      "rank": 78,
+      "votes": 1226
     },
     "8": {
       "title": "Der grüne Geist",
@@ -110,7 +110,7 @@
       "title": "Die Geisterinsel",
       "rating": 1.9792,
       "rank": 30,
-      "votes": 1154
+      "votes": 1155
     },
     "19": {
       "title": "Der Teufelsberg",
@@ -247,7 +247,7 @@
     "41": {
       "title": "Das Volk der Winde",
       "rating": 2.7736,
-      "rank": 139,
+      "rank": 140,
       "votes": 932
     },
     "42": {
@@ -301,7 +301,7 @@
     "50": {
       "title": "Der verschwundene Filmstar",
       "rating": 3.1104,
-      "rank": 188,
+      "rank": 189,
       "votes": 888
     },
     "51": {
@@ -421,7 +421,7 @@
     "70": {
       "title": "Schüsse aus dem Dunkel",
       "rating": 3.2312,
-      "rank": 208,
+      "rank": 209,
       "votes": 839
     },
     "71": {
@@ -438,9 +438,9 @@
     },
     "73": {
       "title": "Poltergeist",
-      "rating": 1.8818,
+      "rating": 1.8809,
       "rank": 21,
-      "votes": 990
+      "votes": 991
     },
     "74": {
       "title": "Das brennende Schwert",
@@ -450,9 +450,9 @@
     },
     "75": {
       "title": "Die Spur des Raben",
-      "rating": 2.2392,
+      "rating": 2.24,
       "rank": 58,
-      "votes": 953
+      "votes": 954
     },
     "76": {
       "title": "Stimmen aus dem Nichts",
@@ -600,15 +600,15 @@
     },
     "100": {
       "title": "Toteninsel",
-      "rating": 1.6049,
+      "rating": 1.6044,
       "rank": 6,
-      "votes": 1192
+      "votes": 1193
     },
     "101": {
       "title": "Das Hexenhandy",
-      "rating": 2.7752,
-      "rank": 140,
-      "votes": 1072
+      "rating": 2.7735,
+      "rank": 139,
+      "votes": 1073
     },
     "102": {
       "title": "Doppelte Täuschung",
@@ -625,14 +625,14 @@
     "104": {
       "title": "Gift per E-Mail",
       "rating": 3.1171,
-      "rank": 190,
+      "rank": 191,
       "votes": 922
     },
     "105": {
       "title": "Der Nebelberg",
-      "rating": 1.722,
+      "rating": 1.7214,
       "rank": 10,
-      "votes": 1108
+      "votes": 1109
     },
     "106": {
       "title": "Der Mann ohne Kopf",
@@ -709,7 +709,7 @@
     "118": {
       "title": "Das düstere Vermächtnis",
       "rating": 2.8542,
-      "rank": 153,
+      "rank": 152,
       "votes": 837
     },
     "119": {
@@ -750,9 +750,9 @@
     },
     "125": {
       "title": "Feuermond",
-      "rating": 1.5013,
+      "rating": 1.5007,
       "rank": 1,
-      "votes": 768
+      "votes": 769
     },
     "126": {
       "title": "Schrecken aus dem Moor",
@@ -799,7 +799,7 @@
     "133": {
       "title": "Fels der Dämonen",
       "rating": 3.3229,
-      "rank": 219,
+      "rank": 218,
       "votes": 446
     },
     "134": {
@@ -871,7 +871,7 @@
     "145": {
       "title": "Die Rache der Samurai",
       "rating": 3.3256,
-      "rank": 220,
+      "rank": 219,
       "votes": 390
     },
     "146": {
@@ -919,7 +919,7 @@
     "153": {
       "title": "Das Fußballphantom",
       "rating": 3.1129,
-      "rank": 189,
+      "rank": 190,
       "votes": 310
     },
     "154": {
@@ -936,9 +936,9 @@
     },
     "156": {
       "title": "Im Netz des Drachen",
-      "rating": 3.2328,
-      "rank": 209,
-      "votes": 305
+      "rating": 3.2215,
+      "rank": 208,
+      "votes": 307
     },
     "157": {
       "title": "Im Zeichen der Schlangen",
@@ -960,21 +960,21 @@
     },
     "160": {
       "title": "Geheimnisvolle Botschaften",
-      "rating": 2.8537,
-      "rank": 152,
-      "votes": 287
+      "rating": 2.8576,
+      "rank": 153,
+      "votes": 288
     },
     "161": {
       "title": "Die blutenden Bilder",
-      "rating": 2.5855,
+      "rating": 2.5836,
       "rank": 107,
-      "votes": 304
+      "votes": 305
     },
     "162": {
       "title": "Der schreiende Nebel",
-      "rating": 2.1606,
-      "rank": 42,
-      "votes": 330
+      "rating": 2.1571,
+      "rank": 41,
+      "votes": 331
     },
     "163": {
       "title": "Der verschollene Pilot",
@@ -997,7 +997,7 @@
     "166": {
       "title": "Die brennende Stadt",
       "rating": 2.3718,
-      "rank": 78,
+      "rank": 79,
       "votes": 312
     },
     "167": {
@@ -1207,7 +1207,7 @@
     "201": {
       "title": "Höhenangst",
       "rating": 2.1577,
-      "rank": 41,
+      "rank": 42,
       "votes": 241
     },
     "202": {
@@ -1224,7 +1224,7 @@
     },
     "204": {
       "title": "Der dunkle Wächter",
-      "rating": 2.8533,
+      "rating": 2.8478,
       "rank": 151,
       "votes": 184
     },
@@ -1411,7 +1411,7 @@
     "235": {
       "title": "Das Fantasmofon",
       "rating": 3.102,
-      "rank": 187,
+      "rank": 188,
       "votes": 98
     },
     "236": {
@@ -1434,15 +1434,15 @@
     },
     "239": {
       "title": "Das Geheimnis der sieben Palmen",
-      "rating": 3.3226,
-      "rank": 218,
-      "votes": 62
+      "rating": 3.3333,
+      "rank": 220,
+      "votes": 63
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.125,
-      "rank": 191,
-      "votes": 40
+      "rating": 3.0976,
+      "rank": 187,
+      "votes": 41
     },
     "241": {
       "title": "Meister des Lichts",
