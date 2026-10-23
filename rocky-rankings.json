@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-22T09:23:26.145Z",
+  "updatedAt": "2026-10-23T09:19:56.480Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -114,9 +114,9 @@
     },
     "19": {
       "title": "Der Teufelsberg",
-      "rating": 2.023,
+      "rating": 2.0239,
       "rank": 31,
-      "votes": 1130
+      "votes": 1131
     },
     "20": {
       "title": "Die flammende Spur",
@@ -217,7 +217,7 @@
     "36": {
       "title": "Der Super-Wal",
       "rating": 3.0242,
-      "rank": 179,
+      "rank": 178,
       "votes": 992
     },
     "37": {
@@ -325,7 +325,7 @@
     "54": {
       "title": "Gefahr im Verzug",
       "rating": 3.0205,
-      "rank": 177,
+      "rank": 176,
       "votes": 879
     },
     "55": {
@@ -426,7 +426,7 @@
     },
     "71": {
       "title": "Die verschwundene Seglerin",
-      "rating": 2.8265,
+      "rating": 2.8277,
       "rank": 148,
       "votes": 859
     },
@@ -438,9 +438,9 @@
     },
     "73": {
       "title": "Poltergeist",
-      "rating": 1.881,
+      "rating": 1.8812,
       "rank": 21,
-      "votes": 992
+      "votes": 993
     },
     "74": {
       "title": "Das brennende Schwert",
@@ -474,15 +474,15 @@
     },
     "79": {
       "title": "Im Bann des Voodoo",
-      "rating": 2.6306,
+      "rating": 2.632,
       "rank": 117,
-      "votes": 942
+      "votes": 943
     },
     "80": {
       "title": "Geheimakte UFO",
-      "rating": 2.9614,
+      "rating": 2.9625,
       "rank": 167,
-      "votes": 932
+      "votes": 933
     },
     "81": {
       "title": "Verdeckte Fouls",
@@ -492,7 +492,7 @@
     },
     "82": {
       "title": "Die Karten des Bösen",
-      "rating": 2.8718,
+      "rating": 2.8707,
       "rank": 155,
       "votes": 897
     },
@@ -528,39 +528,39 @@
     },
     "88": {
       "title": "Vampir im Internet",
-      "rating": 3.4336,
+      "rating": 3.4347,
       "rank": 232,
       "votes": 957
     },
     "89": {
       "title": "Tödliche Spur",
-      "rating": 1.9239,
+      "rating": 1.924,
       "rank": 25,
-      "votes": 959
+      "votes": 960
     },
     "90": {
       "title": "Der Feuerteufel",
-      "rating": 2.3142,
+      "rating": 2.3149,
       "rank": 70,
-      "votes": 923
+      "votes": 924
     },
     "91": {
       "title": "Labyrinth der Götter",
-      "rating": 1.9017,
+      "rating": 1.9028,
       "rank": 22,
-      "votes": 1089
+      "votes": 1090
     },
     "92": {
       "title": "Todesflug",
-      "rating": 4.0844,
-      "rank": 251,
-      "votes": 1031
+      "rating": 4.0843,
+      "rank": 250,
+      "votes": 1032
     },
     "93": {
       "title": "Das Geisterschiff",
-      "rating": 2.3297,
+      "rating": 2.3304,
       "rank": 72,
-      "votes": 922
+      "votes": 923
     },
     "94": {
       "title": "Das schwarze Monster",
@@ -612,9 +612,9 @@
     },
     "102": {
       "title": "Doppelte Täuschung",
-      "rating": 2.5054,
+      "rating": 2.5059,
       "rank": 99,
-      "votes": 926
+      "votes": 927
     },
     "103": {
       "title": "Das Erbe des Meisterdiebs",
@@ -924,7 +924,7 @@
     },
     "154": {
       "title": "Botschaft aus der Unterwelt",
-      "rating": 2.1485,
+      "rating": 2.1459,
       "rank": 40,
       "votes": 377
     },
@@ -954,15 +954,15 @@
     },
     "159": {
       "title": "Nacht der Tiger",
-      "rating": 2.3908,
+      "rating": 2.3865,
       "rank": 81,
-      "votes": 325
+      "votes": 326
     },
     "160": {
       "title": "Geheimnisvolle Botschaften",
-      "rating": 2.8576,
+      "rating": 2.8581,
       "rank": 152,
-      "votes": 288
+      "votes": 289
     },
     "161": {
       "title": "Die blutenden Bilder",
@@ -1008,9 +1008,9 @@
     },
     "168": {
       "title": "GPS-Gangster",
-      "rating": 3.1263,
+      "rating": 3.1224,
       "rank": 191,
-      "votes": 293
+      "votes": 294
     },
     "169": {
       "title": "Die Spur des Spielers",
@@ -1110,7 +1110,7 @@
     },
     "185": {
       "title": "Der Mann ohne Augen",
-      "rating": 2.9068,
+      "rating": 2.9025,
       "rank": 160,
       "votes": 236
     },
@@ -1171,7 +1171,7 @@
     "195": {
       "title": "Im Reich der Ungeheuer",
       "rating": 3.0211,
-      "rank": 178,
+      "rank": 177,
       "votes": 190
     },
     "196": {
@@ -1428,9 +1428,9 @@
     },
     "238": {
       "title": "Falsche Schuld",
-      "rating": 3.0147,
-      "rank": 176,
-      "votes": 68
+      "rating": 3.029,
+      "rank": 179,
+      "votes": 69
     },
     "239": {
       "title": "Das Geheimnis der sieben Palmen",
@@ -1440,15 +1440,15 @@
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.0976,
+      "rating": 3.0952,
       "rank": 186,
-      "votes": 41
+      "votes": 42
     },
     "241": {
       "title": "Meister des Lichts",
-      "rating": 4.08,
-      "rank": 250,
-      "votes": 25
+      "rating": 4.1154,
+      "rank": 251,
+      "votes": 26
     }
   }
 }
