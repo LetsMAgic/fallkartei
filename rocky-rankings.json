@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-23T09:19:56.480Z",
+  "updatedAt": "2026-10-24T08:51:37.980Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -60,15 +60,15 @@
     },
     "10": {
       "title": "Die flüsternde Mumie",
-      "rating": 1.9533,
+      "rating": 1.9526,
       "rank": 28,
-      "votes": 1264
+      "votes": 1265
     },
     "11": {
       "title": "Das Gespensterschloß",
-      "rating": 1.5201,
+      "rating": 1.5205,
       "rank": 2,
-      "votes": 1367
+      "votes": 1368
     },
     "12": {
       "title": "Der seltsame Wecker",
@@ -444,27 +444,27 @@
     },
     "74": {
       "title": "Das brennende Schwert",
-      "rating": 2.2835,
+      "rating": 2.2832,
       "rank": 66,
-      "votes": 917
+      "votes": 918
     },
     "75": {
       "title": "Die Spur des Raben",
-      "rating": 2.2406,
+      "rating": 2.2403,
       "rank": 58,
-      "votes": 956
+      "votes": 957
     },
     "76": {
       "title": "Stimmen aus dem Nichts",
-      "rating": 1.8127,
+      "rating": 1.812,
       "rank": 15,
-      "votes": 1068
+      "votes": 1069
     },
     "77": {
       "title": "Pistenteufel",
-      "rating": 2.9558,
+      "rating": 2.9569,
       "rank": 164,
-      "votes": 904
+      "votes": 905
     },
     "78": {
       "title": "Das leere Grab",
@@ -642,9 +642,9 @@
     },
     "107": {
       "title": "Der Schatz der Mönche",
-      "rating": 2.782,
+      "rating": 2.7811,
       "rank": 140,
-      "votes": 931
+      "votes": 932
     },
     "108": {
       "title": "Die sieben Tore",
