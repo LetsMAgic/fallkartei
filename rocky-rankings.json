@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-24T08:51:37.980Z",
+  "updatedAt": "2026-10-25T09:08:15.644Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -72,13 +72,13 @@
     },
     "12": {
       "title": "Der seltsame Wecker",
-      "rating": 1.9202,
+      "rating": 1.921,
       "rank": 24,
       "votes": 1303
     },
     "13": {
       "title": "Der lachende Schatten",
-      "rating": 2.395,
+      "rating": 2.3959,
       "rank": 83,
       "votes": 1162
     },
@@ -90,8 +90,8 @@
     },
     "15": {
       "title": "Der rasende Löwe",
-      "rating": 2.5962,
-      "rank": 108,
+      "rating": 2.5971,
+      "rank": 109,
       "votes": 1164
     },
     "16": {
@@ -120,9 +120,9 @@
     },
     "20": {
       "title": "Die flammende Spur",
-      "rating": 2.2117,
+      "rating": 2.2133,
       "rank": 53,
-      "votes": 1143
+      "votes": 1144
     },
     "21": {
       "title": "Der tanzende Teufel",
@@ -174,7 +174,7 @@
     },
     "29": {
       "title": "Die Originalmusik",
-      "rating": 3.3548,
+      "rating": 3.3559,
       "rank": 221,
       "votes": 930
     },
@@ -192,7 +192,7 @@
     },
     "32": {
       "title": "Der Ameisenmensch",
-      "rating": 1.9292,
+      "rating": 1.9302,
       "rank": 26,
       "votes": 1074
     },
@@ -246,14 +246,14 @@
     },
     "41": {
       "title": "Das Volk der Winde",
-      "rating": 2.7728,
-      "rank": 138,
+      "rating": 2.7738,
+      "rank": 139,
       "votes": 933
     },
     "42": {
       "title": "Der weinende Sarg",
-      "rating": 2.7146,
-      "rank": 129,
+      "rating": 2.7157,
+      "rank": 130,
       "votes": 939
     },
     "43": {
@@ -276,7 +276,7 @@
     },
     "46": {
       "title": "Der schrullige Millionär",
-      "rating": 2.8184,
+      "rating": 2.8194,
       "rank": 147,
       "votes": 969
     },
@@ -294,7 +294,7 @@
     },
     "49": {
       "title": "Die Comic-Diebe",
-      "rating": 2.459,
+      "rating": 2.46,
       "rank": 93,
       "votes": 963
     },
@@ -342,7 +342,7 @@
     },
     "57": {
       "title": "Tatort Zirkus",
-      "rating": 3.465,
+      "rating": 3.4661,
       "rank": 234,
       "votes": 856
     },
@@ -354,9 +354,9 @@
     },
     "59": {
       "title": "Giftiges Wasser",
-      "rating": 3.2468,
+      "rating": 3.2466,
       "rank": 209,
-      "votes": 871
+      "votes": 872
     },
     "60": {
       "title": "Dopingmixer",
@@ -378,14 +378,14 @@
     },
     "63": {
       "title": "Fußball-Gangster",
-      "rating": 4.0236,
+      "rating": 4.0248,
       "rank": 249,
       "votes": 846
     },
     "64": {
       "title": "Geisterstadt",
       "rating": 2.7153,
-      "rank": 130,
+      "rank": 129,
       "votes": 878
     },
     "65": {
@@ -445,20 +445,20 @@
     "74": {
       "title": "Das brennende Schwert",
       "rating": 2.2832,
-      "rank": 66,
+      "rank": 65,
       "votes": 918
     },
     "75": {
       "title": "Die Spur des Raben",
-      "rating": 2.2403,
+      "rating": 2.2414,
       "rank": 58,
       "votes": 957
     },
     "76": {
       "title": "Stimmen aus dem Nichts",
-      "rating": 1.812,
+      "rating": 1.8112,
       "rank": 15,
-      "votes": 1069
+      "votes": 1070
     },
     "77": {
       "title": "Pistenteufel",
@@ -474,9 +474,9 @@
     },
     "79": {
       "title": "Im Bann des Voodoo",
-      "rating": 2.632,
+      "rating": 2.6335,
       "rank": 117,
-      "votes": 943
+      "votes": 944
     },
     "80": {
       "title": "Geheimakte UFO",
@@ -552,7 +552,7 @@
     },
     "92": {
       "title": "Todesflug",
-      "rating": 4.0843,
+      "rating": 4.0853,
       "rank": 250,
       "votes": 1032
     },
@@ -607,7 +607,7 @@
     "101": {
       "title": "Das Hexenhandy",
       "rating": 2.7737,
-      "rank": 139,
+      "rank": 138,
       "votes": 1074
     },
     "102": {
@@ -745,7 +745,7 @@
     "124": {
       "title": "Geister-Canyon",
       "rating": 2.597,
-      "rank": 109,
+      "rank": 108,
       "votes": 608
     },
     "125": {
@@ -756,9 +756,9 @@
     },
     "126": {
       "title": "Schrecken aus dem Moor",
-      "rating": 2.2831,
-      "rank": 65,
-      "votes": 597
+      "rating": 2.2843,
+      "rank": 66,
+      "votes": 598
     },
     "127": {
       "title": "Schwarze Madonna",
@@ -804,9 +804,9 @@
     },
     "134": {
       "title": "Der tote Mönch",
-      "rating": 2.8655,
+      "rating": 2.8636,
       "rank": 154,
-      "votes": 461
+      "votes": 462
     },
     "135": {
       "title": "Fluch des Piraten",
@@ -1302,9 +1302,9 @@
     },
     "217": {
       "title": "Der Kristallschädel",
-      "rating": 2.5,
+      "rating": 2.4969,
       "rank": 97,
-      "votes": 158
+      "votes": 159
     },
     "218": {
       "title": "Im Netz der Lügen",
@@ -1422,7 +1422,7 @@
     },
     "237": {
       "title": "Der rote Büffel",
-      "rating": 1.7658,
+      "rating": 1.7748,
       "rank": 14,
       "votes": 111
     },
@@ -1440,9 +1440,9 @@
     },
     "240": {
       "title": "Die schwarze Rose",
-      "rating": 3.0952,
+      "rating": 3.093,
       "rank": 186,
-      "votes": 42
+      "votes": 43
     },
     "241": {
       "title": "Meister des Lichts",
