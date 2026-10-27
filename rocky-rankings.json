@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-26T10:05:22.177Z",
+  "updatedAt": "2026-10-27T09:47:49.142Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -187,7 +187,7 @@
     "31": {
       "title": "Das Narbengesicht",
       "rating": 2.2315,
-      "rank": 55,
+      "rank": 56,
       "votes": 998
     },
     "32": {
@@ -432,13 +432,13 @@
     },
     "72": {
       "title": "Dreckiger Deal",
-      "rating": 3.1367,
+      "rating": 3.1365,
       "rank": 194,
-      "votes": 834
+      "votes": 835
     },
     "73": {
       "title": "Poltergeist",
-      "rating": 1.8812,
+      "rating": 1.8802,
       "rank": 21,
       "votes": 993
     },
@@ -492,15 +492,15 @@
     },
     "82": {
       "title": "Die Karten des Bösen",
-      "rating": 2.8707,
+      "rating": 2.8731,
       "rank": 155,
-      "votes": 897
+      "votes": 898
     },
     "83": {
       "title": "Meuterei auf hoher See",
-      "rating": 2.4622,
+      "rating": 2.4639,
       "rank": 94,
-      "votes": 900
+      "votes": 901
     },
     "84": {
       "title": "Die Musik des Teufels",
@@ -1033,7 +1033,7 @@
     "172": {
       "title": "Der Eisenmann",
       "rating": 2.6254,
-      "rank": 116,
+      "rank": 115,
       "votes": 307
     },
     "173": {
@@ -1212,15 +1212,15 @@
     },
     "202": {
       "title": "Das weiße Grab",
-      "rating": 2.2329,
-      "rank": 56,
-      "votes": 219
+      "rating": 2.2273,
+      "rank": 55,
+      "votes": 220
     },
     "203": {
       "title": "Tauchgang ins Ungewisse",
-      "rating": 2.7033,
+      "rating": 2.7,
       "rank": 127,
-      "votes": 209
+      "votes": 210
     },
     "204": {
       "title": "Der dunkle Wächter",
@@ -1434,7 +1434,7 @@
     },
     "239": {
       "title": "Das Geheimnis der sieben Palmen",
-      "rating": 3.3333,
+      "rating": 3.3492,
       "rank": 219,
       "votes": 63
     },
