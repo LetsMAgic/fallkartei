@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-27T09:47:49.142Z",
+  "updatedAt": "2026-10-28T10:33:27.238Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -132,9 +132,9 @@
     },
     "22": {
       "title": "Der verschwundene Schatz",
-      "rating": 2.3946,
+      "rating": 2.3942,
       "rank": 82,
-      "votes": 1077
+      "votes": 1078
     },
     "23": {
       "title": "Das Aztekenschwert",
@@ -378,9 +378,9 @@
     },
     "63": {
       "title": "Fußball-Gangster",
-      "rating": 4.0248,
+      "rating": 4.0236,
       "rank": 250,
-      "votes": 846
+      "votes": 847
     },
     "64": {
       "title": "Geisterstadt",
@@ -397,7 +397,7 @@
     "66": {
       "title": "Die Schattenmänner",
       "rating": 3.3637,
-      "rank": 224,
+      "rank": 225,
       "votes": 877
     },
     "67": {
@@ -504,9 +504,9 @@
     },
     "84": {
       "title": "Die Musik des Teufels",
-      "rating": 2.1053,
+      "rating": 2.1052,
       "rank": 37,
-      "votes": 997
+      "votes": 998
     },
     "85": {
       "title": "Feuerturm",
@@ -565,7 +565,7 @@
     "94": {
       "title": "Das schwarze Monster",
       "rating": 3.3679,
-      "rank": 225,
+      "rank": 226,
       "votes": 878
     },
     "95": {
@@ -883,7 +883,7 @@
     "147": {
       "title": "Grusel auf Campbell Castle",
       "rating": 3.362,
-      "rank": 223,
+      "rank": 224,
       "votes": 384
     },
     "148": {
@@ -985,7 +985,7 @@
     "164": {
       "title": "Fußball-Teufel",
       "rating": 3.3709,
-      "rank": 226,
+      "rank": 227,
       "votes": 275
     },
     "165": {
@@ -1248,9 +1248,9 @@
     },
     "208": {
       "title": "Kelch des Schicksals",
-      "rating": 3.3735,
-      "rank": 227,
-      "votes": 166
+      "rating": 3.3593,
+      "rank": 223,
+      "votes": 167
     },
     "209": {
       "title": "Kreaturen der Nacht",
