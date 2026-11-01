@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-10-31T10:22:39.705Z",
+  "updatedAt": "2026-11-01T11:15:07.669Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -150,15 +150,15 @@
     },
     "25": {
       "title": "Die singende Schlange",
-      "rating": 2.1192,
+      "rating": 2.119,
       "rank": 39,
-      "votes": 1133
+      "votes": 1134
     },
     "26": {
       "title": "Die Silbermine",
-      "rating": 2.1116,
+      "rating": 2.1115,
       "rank": 38,
-      "votes": 1129
+      "votes": 1130
     },
     "27": {
       "title": "Der magische Kreis",
@@ -492,9 +492,9 @@
     },
     "82": {
       "title": "Die Karten des Bösen",
-      "rating": 2.8731,
+      "rating": 2.8732,
       "rank": 154,
-      "votes": 898
+      "votes": 899
     },
     "83": {
       "title": "Meuterei auf hoher See",
