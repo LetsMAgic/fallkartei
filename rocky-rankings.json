@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-11-02T12:21:24.953Z",
+  "updatedAt": "2026-11-03T11:54:47.782Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -571,7 +571,7 @@
     "95": {
       "title": "Botschaft von Geisterhand",
       "rating": 2.693,
-      "rank": 124,
+      "rank": 125,
       "votes": 899
     },
     "96": {
@@ -666,9 +666,9 @@
     },
     "111": {
       "title": "Die Höhle des Grauens",
-      "rating": 2.6413,
+      "rating": 2.6417,
       "rank": 117,
-      "votes": 920
+      "votes": 921
     },
     "112": {
       "title": "Schlucht der Dämonen",
@@ -690,9 +690,9 @@
     },
     "115": {
       "title": "Auf tödlichem Kurs",
-      "rating": 2.6937,
-      "rank": 125,
-      "votes": 875
+      "rating": 2.6929,
+      "rank": 124,
+      "votes": 876
     },
     "116": {
       "title": "Codename: Cobra",
@@ -708,9 +708,9 @@
     },
     "118": {
       "title": "Das düstere Vermächtnis",
-      "rating": 2.8558,
+      "rating": 2.856,
       "rank": 150,
-      "votes": 839
+      "votes": 840
     },
     "119": {
       "title": "Der geheime Schlüssel",
