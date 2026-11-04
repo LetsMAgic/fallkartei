@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-11-03T11:54:47.782Z",
+  "updatedAt": "2026-11-04T12:06:04.428Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -186,15 +186,15 @@
     },
     "31": {
       "title": "Das Narbengesicht",
-      "rating": 2.2332,
+      "rating": 2.233,
       "rank": 56,
-      "votes": 999
+      "votes": 1000
     },
     "32": {
       "title": "Der Ameisenmensch",
-      "rating": 1.9321,
+      "rating": 1.9312,
       "rank": 26,
-      "votes": 1075
+      "votes": 1076
     },
     "33": {
       "title": "Die bedrohte Ranch",
@@ -378,9 +378,9 @@
     },
     "63": {
       "title": "Fußball-Gangster",
-      "rating": 4.0248,
+      "rating": 4.0271,
       "rank": 250,
-      "votes": 848
+      "votes": 849
     },
     "64": {
       "title": "Geisterstadt",
