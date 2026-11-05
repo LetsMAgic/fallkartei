@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-11-04T12:06:04.428Z",
+  "updatedAt": "2026-11-05T12:17:40.869Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -198,9 +198,9 @@
     },
     "33": {
       "title": "Die bedrohte Ranch",
-      "rating": 2.162,
+      "rating": 2.1628,
       "rank": 43,
-      "votes": 1074
+      "votes": 1075
     },
     "34": {
       "title": "Der rote Pirat",
@@ -300,21 +300,21 @@
     },
     "50": {
       "title": "Der verschwundene Filmstar",
-      "rating": 3.1101,
+      "rating": 3.11,
       "rank": 188,
-      "votes": 890
+      "votes": 891
     },
     "51": {
       "title": "Der riskante Ritt",
-      "rating": 2.7825,
+      "rating": 2.7817,
       "rank": 140,
-      "votes": 915
+      "votes": 916
     },
     "52": {
       "title": "Die Musikpiraten",
-      "rating": 2.8945,
+      "rating": 2.8946,
       "rank": 157,
-      "votes": 929
+      "votes": 930
     },
     "53": {
       "title": "Die Automafia",
@@ -522,9 +522,9 @@
     },
     "87": {
       "title": "Wolfsgesicht",
-      "rating": 2.1857,
+      "rating": 2.1855,
       "rank": 47,
-      "votes": 926
+      "votes": 927
     },
     "88": {
       "title": "Vampir im Internet",
