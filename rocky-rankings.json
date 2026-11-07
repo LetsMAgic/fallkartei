@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-11-06T12:04:44.606Z",
+  "updatedAt": "2026-11-07T11:01:54.249Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -216,9 +216,9 @@
     },
     "36": {
       "title": "Der Super-Wal",
-      "rating": 3.0242,
+      "rating": 3.0241,
       "rank": 177,
-      "votes": 993
+      "votes": 994
     },
     "37": {
       "title": "Der heimliche Hehler",
@@ -271,7 +271,7 @@
     "45": {
       "title": "Das Gold der Wikinger",
       "rating": 2.6928,
-      "rank": 122,
+      "rank": 123,
       "votes": 918
     },
     "46": {
@@ -564,21 +564,21 @@
     },
     "94": {
       "title": "Das schwarze Monster",
-      "rating": 3.3675,
+      "rating": 3.3682,
       "rank": 225,
-      "votes": 879
+      "votes": 880
     },
     "95": {
       "title": "Botschaft von Geisterhand",
-      "rating": 2.693,
-      "rank": 124,
-      "votes": 899
+      "rating": 2.6922,
+      "rank": 122,
+      "votes": 900
     },
     "96": {
       "title": "Der rote Rächer",
-      "rating": 2.4061,
+      "rating": 2.4067,
       "rank": 87,
-      "votes": 921
+      "votes": 922
     },
     "97": {
       "title": "Insektenstachel",
@@ -691,7 +691,7 @@
     "115": {
       "title": "Auf tödlichem Kurs",
       "rating": 2.6929,
-      "rank": 123,
+      "rank": 124,
       "votes": 876
     },
     "116": {
