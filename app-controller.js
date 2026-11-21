@@ -1606,17 +1606,6 @@ function renderFeedback() {
   $('feedbackContent').innerHTML=`<p class="muted">Wähle, welcher Teil von „${esc(episode.titel)}“ künftig stärker oder schwächer gewichtet werden soll.</p><div class="feedback-options">${options.map((item)=>`<article class="feedback-option"><strong>${esc(item.label)}</strong><div><button class="button secondary" data-feedback-key="${esc(item.key)}" data-feedback-direction="-1">Weniger davon</button><button class="button secondary" data-feedback-key="${esc(item.key)}" data-feedback-direction="1">Mehr davon</button></div></article>`).join('')}</div>`; openDialog('feedbackDialog');
 }
 
-function backupStatusHtml() {
-  const current=activityCount();
-  const last=Number(appState.user.settings.lastBackupActivityCount)||0;
-  const changed=Math.max(0,current-last);
-  const at=appState.user.settings.lastBackupAt;
-  const due=backupDue();
-  const ratings=profileRatingCount();
-  const listens=appState.user.history.length;
-  const playlists=appState.user.playlists.length;
-  return `<div class="settings-status-head"><span class="settings-status-dot ${due?'warning':at?'good':'neutral'}" aria-hidden="true"></span><div><strong>${due?'Backup empfohlen':at?'Backup vorhanden':'Noch kein Backup'}</strong><small>${at?`Letzter Export ${esc(formatRelativeDate(at))}`:'Deine Daten liegen nur lokal auf diesem Gerät.'}</small></div></div><div class="settings-status-grid"><div><span>Seit Backup</span><strong>${at?changed:'—'}</strong></div><div><span>Bewertungen</span><strong>${ratings}</strong></div><div><span>Hörvorgänge</span><strong>${listens}</strong></div><div><span>Playlists</span><strong>${playlists}</strong></div></div>${due?'<p>Seit der letzten Sicherung hat sich genug verändert, dass ein neuer Export sinnvoll ist.</p>':''}`;
-}
 function catalogStatusHtml() {
   const now=Date.now();
   const released=appState.catalog.filter(completionEligibleEpisode).length;
@@ -1634,9 +1623,7 @@ function diagnosticsText() {
 }
 function renderSettings() {
   $('streamingServiceSelect').value=appState.user.settings.preferredService; $$('[data-episode-view]').forEach((button)=>button.classList.toggle('active',button.dataset.episodeView===appState.user.settings.episodeView));
-  if($('backupStatusCard')) $('backupStatusCard').innerHTML=backupStatusHtml();
   if($('catalogStatusCard')) $('catalogStatusCard').innerHTML=catalogStatusHtml();
-  $('diagnosticsCard').innerHTML=diagnosticsText().split('\n').map((line)=>{const [label,...rest]=line.split(': ');return`<div class="diagnostic"><span>${esc(label)}</span><strong>${esc(rest.join(': '))}</strong></div>`;}).join('');
   $('stopArchiveDebug').classList.toggle('hidden',!appState.debugArchivePreview);
 }
 function populateSelects() {
@@ -1997,10 +1984,10 @@ function bindStaticEvents() {
   });
   $('episodeDialogBody').addEventListener('change',(event)=>{const box=event.target.closest('[data-playlist-check]');if(!box)return;const id=box.dataset.playlistCheck,nr=Number(box.dataset.nr);if(box.checked){addEpisodeToPlaylist(id,nr);renderPlaylists();toast('Zur Playlist hinzugefügt.');}else{const snapshot=cloneUserSnapshot();removeEpisodeFromPlaylist(id,nr);renderPlaylists();reversibleUserAction('Aus Playlist entfernt.',snapshot,{detailNr:nr});}});
   $('exportBackup').addEventListener('click',async()=>{await exportBackup();renderHome();renderSettings();toast('Backup wurde bereitgestellt.');}); $('backupNow').addEventListener('click',async()=>{await exportBackup();renderHome();toast('Backup wurde bereitgestellt.');}); $('dismissBackupReminder').addEventListener('click',()=>{appState.user.settings.backupReminderDismissedAt=nowIso();saveUser();renderHome();}); $('importBackup').addEventListener('click',()=>$('backupFile').click()); $('backupFile').addEventListener('change',async(event)=>{const file=event.target.files?.[0];event.target.value='';if(!file)return;try{renderImportPreview(parseBackupText(await file.text()));}catch(error){toast(error.message,'error');}});
-  $('refreshMetadata').addEventListener('click',async()=>{const button=$('refreshMetadata');button.disabled=true;try{const [result,rockyResult]=await Promise.all([refreshMetadata({force:true}),refreshRockyRankings().catch((error)=>{console.warn('Rocky-Beach-Daten konnten nicht aktualisiert werden.',error);return{updated:false,count:0};})]);populateSelects();renderAll();toast(result.updated||rockyResult.updated?'Folgenwissen wurde aktualisiert.':'Folgenwissen ist aktuell.');}catch(error){toast(`Aktualisierung fehlgeschlagen: ${error.message}`,'error');}finally{button.disabled=false;}});
+  $('refreshMetadata').addEventListener('click',async()=>{const button=$('refreshMetadata');button.disabled=true;button.classList.add('is-loading');button.setAttribute('aria-busy','true');try{const [result,rockyResult]=await Promise.all([refreshMetadata({force:true}),refreshRockyRankings().catch((error)=>{console.warn('Rocky-Beach-Daten konnten nicht aktualisiert werden.',error);return{updated:false,count:0};})]);populateSelects();renderAll();toast(result.updated||rockyResult.updated?'Folgenwissen wurde aktualisiert.':'Folgenwissen ist aktuell.');}catch(error){toast(`Aktualisierung fehlgeschlagen: ${error.message}`,'error');}finally{button.disabled=false;button.classList.remove('is-loading');button.removeAttribute('aria-busy');}});
   $('resetCatalog').addEventListener('click',async()=>{
     if(!await confirmAction({title:'Katalog-Cache zurücksetzen?',text:'Persönliche Daten bleiben erhalten. Folgenwissen und Cover werden anschließend sofort erneut geladen.',accept:'Katalog neu laden',danger:false})) return;
-    const button=$('resetCatalog'); button.disabled=true;
+    const button=$('resetCatalog'); button.disabled=true; button.classList.add('is-loading'); button.setAttribute('aria-busy','true');
     try {
       await clearCatalogCache();
       let metadataLoaded=false;
@@ -2014,7 +2001,7 @@ function bindStaticEvents() {
       populateSelects(); renderAll();
       toast(metadataLoaded?'Katalog, Folgenwissen und Cover wurden neu geladen.':'Katalog wurde neu geladen. Cover konnten gerade nicht online aktualisiert werden.',metadataLoaded?'info':'warning');
     } finally {
-      button.disabled=false;
+      button.disabled=false; button.classList.remove('is-loading'); button.removeAttribute('aria-busy');
     }
   });
   $('restoreRecommendations').addEventListener('click',()=>{restoreHiddenRecommendations();toast('Ausgeblendete Empfehlungen wurden zurückgesetzt.');renderSettings();});
