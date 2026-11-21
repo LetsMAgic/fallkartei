@@ -26,7 +26,7 @@ export const appState = {
   filter: 'all', authorFilter: 'all', eraFilter: 'all', yearFilter: 'all', sort: 'nr',
   search: '', time: 'any', mood: 'any', recommendationStatus: 'unheard', recommendationAuthor: 'all', recommendationEra: 'all', recommendationSessionHistory: [], ranking: 'rocky', playlistTab: 'essentials',
   episodeRenderLimit: 40, quickRateQueue: [], quickRateIndex: 0, quickRateHistory: [], importCandidate: null,
-  metadataUpdatedAt: null, rockyUpdatedAt: null, currentPlaylistId: null, playlistSearch: '', smartPlaylistDraft: null, smartPlaylistOptions: null, smartPlaylistHistory: [], debugArchivePreview: false, scrollPositions: {},
+  metadataUpdatedAt: null, rockyUpdatedAt: null, currentPlaylistId: null, playlistSearch: '', playlistInlineEdit: null, smartPlaylistDraft: null, smartPlaylistOptions: null, smartPlaylistHistory: [], debugArchivePreview: false, scrollPositions: {},
 };
 
 export const nowIso = () => new Date().toISOString();
@@ -412,5 +412,5 @@ export function resetRuntimeState() {
   appState.detailNr = null; appState.recommendationNr = null; appState.search = '';
   appState.time='any'; appState.mood='any'; appState.recommendationStatus='unheard'; appState.recommendationAuthor='all'; appState.recommendationEra='all'; appState.recommendationSessionHistory=[];
   appState.quickRateQueue = []; appState.quickRateIndex = 0; appState.quickRateHistory = [];
-  appState.currentPlaylistId = null; appState.playlistSearch = ''; appState.smartPlaylistDraft = null; appState.smartPlaylistOptions = null; appState.smartPlaylistHistory = [];
+  appState.currentPlaylistId = null; appState.playlistSearch = ''; appState.playlistInlineEdit = null; appState.smartPlaylistDraft = null; appState.smartPlaylistOptions = null; appState.smartPlaylistHistory = [];
 }

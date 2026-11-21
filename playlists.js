@@ -75,7 +75,7 @@ export function storyRelationsForEpisode(nr) {
     .filter((relation)=>relation.relatedEpisodes.length)
     .sort((a,b)=>b.strength-a.strength);
 }
-export function curatedPlaylists(category='essentials') { return CURATED_PLAYLISTS.filter((item) => item.category === category); }
+export function curatedPlaylists(category=null) { return category ? CURATED_PLAYLISTS.filter((item) => item.category === category) : CURATED_PLAYLISTS; }
 export function resolveCuratedPlaylist(definition) {
   let episodes = [];
   if (definition.type === 'numbers') episodes = definition.numbers.map(getEpisode).filter(Boolean);
@@ -88,15 +88,30 @@ export function getPlaylist(id) {
   if (String(id).startsWith('curated:')) { const definition = CURATED_PLAYLISTS.find((item) => item.id === String(id).slice(8)); return definition ? resolveCuratedPlaylist(definition) : null; }
   const playlist = appState.user.playlists.find((item) => item.id === id); return playlist ? { ...playlist,episodes:playlist.episodeNrs.map(getEpisode).filter(Boolean) } : null;
 }
-export function createPlaylist({name,description='',episodeNrs=[],generated=false}) {
-  const playlist = { id:uid('playlist'),name:String(name || 'Neue Playlist').trim().slice(0,60),description:String(description).trim().slice(0,240),episodeNrs:[...new Set(episodeNrs.map(Number).filter(Number.isFinite))],createdAt:nowIso(),updatedAt:nowIso(),generated };
-  appState.user.playlists.unshift(playlist); saveUser(); return playlist;
+export function normalizePlaylistNameKey(name) {
+  return String(name || '').trim().replace(/\s+/g, ' ').toLowerCase();
 }
-export function updatePlaylist(id,patch) { const playlist = appState.user.playlists.find((item) => item.id === id); if (!playlist) return null; if (patch.name != null) playlist.name = String(patch.name).trim().slice(0,60); if (patch.description != null) playlist.description = String(patch.description).trim().slice(0,240); playlist.updatedAt = nowIso(); saveUser(); return playlist; }
-export function deletePlaylist(id) { appState.user.playlists = appState.user.playlists.filter((item) => item.id !== id); saveUser(); }
-export function addEpisodeToPlaylist(id,nr) { const playlist = appState.user.playlists.find((item) => item.id === id); if (!playlist) return; const number = Number(nr); if (!playlist.episodeNrs.includes(number)) playlist.episodeNrs.push(number); playlist.updatedAt = nowIso(); saveUser(); }
-export function removeEpisodeFromPlaylist(id,nr) { const playlist = appState.user.playlists.find((item) => item.id === id); if (!playlist) return; playlist.episodeNrs = playlist.episodeNrs.filter((item) => item !== Number(nr)); playlist.updatedAt = nowIso(); saveUser(); }
-export function movePlaylistEpisode(id,nr,direction) { const playlist = appState.user.playlists.find((item) => item.id === id); if (!playlist) return; const index = playlist.episodeNrs.indexOf(Number(nr)); const next = clamp(index + direction,0,playlist.episodeNrs.length - 1); if (index < 0 || index === next) return; [playlist.episodeNrs[index],playlist.episodeNrs[next]] = [playlist.episodeNrs[next],playlist.episodeNrs[index]]; playlist.updatedAt = nowIso(); saveUser(); }
+export function hasPlaylistName(name, excludeId = null) {
+  const key = normalizePlaylistNameKey(name);
+  if (!key) return false;
+  return appState.user.playlists.some((item) => item.id !== excludeId && normalizePlaylistNameKey(item.name) === key);
+}
+export function nextDefaultPlaylistName() {
+  let index = 1;
+  while (hasPlaylistName(`Neue Playlist #${index}`)) index += 1;
+  return `Neue Playlist #${index}`;
+}
+export function createPlaylist({name,description='',episodeNrs=[],generated=false}) {
+  const cleanName = String(name || '').trim().slice(0,60) || nextDefaultPlaylistName();
+  if (hasPlaylistName(cleanName)) return null;
+  const playlist = { id:uid('playlist'),name:cleanName,description:String(description).trim().slice(0,240),episodeNrs:[...new Set(episodeNrs.map(Number).filter(Number.isFinite))],createdAt:nowIso(),updatedAt:nowIso(),generated };
+  appState.user.playlists.unshift(playlist); saveUser(true); return playlist;
+}
+export function updatePlaylist(id,patch) { const playlist = appState.user.playlists.find((item) => item.id === id); if (!playlist) return null; if (patch.name != null) { const cleanName = String(patch.name).trim().slice(0,60); if (!cleanName || hasPlaylistName(cleanName, id)) return null; playlist.name = cleanName; } if (patch.description != null) playlist.description = String(patch.description).trim().slice(0,240); playlist.updatedAt = nowIso(); saveUser(true); return playlist; }
+export function deletePlaylist(id) { appState.user.playlists = appState.user.playlists.filter((item) => item.id !== id); saveUser(true); }
+export function addEpisodeToPlaylist(id,nr) { const playlist = appState.user.playlists.find((item) => item.id === id); if (!playlist) return; const number = Number(nr); if (!playlist.episodeNrs.includes(number)) playlist.episodeNrs.push(number); playlist.updatedAt = nowIso(); saveUser(true); }
+export function removeEpisodeFromPlaylist(id,nr) { const playlist = appState.user.playlists.find((item) => item.id === id); if (!playlist) return; playlist.episodeNrs = playlist.episodeNrs.filter((item) => item !== Number(nr)); playlist.updatedAt = nowIso(); saveUser(true); }
+export function movePlaylistEpisode(id,nr,direction) { const playlist = appState.user.playlists.find((item) => item.id === id); if (!playlist) return; const index = playlist.episodeNrs.indexOf(Number(nr)); const next = clamp(index + direction,0,playlist.episodeNrs.length - 1); if (index < 0 || index === next) return; [playlist.episodeNrs[index],playlist.episodeNrs[next]] = [playlist.episodeNrs[next],playlist.episodeNrs[index]]; playlist.updatedAt = nowIso(); saveUser(true); }
 export function playlistStats(episodes) {
   const total = episodes.length; const heard = episodes.filter((episode) => appState.user.episodes?.[episode.nr]?.heard).length;
   const duration = episodes.reduce((sum,episode) => sum + (Number(episode.durationMin) || 0),0); const remaining = episodes.filter((episode) => !appState.user.episodes?.[episode.nr]?.heard).reduce((sum,episode) => sum + (Number(episode.durationMin) || 0),0);
