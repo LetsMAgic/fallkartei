@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "rocky-beach.com",
   "sourceView": "Die drei ??? Hörspielserie",
-  "updatedAt": "2026-11-21T12:37:03.618Z",
+  "updatedAt": "2026-11-22T12:33:41.729Z",
   "episodes": {
     "1": {
       "title": "Der Super-Papagei",
@@ -198,9 +198,9 @@
     },
     "33": {
       "title": "Die bedrohte Ranch",
-      "rating": 2.1628,
+      "rating": 2.1636,
       "rank": 43,
-      "votes": 1075
+      "votes": 1076
     },
     "34": {
       "title": "Der rote Pirat",
@@ -360,9 +360,9 @@
     },
     "60": {
       "title": "Dopingmixer",
-      "rating": 3.7529,
+      "rating": 3.7532,
       "rank": 247,
-      "votes": 854
+      "votes": 855
     },
     "61": {
       "title": "Die Rache des Tigers",
