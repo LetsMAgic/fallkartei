@@ -2,6 +2,30 @@
 
 Alle wesentlichen Änderungen an Die Fallkartei werden in dieser Datei dokumentiert.
 
+## 1.5.14 – 2026-11-23
+
+### Listen & Playlists
+
+- bestehende Tabs durch eine übersichtliche Listenansicht mit eigener Sammlung und aufklappbaren Bereichen `Essentials` und `Themen` ersetzt
+- eigene Playlistnamen und Beschreibungen direkt im Detaildialog per Stift bearbeitbar (Speichern/Abbrechen)
+- eigene Playlists mit Papierkorb direkt aus der Übersicht löschen; Bestätigung und bestehende Rückgängig-Funktion bleiben erhalten
+- Playlist-Erstellung bewusst weiterhin mit Eingabeformular vor dem Speichern; keine automatischen leeren Listen
+- bestehende `Passt dazu`-Empfehlungen, zwölf Suchtreffer, Smart-Playlists und alle kuratierten Sammlungen beibehalten
+- Suchfeld verfügt wieder über genau einen eigenen Löschen-Button
+
+### Einstellungen & Bedienung
+
+- Schließen- und Aktualisierungssymbole optisch vereinheitlicht
+- Import-/Export-Bezeichnungen klarer formuliert und Diagnosedetails optional aufklappbar gemacht
+- Backup-Status weiterhin sichtbar, aber kompakter dargestellt
+- persönliche Daten zurücksetzen durch ein eindeutiges Papierkorb-Symbol gekennzeichnet; Bestätigungsabfrage unverändert
+- vorhandene iOS-/Android-Anpassungen und der Swipe-to-close-Mechanismus bleiben erhalten
+
+### Veröffentlichung
+
+- keine Migration persönlicher Daten oder Änderung am vierstufigen Bewertungssystem notwendig
+- Service-Worker-Cache für die Aktualisierung installierter PWAs angehoben
+
 ## 1.5.13 – 2026-11-13
 
 ### Adventskalender-Special – O Geisterbaum

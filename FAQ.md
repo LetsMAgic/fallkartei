@@ -339,6 +339,16 @@ Ja.
 
 Eigene Playlists können benannt und anschließend direkt mit Folgen gefüllt werden.
 
+Unter **Listen** erscheinen deine eigenen Playlists sowie die aufklappbaren Bereiche **Essentials** und **Themen**. Eigene Playlists werden zunächst über das Formular angelegt; erst beim Speichern entsteht eine Liste.
+
+### Wie kann ich eine Playlist umbenennen oder löschen?
+
+Öffne eine eigene Playlist und tippe auf den **Stift** neben dem Namen oder der Beschreibung, um den Text direkt zu ändern. Bestätige mit **Speichern** oder verwirf die Änderung mit **Abbrechen**. Über den **Papierkorb** in der Listenübersicht kannst du eine eigene Playlist nach Bestätigung entfernen. Eine kurze **Rückgängig**-Möglichkeit steht anschließend zur Verfügung.
+
+### Gibt es die kuratierten Playlists und „Passt dazu“ weiterhin?
+
+Ja. **Essentials** und **Themen** bleiben erhalten und können bei Bedarf aufgeklappt werden. In eigenen Playlists stehen unter **Passt dazu** weiterhin passende Folgeempfehlungen bereit. Beim Hinzufügen per Suche werden bis zu zwölf Treffer angezeigt.
+
 ### Was ist „Als Nächstes“?
 
 „Als Nächstes“ ist eine einfache Warteschlange für Folgen, die du bald hören möchtest.

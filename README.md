@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version 1.5.13" src="https://img.shields.io/badge/Version-1.5.13-f2f3f5?style=flat-square&labelColor=11141a&color=f2f3f5">
+  <img alt="Version 1.5.14" src="https://img.shields.io/badge/Version-1.5.14-f2f3f5?style=flat-square&labelColor=11141a&color=f2f3f5">
   <img alt="Progressive Web App" src="https://img.shields.io/badge/PWA-installierbar-2980ff?style=flat-square&labelColor=11141a">
   <img alt="Offline-first" src="https://img.shields.io/badge/Offline-first-38a169?style=flat-square&labelColor=11141a">
   <img alt="Kein Backend" src="https://img.shields.io/badge/Backend-keins-e53935?style=flat-square&labelColor=11141a">
@@ -55,7 +55,9 @@ Aus den eigenen Bewertungen entsteht ausschließlich lokal auf dem Gerät ein Ge
 
 ### Planen und teilen
 
-- eigene und kuratierte Playlists
+- eigene und kuratierte Playlists mit aufklappbaren Kategorien (Essentials/Themen)
+- eigene Playlists direkt umbenennen, Beschreibungen bearbeiten und nach Bestätigung löschen (mit Rückgängig)
+- Folgeempfehlungen „Passt dazu“ und bis zu zwölf Suchtreffer beim Befüllen von Playlists
 - Smart-Playlist-Vorschau vor dem Speichern mit anklickbaren Folgendetails
 - abwechslungsreiche Neugenerierung mit Zwei-Runden-Cooldown
 - Planung nach Hörzeit, Stimmung, Hörstatus und Autor
@@ -163,7 +165,7 @@ update-rocky-rankings.mjs geprüfter Rocky-Beach-Abgleich
 
 ## Projektstatus
 
-**Version 1.5.13** ist der aktuelle stabile Release. **Version 1.0.0** war der erste konsolidierte Release unter dem Namen **Die Fallkartei**. Der Quellcode ist im Repository einsehbar; die App wird über GitHub Pages bereitgestellt.
+**Version 1.5.14** ist der aktuelle stabile Release. **Version 1.0.0** war der erste konsolidierte Release unter dem Namen **Die Fallkartei**. Der Quellcode ist im Repository einsehbar; die App wird über GitHub Pages bereitgestellt.
 
 Metadaten können unvollständig, veraltet oder fehlerhaft sein. Hinweise können über GitHub Issues gemeldet werden, sofern sie für das Repository aktiviert sind.
 

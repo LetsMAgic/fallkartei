@@ -2301,3 +2301,48 @@ html{
 }
 .ranking-source-note{margin:12px 14px 2px;color:var(--muted);font-size:10px;line-height:1.4;text-align:right}
 .fact small{display:block;margin-top:4px;color:var(--muted);font-size:10px;line-height:1.35}
+
+/* fk-ui-symbiose-v1 – additive, no catalog/user data changes */
+.fk-playlist-collections{display:grid;gap:12px;margin:18px 0 24px}
+.fk-collection,.fk-curated{border:1px solid var(--line);border-radius:18px;background:var(--surface);padding:16px;min-width:0}
+.fk-collection h2{font-size:18px;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+.fk-collection h2 small{font-size:12px;color:var(--muted);font-weight:500}
+.fk-curated summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:12px;font-size:17px;font-weight:750;min-height:34px}
+.fk-curated summary::-webkit-details-marker{display:none}
+.fk-curated summary small{display:block;margin-top:4px;color:var(--muted);font-size:11px;font-weight:450}
+.fk-curated .playlist-grid{margin-top:15px}
+.fk-chevron{display:inline-flex;transition:transform .15s;color:var(--muted);font-size:24px}
+.fk-curated[open] .fk-chevron{transform:rotate(180deg)}
+.fk-collection .playlist-grid{margin-top:0}
+.fk-empty-list{padding:8px 1px;font-size:12px}
+.fk-playlist-own{position:relative;min-width:0}
+.fk-playlist-own .playlist-card{width:100%;height:100%;padding-right:51px}
+.fk-list-delete{position:absolute;right:10px;top:11px;width:36px;height:36px;display:grid;place-items:center;border:0;background:transparent;color:#e8a0a5;border-radius:10px;cursor:pointer}
+.fk-list-delete:hover,.fk-list-delete:focus-visible{background:#402023}
+.fk-list-delete svg{width:19px;height:19px}
+.fk-inline-heading,.fk-inline-desc{display:flex;align-items:flex-start;gap:8px;min-width:0}
+.fk-inline-heading h2,.fk-inline-desc p{min-width:0;flex:1}
+.fk-inline-desc p{margin:0 0 14px}
+.fk-inline-pencil{border:0;background:none;display:grid;place-items:center;color:#c6d2e3;font-size:18px;width:34px;height:34px;border-radius:9px;cursor:pointer;flex:none}
+.fk-inline-pencil:hover,.fk-inline-pencil:focus-visible{background:var(--surface-3)}
+.fk-inline-form{display:grid;gap:10px;min-width:0;flex:1;width:100%}
+.fk-inline-form input,.fk-inline-form textarea{width:100%;min-width:0;background:#0b0d12;color:var(--text);border:1px solid #526079;border-radius:10px;padding:10px;resize:vertical}
+.fk-inline-controls{display:flex;gap:8px;flex-wrap:wrap}
+.fk-inline-controls .button{min-height:38px;padding:7px 11px;font-size:12px}
+.fk-close-icon{height:19px;width:19px;display:block}
+.icon-button:has(.fk-close-icon){padding:0;line-height:1}
+.fk-diagnostic-toggle{margin-top:9px;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.fk-diagnostic-toggle summary{padding:11px 14px;color:var(--muted);font-size:12px;cursor:pointer}
+.fk-diagnostic-toggle .diagnostics-card{margin:0;border:0;border-radius:0;box-shadow:none}
+#backupStatusCard{padding:13px;margin:9px 0}
+#backupStatusCard .settings-status-grid>div{padding:7px}
+#episodeViewSetting{min-width:0;width:100%;overflow:visible;display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}
+#episodeViewSetting button{min-width:0;white-space:nowrap;padding:9px 5px;text-align:center;font-size:12px}
+.settings-group .settings-card{padding:15px;margin:9px 0}
+.settings-select{min-width:0;max-width:100%}
+.settings-select select{min-width:0;max-width:100%;width:100%}
+.fk-refresh-icon,.fk-trash-icon{width:20px;height:20px;display:block}
+#refreshMetadata:disabled .fk-refresh-icon,#resetCatalog:disabled .fk-refresh-icon{animation:fkRefreshSpin .75s linear infinite}
+@keyframes fkRefreshSpin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){#refreshMetadata:disabled .fk-refresh-icon,#resetCatalog:disabled .fk-refresh-icon{animation:none}}
+@media(max-width:680px){.fk-playlist-collections .playlist-grid{grid-template-columns:1fr}}
